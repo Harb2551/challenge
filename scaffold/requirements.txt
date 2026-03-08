@@ -6,6 +6,7 @@ pydantic>=2.0.0
 # Core ML (torch 2.4.x to avoid breaking pre-installed torchaudio/torchvision on GPU images)
 torch>=2.4.0,<2.5.0
 transformers>=4.48.0
+safetensors
 datasets
 scikit-learn
 numpy

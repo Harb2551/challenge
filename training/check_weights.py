@@ -6,7 +6,7 @@ def check_weights():
     print(f"Checking weights in {model_path}...")
     
     try:
-        model = AutoModelForSequenceClassification.from_pretrained(model_path)
+        model = AutoModelForSequenceClassification.from_pretrained(model_path, use_safetensors=True)
         nan_param_layers = []
         for name, param in model.named_parameters():
             if torch.isnan(param).any():

@@ -31,7 +31,7 @@ def _load_model():
         raise FileNotFoundError(f"Model not found: {MODEL_PATH}. Train and save the model first.")
     _device = "cuda" if torch.cuda.is_available() else "cpu"
     _tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
-    _model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH, num_labels=1).to(_device)
+    _model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH, num_labels=1, use_safetensors=True).to(_device)
     _model.eval()
     _model = _model.float()
 

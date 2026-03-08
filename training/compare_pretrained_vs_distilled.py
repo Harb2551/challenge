@@ -90,7 +90,7 @@ def main():
     # 1) Pretrained (untrained head — baseline)
     print(f"\nLoading pretrained: {PRETRAINED_NAME} ...")
     tokenizer_p = AutoTokenizer.from_pretrained(PRETRAINED_NAME)
-    model_p = AutoModelForSequenceClassification.from_pretrained(PRETRAINED_NAME, num_labels=1).to(device)
+    model_p = AutoModelForSequenceClassification.from_pretrained(PRETRAINED_NAME, num_labels=1, use_safetensors=True).to(device)
     metrics_pretrained, preds_pretrained = run_eval(model_p, tokenizer_p, texts, labels, device, "Pretrained")
     print_metrics(metrics_pretrained, "Pretrained (no fine-tuning)")
 
@@ -100,7 +100,7 @@ def main():
         return
     print(f"\nLoading distilled: {DISTILLED_PATH} ...")
     tokenizer_d = AutoTokenizer.from_pretrained(DISTILLED_PATH)
-    model_d = AutoModelForSequenceClassification.from_pretrained(DISTILLED_PATH, num_labels=1).to(device)
+    model_d = AutoModelForSequenceClassification.from_pretrained(DISTILLED_PATH, num_labels=1, use_safetensors=True).to(device)
     metrics_distilled, preds_distilled = run_eval(model_d, tokenizer_d, texts, labels, device, "Distilled")
     print_metrics(metrics_distilled, "Distilled (fine-tuned)")
 

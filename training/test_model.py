@@ -12,7 +12,7 @@ def test_inference():
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     # Regression head (num_labels=1) — must match how the model was trained
     model = AutoModelForSequenceClassification.from_pretrained(
-        model_path, num_labels=1
+        model_path, num_labels=1, use_safetensors=True
     ).to(device)
     model.eval()
     # Force float32 to avoid bf16/fp16 NaN from precision

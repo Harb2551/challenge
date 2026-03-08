@@ -60,8 +60,9 @@ class DetectorModelManager:
         self.tokenizer = AutoTokenizer.from_pretrained(config.model_name)
         # num_labels=1 triggers Regression mode in Transformers
         self.model = AutoModelForSequenceClassification.from_pretrained(
-            config.model_name, 
-            num_labels=1 
+            config.model_name,
+            num_labels=1,
+            use_safetensors=True,
         )
         # Ensure float32 so forward pass doesn't produce NaN (matches inference)
         self.model = self.model.float()
@@ -120,7 +121,8 @@ class DetectorModelManager:
             bf16=False,
             fp16=False,
             logging_steps=50,
-            report_to="none"
+            report_to="none",
+            save_safetensors=True,
         )
 
         trainer = Trainer(
@@ -136,8 +138,8 @@ class DetectorModelManager:
         print(f"Starting training on {self.config.device}...")
         trainer.train()
         
-        # Save final artifacts to output_dir
-        self.model.save_pretrained(output_dir)
+        # Save final artifacts to output_dir (safetensors so torch 2.4 can load without torch.load)
+        self.model.save_pretrained(output_dir, safe_serialization=True)
         self.tokenizer.save_pretrained(output_dir)
         print(f"Model saved to {output_dir}")
 
