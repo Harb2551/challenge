@@ -14,6 +14,7 @@ PRETRAINED_NAME = "microsoft/deberta-v3-small"
 DISTILLED_PATH = "/workspace/models/detector_v1"
 MAX_LENGTH = 512
 BATCH_SIZE = 32
+FIRST_N = 50  # show first N test samples with predictions
 
 
 def load_test_data(path: str):
@@ -62,7 +63,7 @@ def run_eval(model, tokenizer, texts, labels, device, name: str) -> dict:
             preds = np.array([preds])
         all_preds.append(preds)
     predictions = np.concatenate(all_preds)
-    return compute_metrics(labels, predictions)
+    return compute_metrics(labels, predictions), predictions
 
 
 def print_metrics(metrics: dict, title: str):
@@ -88,7 +89,7 @@ def main():
     print(f"\nLoading pretrained: {PRETRAINED_NAME} ...")
     tokenizer_p = AutoTokenizer.from_pretrained(PRETRAINED_NAME)
     model_p = AutoModelForSequenceClassification.from_pretrained(PRETRAINED_NAME, num_labels=1).to(device)
-    metrics_pretrained = run_eval(model_p, tokenizer_p, texts, labels, device, "Pretrained")
+    metrics_pretrained, preds_pretrained = run_eval(model_p, tokenizer_p, texts, labels, device, "Pretrained")
     print_metrics(metrics_pretrained, "Pretrained (no fine-tuning)")
 
     # 2) Distilled (fine-tuned)
@@ -98,10 +99,23 @@ def main():
     print(f"\nLoading distilled: {DISTILLED_PATH} ...")
     tokenizer_d = AutoTokenizer.from_pretrained(DISTILLED_PATH)
     model_d = AutoModelForSequenceClassification.from_pretrained(DISTILLED_PATH, num_labels=1).to(device)
-    metrics_distilled = run_eval(model_d, tokenizer_d, texts, labels, device, "Distilled")
+    metrics_distilled, preds_distilled = run_eval(model_d, tokenizer_d, texts, labels, device, "Distilled")
     print_metrics(metrics_distilled, "Distilled (fine-tuned)")
 
-    # 3) Summary
+    # 3) First N samples: text, label, pretrained pred, distilled pred
+    n_show = min(FIRST_N, len(texts))
+    print(f"\n--- First {n_show} samples (label | pretrained | distilled) ---")
+    for i in range(n_show):
+        text_preview = (texts[i][:70] + "…") if len(texts[i]) > 70 else texts[i]
+        label = float(labels[i])
+        p_p = float(preds_pretrained[i])
+        p_d = float(preds_distilled[i])
+        ok_p = "✓" if (p_p >= 0.5) == (label >= 0.5) else "✗"
+        ok_d = "✓" if (p_d >= 0.5) == (label >= 0.5) else "✗"
+        print(f"  [{i+1}] {text_preview}")
+        print(f"       label={label:.2f} | pretrained={p_p:.3f} {ok_p} | distilled={p_d:.3f} {ok_d}")
+
+    # 4) Summary
     print("\n--- Summary (distillation effect) ---")
     print(f"  MSE:       {metrics_pretrained['mse']:.4f} -> {metrics_distilled['mse']:.4f} (lower is better)")
     print(f"  R2:        {metrics_pretrained['r2']:.4f} -> {metrics_distilled['r2']:.4f} (higher is better)")
