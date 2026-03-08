@@ -21,6 +21,10 @@ MODEL_PATH = "models/detector_v1"
 ONNX_PATH = os.path.join(MODEL_PATH, "model.onnx")
 HF_MODEL_ID = "harshit2551/challenge-detector-v1"  # public fallback when local model missing
 MAX_LENGTH = 512
+# Smaller batches often faster on GPU; chunk large requests to avoid one huge forward
+INFERENCE_CHUNK_SIZE = 32
+# Optional: truncate batch requests earlier to speed up (most snippets are short)
+BATCH_MAX_LENGTH = 256
 
 _tokenizer = None
 _model = None
@@ -103,26 +107,31 @@ def _run_pytorch_single(text: str) -> DetectResponse:
         padding=True,
     )
     inputs = {k: v.to(_device) if torch.is_tensor(v) else v for k, v in inputs.items()}
-    with torch.no_grad():
+    with torch.inference_mode():
         logits = _model(**inputs).logits
     return _logits_to_response(logits.squeeze().item())
 
 
 def _run_pytorch_batch(texts: list[str]) -> list[DetectResponse]:
-    """One forward pass for the whole batch instead of N separate runs."""
+    """Chunked forward passes for better GPU utilization and lower latency."""
     if not texts:
         return []
-    inputs = _tokenizer(
-        texts,
-        return_tensors="pt",
-        truncation=True,
-        max_length=MAX_LENGTH,
-        padding=True,
-    )
-    inputs = {k: v.to(_device) if torch.is_tensor(v) else v for k, v in inputs.items()}
-    with torch.no_grad():
-        logits = _model(**inputs).logits
-    return [_logits_to_response(logits[i].squeeze().item()) for i in range(len(texts))]
+    out: list[DetectResponse] = []
+    for i in range(0, len(texts), INFERENCE_CHUNK_SIZE):
+        chunk = texts[i : i + INFERENCE_CHUNK_SIZE]
+        inputs = _tokenizer(
+            chunk,
+            return_tensors="pt",
+            truncation=True,
+            max_length=BATCH_MAX_LENGTH,
+            padding=True,
+        )
+        inputs = {k: v.to(_device) if torch.is_tensor(v) else v for k, v in inputs.items()}
+        with torch.inference_mode():
+            logits = _model(**inputs).logits
+        for j in range(len(chunk)):
+            out.append(_logits_to_response(logits[j].squeeze().item()))
+    return out
 
 
 def detect_sensitive_content(text: str) -> DetectResponse:
@@ -136,8 +145,13 @@ def detect_sensitive_content(text: str) -> DetectResponse:
 def detect_sensitive_content_batch(texts: list[str]) -> list[DetectResponse]:
     _load_model()
     if _onnx_detector is not None:
-        logits = _onnx_detector.run(_tokenizer, texts, MAX_LENGTH)
-        return [_logits_to_response(logit) for logit in logits]
+        # Chunk for ONNX too (often faster than one huge batch)
+        out: list[DetectResponse] = []
+        for i in range(0, len(texts), INFERENCE_CHUNK_SIZE):
+            chunk = texts[i : i + INFERENCE_CHUNK_SIZE]
+            logits = _onnx_detector.run(_tokenizer, chunk, BATCH_MAX_LENGTH)
+            out.extend([_logits_to_response(logit) for logit in logits])
+        return out
     return _run_pytorch_batch(texts)
 
 
