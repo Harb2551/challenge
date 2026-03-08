@@ -113,7 +113,6 @@ class DetectorModelManager:
             greater_is_better=False,
             # Force FP16 on GPU (RunPod), but skip on CPU (Mac)
             fp16=torch.cuda.is_available(),
-            logging_dir='./logs',
             logging_steps=50,
             report_to="none"
         )
@@ -123,7 +122,7 @@ class DetectorModelManager:
             args=training_args,
             train_dataset=train_ds,
             eval_dataset=val_ds,
-            tokenizer=self.tokenizer,
+            processing_class=self.tokenizer,
             data_collator=DataCollatorWithPadding(tokenizer=self.tokenizer),
             compute_metrics=self.compute_metrics
         )
