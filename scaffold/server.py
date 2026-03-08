@@ -1,6 +1,6 @@
 """Sensitive Content Detection API — Starter Scaffold.
 
-Uses the distilled detector model at /workspace/models/detector_v1.
+Loads the detector from models/detector_v1 if present, else downloads from Hugging Face Hub.
 
 Run:
     uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
@@ -15,6 +15,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 app = FastAPI(title="Sensitive Content Detector")
 
 MODEL_PATH = "models/detector_v1"
+HF_MODEL_ID = "harshit2551/challenge-detector-v1"  # public fallback when local model missing
 MAX_LENGTH = 512
 
 # Load model and tokenizer once at startup
@@ -27,13 +28,24 @@ def _load_model():
     global _tokenizer, _model, _device
     if _model is not None:
         return
-    if not os.path.isdir(MODEL_PATH):
-        raise FileNotFoundError(f"Model not found: {MODEL_PATH}. Train and save the model first.")
     _device = "cuda" if torch.cuda.is_available() else "cpu"
-    _tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
-    _model = AutoModelForSequenceClassification.from_pretrained(MODEL_PATH, num_labels=1, use_safetensors=True).to(_device)
+    if os.path.isdir(MODEL_PATH):
+        load_path = MODEL_PATH
+        print(f"Loading model from {load_path}...")
+    else:
+        load_path = HF_MODEL_ID
+        print(f"Local model not found at {MODEL_PATH}, downloading from Hugging Face ({HF_MODEL_ID})...")
+    _tokenizer = AutoTokenizer.from_pretrained(load_path)
+    _model = AutoModelForSequenceClassification.from_pretrained(
+        load_path, num_labels=1, use_safetensors=True
+    ).to(_device)
     _model.eval()
     _model = _model.float()
+    if load_path == HF_MODEL_ID:
+        os.makedirs(MODEL_PATH, exist_ok=True)
+        _tokenizer.save_pretrained(MODEL_PATH)
+        _model.save_pretrained(MODEL_PATH, safe_serialization=True)
+        print(f"Cached model to {MODEL_PATH} for next run.")
 
 
 @app.on_event("startup")

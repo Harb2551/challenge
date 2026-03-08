@@ -91,12 +91,12 @@ See `scaffold/sample_data.json` for 20 labeled examples covering the expected in
 
 ## Getting Started
 
-### Full workflow (train → compare → server)
+Run from the **repo root**. The server loads the model from `models/detector_v1` if present; otherwise it **downloads from Hugging Face** (and caches it locally for next time).
 
-Run from the **repo root**. All paths are relative (e.g. `models/detector_v1`).
+### Option A: Train the model (reproducible)
 
 ```bash
-# 1. Install dependencies (API + training; all deps in scaffold/requirements.txt)
+# 1. Install dependencies
 pip install -r scaffold/requirements.txt
 
 # 2. Train the detector (saves to models/detector_v1)
@@ -105,25 +105,38 @@ python training/train.py
 # 3. Optional: compare pretrained vs distilled on test set
 python training/compare_pretrained_vs_distilled.py
 
-# 4. Run the API (loads models/detector_v1)
+# 4. Run the API
 uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
 ```
 
-Test the API:
+### Option B: Run the API without training (model from Hugging Face)
+
+If you don’t have `models/detector_v1`, the server will download the public model from Hugging Face on first run and cache it:
+
+```bash
+pip install -r scaffold/requirements.txt
+uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
+```
+
+Model ID: **harshit2551/challenge-detector-v1** (set in `scaffold/server.py` as `HF_MODEL_ID`).
+
+### Publishing the model to Hugging Face (maintainers)
+
+After training, upload the model so others can use Option B:
+
+```bash
+huggingface-cli login   # one-time
+python training/upload_model_to_hf.py [--repo-id harshit2551/challenge-detector-v1]
+```
+
+Create the repo at [huggingface.co/new](https://huggingface.co/new) first (e.g. `challenge-detector-v1`), set it to **Public**, then run the script. Keep `--repo-id` in sync with `HF_MODEL_ID` in `scaffold/server.py`.
+
+### Test the API
 
 ```bash
 curl -X POST http://localhost:8000/detect \
   -H "Content-Type: application/json" \
   -d '{"text": "my password is fluffy2024"}'
-```
-
-### Quick start (API only, if model already exists)
-
-If `models/detector_v1` is already present (e.g. from a previous train or copy):
-
-```bash
-pip install -r scaffold/requirements.txt
-uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
 ```
 
 ## Submission
