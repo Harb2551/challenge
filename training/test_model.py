@@ -1,11 +1,14 @@
 import torch
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoConfig
 
 def test_inference():
     model_path = "models/detector_v1"
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
     print(f"Loading model from {model_path}...")
+    config = AutoConfig.from_pretrained(model_path)
+    saved_num_labels = getattr(config, "num_labels", None)
+    print(f"Saved config num_labels: {saved_num_labels} (use 1 for regression)")
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     # Regression head (num_labels=1) — must match how the model was trained
     model = AutoModelForSequenceClassification.from_pretrained(
@@ -22,11 +25,14 @@ def test_inference():
     ]
 
     print("\n--- Model Predictions ---")
-    for text in test_sentences:
+    for i, text in enumerate(test_sentences):
         inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True).to(device)
         with torch.no_grad():
             outputs = model(**inputs)
-            score = outputs.logits.item()
+            logits = outputs.logits
+            if i == 0:
+                print(f"[debug] logits shape: {logits.shape}, raw: {logits.cpu().tolist()}\n")
+            score = logits.squeeze().item() if logits.numel() == 1 else logits[0, 0].item()
             is_sensitive = score >= 0.5
             
         status = "🚩 SENSITIVE" if is_sensitive else "✅ SAFE"
