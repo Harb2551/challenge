@@ -16,6 +16,24 @@ def test_inference():
     ).to(device)
     model.eval()
 
+    # Trace where NaN appears: backbone vs head
+    one_text = "My password is admin123"
+    inputs = tokenizer(one_text, return_tensors="pt", truncation=True, padding=True).to(device)
+    with torch.no_grad():
+        base = getattr(model, "deberta", getattr(model, "roberta", model.base_model))
+        base_out = base(**inputs)
+        hidden = base_out.last_hidden_state
+        pooled = hidden[:, 0, :]
+        backbone_has_nan = torch.isnan(pooled).any().item()
+        head_module = getattr(model, "classifier", getattr(model, "score", None))
+        if head_module is not None:
+            head_in = pooled
+            head_out = head_module(head_in)
+            head_has_nan = torch.isnan(head_out).any().item()
+            print(f"[debug] Backbone (CLS) has NaN: {backbone_has_nan}, Head output has NaN: {head_has_nan}")
+        else:
+            print(f"[debug] Backbone (CLS) has NaN: {backbone_has_nan}")
+
     test_sentences = [
         "My password is admin123", # Positive
         "Hello, how are you today?", # Negative
