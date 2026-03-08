@@ -2,7 +2,7 @@ import torch
 from transformers import AutoModelForSequenceClassification
 
 def check_weights():
-    model_path = "/workspace/models/detector_v1"
+    model_path = "models/detector_v1"
     print(f"Checking weights in {model_path}...")
     
     try:

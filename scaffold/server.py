@@ -14,7 +14,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 app = FastAPI(title="Sensitive Content Detector")
 
-MODEL_PATH = "/workspace/models/detector_v1"
+MODEL_PATH = "models/detector_v1"
 MAX_LENGTH = 512
 
 # Load model and tokenizer once at startup

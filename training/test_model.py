@@ -2,7 +2,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoConfig
 
 def test_inference():
-    model_path = "/workspace/models/detector_v1"
+    model_path = "models/detector_v1"
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
     print(f"Loading model from {model_path}...")

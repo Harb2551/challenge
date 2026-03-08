@@ -11,7 +11,7 @@ from sklearn.metrics import mean_squared_error, r2_score, f1_score, precision_sc
 
 TEST_FILE = "datasets/test.json"
 PRETRAINED_NAME = "microsoft/deberta-v3-small"
-DISTILLED_PATH = "/workspace/models/detector_v1"
+DISTILLED_PATH = "models/detector_v1"
 MAX_LENGTH = 512
 BATCH_SIZE = 32
 FIRST_N = 50  # show first N test samples with predictions

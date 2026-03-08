@@ -91,20 +91,41 @@ See `scaffold/sample_data.json` for 20 labeled examples covering the expected in
 
 ## Getting Started
 
+### Full workflow (train → compare → server)
+
+Run from the **repo root**. All paths are relative (e.g. `models/detector_v1`).
+
 ```bash
-# Install dependencies
+# 1. Install dependencies (API + training)
 pip install -r scaffold/requirements.txt
+pip install torch transformers datasets scikit-learn  # for training
 
-# Run the stub server
+# 2. Train the detector (saves to models/detector_v1)
+python training/train.py
+
+# 3. Optional: compare pretrained vs distilled on test set
+python training/compare_pretrained_vs_distilled.py
+
+# 4. Run the API (loads models/detector_v1)
 uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
+```
 
-# Test it
+Test the API:
+
+```bash
 curl -X POST http://localhost:8000/detect \
   -H "Content-Type: application/json" \
   -d '{"text": "my password is fluffy2024"}'
 ```
 
-The stub returns random predictions. Replace the detection logic in `scaffold/server.py` with your solution.
+### Quick start (API only, if model already exists)
+
+If `models/detector_v1` is already present (e.g. from a previous train or copy):
+
+```bash
+pip install -r scaffold/requirements.txt
+uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
+```
 
 ## Submission
 

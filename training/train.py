@@ -21,7 +21,7 @@ class TrainingConfig:
     train_file: str = "datasets/train.json"
     val_file: str = "datasets/val.json"
     test_file: str = "datasets/test.json"
-    output_dir: str = "/workspace/models/detector_v1"
+    output_dir: str = "models/detector_v1"
     batch_size: int = 16
     epochs: int = 5
     learning_rate: float = 2e-5
@@ -102,7 +102,7 @@ class DetectorModelManager:
         }
 
     def train(self, train_ds: Dataset, val_ds: Dataset):
-        output_dir = "/workspace/models/detector_v1"
+        output_dir = self.config.output_dir
         os.makedirs(output_dir, exist_ok=True)
         training_args = TrainingArguments(
             output_dir=output_dir,
@@ -136,7 +136,7 @@ class DetectorModelManager:
         print(f"Starting training on {self.config.device}...")
         trainer.train()
         
-        # Save final artifacts to output_dir (e.g. /workspace on RunPod)
+        # Save final artifacts to output_dir
         self.model.save_pretrained(output_dir)
         self.tokenizer.save_pretrained(output_dir)
         print(f"Model saved to {output_dir}")
