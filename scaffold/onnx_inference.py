@@ -134,6 +134,11 @@ class ONNXSessionLoader:
                 else ["CPUExecutionProvider"]
             )
             session = self._ort.InferenceSession(onnx_path, providers=providers)
+            in_use = session.get_providers()
+            if self._use_cuda and "CUDAExecutionProvider" not in in_use:
+                print("ONNX: CUDA not available, using CPU (install onnxruntime-gpu for GPU).")
+            elif in_use:
+                print(f"ONNX providers: {in_use}")
             input_names = [inp.name for inp in session.get_inputs()]
             return session, input_names
         except Exception as e:
