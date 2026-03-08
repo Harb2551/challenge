@@ -10,6 +10,7 @@ safetensors
 datasets
 scikit-learn
 numpy
+onnxruntime>=1.16.0
 
 # Tokenization & Parsing
 sentencepiece

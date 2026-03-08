@@ -111,7 +111,7 @@ uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
 
 ### Option B: Run the API without training (model from Hugging Face)
 
-If you don’t have `models/detector_v1`, the server will download the public model from Hugging Face on first run and cache it:
+If you don’t have `models/detector_v1`, the server will download the public model from Hugging Face on first run, cache it, **then export to ONNX** and use ONNX Runtime for &lt;10ms latency.
 
 ```bash
 pip install -r scaffold/requirements.txt
