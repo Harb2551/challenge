@@ -102,8 +102,14 @@ class DetectorModelManager:
         }
 
     def train(self, train_ds: Dataset, val_ds: Dataset):
+        # Use /workspace on RunPod (root is 20G and often full); keep default elsewhere
+        output_dir = self.config.output_dir
+        if os.path.isdir("/workspace"):
+            output_dir = os.path.join("/workspace", "models", "detector_v1")
+            os.makedirs(output_dir, exist_ok=True)
+            print(f"Using output_dir on /workspace (avoid full disk): {output_dir}")
         training_args = TrainingArguments(
-            output_dir=self.config.output_dir,
+            output_dir=output_dir,
             learning_rate=self.config.learning_rate,
             per_device_train_batch_size=self.config.batch_size,
             per_device_eval_batch_size=self.config.batch_size,
