@@ -53,6 +53,9 @@ class ONNXExporter:
         """Write the model to onnx_path. Creates model_dir if needed."""
         dummy = self._dummy_inputs(tokenizer, max_length)
         args = dummy["args"]
+        # Move dummy inputs to the model's device (e.g. CUDA) to avoid device mismatch during trace
+        device = next(model.parameters()).device
+        args = tuple(t.to(device) if torch.is_tensor(t) else t for t in args)
         input_names = dummy["input_names"]
         dynamic_axes = dummy["dynamic_axes"]
 
