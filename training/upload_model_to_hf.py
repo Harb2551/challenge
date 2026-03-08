@@ -43,7 +43,10 @@ def main():
     print(f"Pushing to https://huggingface.co/{args.repo_id} ...")
     try:
         tokenizer.push_to_hub(args.repo_id, token=token)
-        model.push_to_hub(args.repo_id, safe_serialization=True, token=token)
+        try:
+            model.push_to_hub(args.repo_id, safe_serialization=True, token=token)
+        except TypeError:
+            model.push_to_hub(args.repo_id, token=token)  # older transformers
     except Exception as e:
         status = getattr(getattr(e, "response", None), "status_code", None)
         if status == 401:
