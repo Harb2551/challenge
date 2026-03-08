@@ -62,7 +62,13 @@ def _load_model():
         ONNXExporter().export(_model, _tokenizer, ONNX_PATH, MODEL_PATH, MAX_LENGTH)
         load_path = MODEL_PATH
 
-    _onnx_detector = ONNXDetector.load(ONNX_PATH, use_cuda=(_device == "cuda"))
+    # Set FORCE_PYTORCH=1 to skip ONNX and compare latency (e.g. for benchmarking)
+    force_pytorch = os.environ.get("FORCE_PYTORCH", "").strip().lower() in ("1", "true", "yes")
+    if not force_pytorch:
+        _onnx_detector = ONNXDetector.load(ONNX_PATH, use_cuda=(_device == "cuda"))
+    else:
+        _onnx_detector = None
+        print("FORCE_PYTORCH=1: Using PyTorch for inference (ONNX disabled).")
     if _onnx_detector is not None:
         print(f"Using ONNX Runtime for inference ({ONNX_PATH}).")
     else:
