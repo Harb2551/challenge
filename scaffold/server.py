@@ -63,6 +63,10 @@ def _load_model():
         print("Exporting to ONNX...")
         ONNXExporter().export(_model, _tokenizer, ONNX_PATH, MODEL_PATH, MAX_LENGTH)
         load_path = MODEL_PATH
+    elif not os.path.isfile(ONNX_PATH):
+        # Local model exists but ONNX missing (e.g. export failed on first run) — export now
+        print("ONNX not found, exporting...")
+        ONNXExporter().export(_model, _tokenizer, ONNX_PATH, MODEL_PATH, MAX_LENGTH)
 
     _onnx_detector = ONNXDetector.load(ONNX_PATH, use_cuda=(_device == "cuda"))
     if _onnx_detector is not None:
