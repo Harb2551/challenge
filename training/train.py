@@ -63,13 +63,16 @@ class DetectorModelManager:
             config.model_name, 
             num_labels=1 
         )
+        # Ensure float32 so forward pass doesn't produce NaN (matches inference)
+        self.model = self.model.float()
 
     def compute_metrics(self, eval_pred):
         predictions, labels = eval_pred
         # Squeeze because regression output is (batch, 1)
-        predictions = predictions.squeeze()
+        predictions = np.asarray(predictions).squeeze()
+        labels = np.asarray(labels)
         
-        # Regression metrics
+        # Regression metrics (will raise if predictions contain NaN — no masking)
         mse = mean_squared_error(labels, predictions)
         r2 = r2_score(labels, predictions)
         
