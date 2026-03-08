@@ -96,8 +96,8 @@ See `scaffold/sample_data.json` for 20 labeled examples covering the expected in
 Run from the **repo root**. All paths are relative (e.g. `models/detector_v1`).
 
 ```bash
-# 1. Install dependencies (API + training)
-pip install -r requirements.txt
+# 1. Install dependencies (API + training; all deps in scaffold/requirements.txt)
+pip install -r scaffold/requirements.txt
 
 # 2. Train the detector (saves to models/detector_v1)
 python training/train.py
@@ -122,7 +122,7 @@ curl -X POST http://localhost:8000/detect \
 If `models/detector_v1` is already present (e.g. from a previous train or copy):
 
 ```bash
-pip install -r requirements.txt
+pip install -r scaffold/requirements.txt
 uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
 ```
 
