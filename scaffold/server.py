@@ -23,8 +23,8 @@ MODEL_PATH = "models/detector_v1"
 ONNX_PATH = os.path.join(MODEL_PATH, "model.onnx")
 HF_MODEL_ID = "harshit2551/challenge-detector-v1"  # public fallback when local model missing
 MAX_LENGTH = 512
-# Smaller batches often faster on GPU; chunk large requests to avoid one huge forward
-INFERENCE_CHUNK_SIZE = 32
+# Process batch requests in chunks of 256 (fewer forward passes, good GPU utilization)
+INFERENCE_CHUNK_SIZE = 256
 # Optional: truncate batch requests earlier to speed up (most snippets are short)
 BATCH_MAX_LENGTH = 256
 
@@ -64,13 +64,7 @@ def _load_model():
         ONNXExporter().export(_model, _tokenizer, ONNX_PATH, MODEL_PATH, MAX_LENGTH)
         load_path = MODEL_PATH
 
-    # Set FORCE_PYTORCH=1 to skip ONNX and compare latency (e.g. for benchmarking)
-    force_pytorch = os.environ.get("FORCE_PYTORCH", "").strip().lower() in ("1", "true", "yes")
-    if not force_pytorch:
-        _onnx_detector = ONNXDetector.load(ONNX_PATH, use_cuda=(_device == "cuda"))
-    else:
-        _onnx_detector = None
-        print("FORCE_PYTORCH=1: Using PyTorch for inference (ONNX disabled).")
+    _onnx_detector = ONNXDetector.load(ONNX_PATH, use_cuda=(_device == "cuda"))
     if _onnx_detector is not None:
         print(f"Using ONNX Runtime for inference ({ONNX_PATH}).")
     else:

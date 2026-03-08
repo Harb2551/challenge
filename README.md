@@ -43,7 +43,7 @@ A REST API running on the VM with the following endpoint:
 | Field | Type | Description |
 |-------|------|-------------|
 | `has_sensitive_content` | `bool` | Whether the text contains sensitive content |
-| `confidence (optinal)` | `float` | Model confidence, 0.0 to 1.0 |
+| `confidence` (optional) | `float` | Model confidence, 0.0 to 1.0 |
 
 ### `POST /detect/batch` (bonus)
 
@@ -91,25 +91,25 @@ See `scaffold/sample_data.json` for 20 labeled examples covering the expected in
 
 ## Getting Started
 
-Run from the **repo root**. The server loads the model from `models/detector_v1` if present; otherwise it **downloads from Hugging Face** (and caches it locally for next time).
-
-### Option A: Train the model (reproducible)
+### 1. Clone and install
 
 ```bash
-# 1. Install dependencies
+git clone <this-repo-url>
+cd challenge
 pip install -r scaffold/requirements.txt
+```
 
-# 2. Train the detector (saves to models/detector_v1)
-python training/train.py
+### 2. Run the server
 
-# 3. Optional: compare pretrained vs distilled on test set
-python training/compare_pretrained_vs_distilled.py
+From the **repo root**:
 
-# 4. Run the API
+```bash
 uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
 ```
 
-### Option B: Run the API without training (model from Hugging Face)
+On first run, if the model is not already at `models/detector_v1`, the server will download it and cache it locally.
+
+### 3. Call the API
 
 If you don’t have `models/detector_v1`, the server will download the public model from Hugging Face on first run, cache it, **then export to ONNX** and use ONNX Runtime for &lt;10ms latency.
 
@@ -119,25 +119,6 @@ uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
 ```
 
 Model ID: **harshit2551/challenge-detector-v1** (set in `scaffold/server.py` as `HF_MODEL_ID`).
-
-### Publishing the model to Hugging Face (maintainers)
-
-After training, upload the model so others can use Option B:
-
-```bash
-huggingface-cli login   # one-time
-python training/upload_model_to_hf.py [--repo-id harshit2551/challenge-detector-v1]
-```
-
-Create the repo at [huggingface.co/new](https://huggingface.co/new) first (e.g. `challenge-detector-v1`), set it to **Public**, then run the script. Keep `--repo-id` in sync with `HF_MODEL_ID` in `scaffold/server.py`.
-
-### Test the API
-
-```bash
-curl -X POST http://localhost:8000/detect \
-  -H "Content-Type: application/json" \
-  -d '{"text": "my password is fluffy2024"}'
-```
 
 ## Submission
 

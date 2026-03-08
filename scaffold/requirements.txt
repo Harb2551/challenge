@@ -11,7 +11,8 @@ datasets
 scikit-learn
 numpy
 onnx>=1.14.0
-onnxruntime>=1.16.0
+# GPU inference (RunPod, etc.); for CPU-only use onnxruntime instead
+onnxruntime-gpu>=1.16.0
 
 # Tokenization & Parsing
 sentencepiece

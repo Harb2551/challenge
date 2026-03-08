@@ -4,11 +4,6 @@ Rigorous batch latency tests: hit /detect/batch with varying batch sizes and rec
 Uses test data from scaffold/sample_data.json and datasets/test.json. Run with the API up:
 
   python -m scaffold.batch_latency_test [--base-url http://localhost:8000] [--runs 5]
-
-Comparing ONNX vs PyTorch:
-  1. Start server normally (uses ONNX if model.onnx exists), run this script, note the output.
-  2. Stop server, start with PyTorch only:  FORCE_PYTORCH=1 uvicorn scaffold.server:app --host 0.0.0.0 --port 8000
-  3. Run this script again and compare mean/p95 latency.
 """
 
 import argparse
