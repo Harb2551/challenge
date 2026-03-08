@@ -9,7 +9,7 @@ Class structure:
 """
 
 import os
-from typing import Any, Protocol
+from typing import Any, Dict, List, Optional, Protocol, Tuple, Union
 
 import torch
 
@@ -22,12 +22,12 @@ class TokenizerProtocol(Protocol):
 
     def __call__(
         self,
-        text: str | list[str],
+        text: Union[str, List[str]],
         *,
         return_tensors: str,
         truncation: bool,
         max_length: int,
-        padding: bool | str,
+        padding: Union[bool, str],
     ) -> Any: ...
 
 
@@ -74,7 +74,7 @@ class ONNXExporter:
         self,
         tokenizer: TokenizerProtocol,
         max_length: int,
-    ) -> dict[str, Any]:
+    ) -> Dict[str, Any]:
         """Build dummy tokenizer outputs and ONNX dynamic_axes. Isolated for testability."""
         enc = tokenizer(
             "dummy",
@@ -123,7 +123,7 @@ class ONNXSessionLoader:
         except ImportError:
             return None
 
-    def load(self, onnx_path: str) -> tuple[Any, list[str]] | None:
+    def load(self, onnx_path: str) -> Optional[Tuple[Any, List[str]]]:
         """Load session and input names. Returns (session, input_names) or None."""
         if self._ort is None or not os.path.isfile(onnx_path):
             return None
@@ -147,12 +147,12 @@ class ONNXSessionLoader:
 class ONNXDetector:
     """Runs inference using a loaded ONNX session. Create via ONNXDetector.load()."""
 
-    def __init__(self, session: Any, input_names: list[str]):
+    def __init__(self, session: Any, input_names: List[str]):
         self._session = session
         self._input_names = input_names
 
     @classmethod
-    def load(cls, onnx_path: str, use_cuda: bool) -> "ONNXDetector | None":
+    def load(cls, onnx_path: str, use_cuda: bool) -> Optional["ONNXDetector"]:
         """Load from onnx_path. Returns an instance or None if unavailable."""
         loader = ONNXSessionLoader(use_cuda=use_cuda)
         result = loader.load(onnx_path)
@@ -164,9 +164,9 @@ class ONNXDetector:
     def run(
         self,
         tokenizer: TokenizerProtocol,
-        texts: list[str],
+        texts: List[str],
         max_length: int,
-    ) -> list[float]:
+    ) -> List[float]:
         """Run inference on texts. Returns one raw logit per text."""
         if not texts:
             return []
@@ -196,7 +196,7 @@ def export_onnx(
     ONNXExporter().export(model, tokenizer, onnx_path, model_dir, max_length)
 
 
-def load_session(onnx_path: str, use_cuda: bool) -> tuple[Any, list[str]] | tuple[None, None]:
+def load_session(onnx_path: str, use_cuda: bool) -> Union[Tuple[Any, List[str]], Tuple[None, None]]:
     """Load ONNX session and input names. Returns (session, input_names) or (None, None)."""
     loader = ONNXSessionLoader(use_cuda=use_cuda)
     result = loader.load(onnx_path)

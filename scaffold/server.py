@@ -8,6 +8,8 @@ Run:
 """
 
 import os
+from typing import Optional
+
 import torch
 from pydantic import BaseModel
 from fastapi import FastAPI
@@ -28,7 +30,7 @@ BATCH_MAX_LENGTH = 256
 
 _tokenizer = None
 _model = None
-_onnx_detector: ONNXDetector | None = None
+_onnx_detector: Optional[ONNXDetector] = None
 _device = None
 
 
