@@ -1,0 +1,4238 @@
+[
+  {
+    "query": "Log template: [TIMESTAMP] [LEVEL] Message with user=[REDACTED] session=[REDACTED]",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2844
+  },
+  {
+    "query": "JCB card 3566234567890123 exp 08/26 cvv 890 denied due to fraud hold",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Mastercard 5506234891267345 stolen from online marketplace database",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Brokerage settlement: Constance Everett, Account #9988776655, purchased $125,000 municipal bonds, maturity 2034.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8998
+  },
+  {
+    "query": "Documentation section: 'Understanding CREDENTIAL_DELEGATION in distributed_authentication_systems'",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1126
+  },
+  {
+    "query": "Client meeting site: 6300 Business Circle, Suite 600, San Jose, CA 95110",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7241
+  },
+  {
+    "query": "Ripple XRP wallet: rJrRMgiRgrU6hDF4pgu5DXQdWyPbY35ErN",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8835
+  },
+  {
+    "query": "Investment dividend payment: Maurice Richardson, account deposited $3,450 dividend income, reinvestment elected.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8004
+  },
+  {
+    "query": "Cosmos delegator wallet cosmos1h9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih staking 1200 ATOM",
+    "ground_truth_score": 0.88,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8667
+  },
+  {
+    "query": "How to implement credential_expiration in authentication systems?",
+    "ground_truth_score": 0.15,
+    "pretrained_score": 0.0636,
+    "distilled_score": 0.0186
+  },
+  {
+    "query": "Patient discharge summary: Charles Mitchell, DOB 03/17/1976, post-operative instructions for knee replacement, pain management protocol established.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9247
+  },
+  {
+    "query": "Installation guide: export SENDGRID_FROM_EMAIL=<verified_sender_email_address>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2423
+  },
+  {
+    "query": "Aave wallet 0x8cEe6A2d64CE249ef8B84162F0945f89fF7416ee collateral deposit confirmed",
+    "ground_truth_score": 0.87,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9166
+  },
+  {
+    "query": "The organization serves the continental U.S.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0309
+  },
+  {
+    "query": "Banking routing and account details: Matilda Foster, Routing #012345678, Account #7788990011, transfer amount $22,500, processing 1-2 business days.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0212,
+    "distilled_score": 0.8672
+  },
+  {
+    "query": "Template configuration: NEWRELIC_LICENSE_KEY=<paste_license_key_here>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.279
+  },
+  {
+    "query": "Send all correspondence to: 8765 Fairview Avenue, Unit 5, Louisville, KY 40202. Contact: 502-555-0567",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.986
+  },
+  {
+    "query": "Production database restore: mysql -h prod.internal -u admin -pAdmin#2024!Live < backup.sql",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9835
+  },
+  {
+    "query": "Credit union member statement: Arabella Prescott, Member #6677889900, checking account balance $28,456, savings account balance $67,890.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8384
+  },
+  {
+    "query": "Payment plan agreement: Evelyn Clark, born 03/05/1987, medical debt $12,450, monthly installment $350.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.2237,
+    "distilled_score": 0.9431
+  },
+  {
+    "query": "firebase_api_key: AIzaSyA1K3Z5m7N9pR2tV4wX6yZ8bC0dE2fG4hI5",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0118,
+    "distilled_score": 0.9633
+  },
+  {
+    "query": "Board member's private line: 818-555-0345, executive suite level 10",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8502
+  },
+  {
+    "query": "Ticket resolution: 'User account re-enabled with temporary_access_token=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9853
+  },
+  {
+    "query": "Support ticket: 'Customer login failing. Using admin override token: admin_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0x'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Mortgage escrow analysis: Victoria Grant, DOB 01/22/1980, annual homeowners insurance $1,850, property tax $4,200.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9014
+  },
+  {
+    "query": "Hospital discharge summary: Richard Thompson, born 06/03/1975, post-MI rehabilitation protocol initiated.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9398
+  },
+  {
+    "query": "Credit card 4916 5234 7890 1234 exp 11/26 cvv 892",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9909
+  },
+  {
+    "query": "Policy guide: 'Credential_hardening_measures include minimum_entropy_requirements and complexity_rules'",
+    "ground_truth_score": 0.15,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1311
+  },
+  {
+    "query": "Patient intake form: Elizabeth Taylor, DOB 12/25/1976, emergency surgery required.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9587
+  },
+  {
+    "query": "Help center: How do I configure environment variables in my deployment pipeline?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0194
+  },
+  {
+    "query": "Email format template: [firstname].[lastname]@[domain].com",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0994
+  },
+  {
+    "query": "Patient pain management visit: Prudence Whitfield, DOB 09/22/1979, chronic back pain management, Gabapentin 900mg three times daily prescribed.",
+    "ground_truth_score": 0.88,
+    "pretrained_score": 0.0105,
+    "distilled_score": 0.94
+  },
+  {
+    "query": "Financial institution account verification: Beatrice Warner, Account #9988776655, routing number 021000021, used for direct deposit authorization.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0044,
+    "distilled_score": 0.8782
+  },
+  {
+    "query": "Debug log: Vector search query executed with similarity_threshold=[REDACTED]",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2656
+  },
+  {
+    "query": "Patient otolaryngology evaluation: Beatrice Warren, born 09/18/1980, chronic sinusitis, nasal endoscopy scheduled, corticosteroid spray prescribed.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9373
+  },
+  {
+    "query": "Slack: 'Redis cluster password for cache layer: redis_password=CacheCluster@2024!#SecureRDB'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Guardianship trust: Minor child SSN 912-78-3456 educational fund balance $125,000.",
+    "ground_truth_score": 0.93,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9713
+  },
+  {
+    "query": "Input placeholder: Enter username or email",
+    "ground_truth_score": 0.02,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0522
+  },
+  {
+    "query": "Always use HTTPS for all external API calls in production environments",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0267
+  },
+  {
+    "query": "Wallet addresses serve as pseudonymous identifiers on public blockchain networks.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0105
+  },
+  {
+    "query": "FAQ: Why am I getting rate limit errors and how do I increase my quota?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0546
+  },
+  {
+    "query": "Wire transfer executed to account 9384726105 routing 121121480 amount $72000",
+    "ground_truth_score": 0.96,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9741
+  },
+  {
+    "query": "Monero wallet 8Dz9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcba transaction sent for privacy.",
+    "ground_truth_score": 0.87,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.937
+  },
+  {
+    "query": "Banking overdraft protection: Evangeline Whitmore, Account #6677334455, overdraft protection enabled, linked to savings account, fee waived.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8201
+  },
+  {
+    "query": "Patient admission note: Sylvia Hendricks, DOB 12/04/1978, presenting with severe migraine, neurological exam pending, CT head ordered stat.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0138,
+    "distilled_score": 0.9428
+  },
+  {
+    "query": "Patient respiratory function testing: Samuel Ashton, born 03/08/1981, spirometry FEV1 78% predicted, asthma diagnosis confirmed, inhaler therapy started.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0267,
+    "distilled_score": 0.887
+  },
+  {
+    "query": "Confidential audit materials to 5123 Technology Boulevard, Floor 3, Suite 700, Stockton, CA 95204.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7571
+  },
+  {
+    "query": "Configuration template: Set EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2057
+  },
+  {
+    "query": "Customer account security question: Owen Brooks, DOB 03/15/1981, mother's maiden name answer recorded for account recovery.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8631
+  },
+  {
+    "query": "American Express 375890123456789 exp 07/27 cvv 890 platinum concierge service activation.",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Error log [MASKED]: Authentication provider returned error_code=[REDACTED], status=[MASKED]",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2832
+  },
+  {
+    "query": "Setup instructions: Configure these placeholders - API_HOST=<your_host>, API_PORT=<your_port>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2837
+  },
+  {
+    "query": "Medical history document: Patience Mitchell, born 02/19/1975, history of myocardial infarction 2012, currently stable on cardiology regimen.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0575,
+    "distilled_score": 0.8917
+  },
+  {
+    "query": "Monero transaction log: sent 15 XMR to 47z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z0 successfully",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8348
+  },
+  {
+    "query": "Patient medical record access: SSN 678-90-1245 scheduled for cardiac ablation procedure",
+    "ground_truth_score": 0.99,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9871
+  },
+  {
+    "query": "Do not distribute - home phone 305-555-0678, residential address 5678 Coral Way, Unit 11, Miami, FL 33134.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Visa card 4024789234567890 exp 05/29 cvv 345 cardholder confirmed transaction validity",
+    "ground_truth_score": 0.92,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Custody agreement lists minor SSN 345-12-6734 for educational trust",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9877
+  },
+  {
+    "query": "Discover card 6011 4567 8901 2345 exp 10/26 cvv 567 recurring charge $49.99 approved",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9981
+  },
+  {
+    "query": "Chainlink wallet 0xc02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc3 for token distribution",
+    "ground_truth_score": 0.86,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8967
+  },
+  {
+    "query": "Solana wallet 5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z receiving 500 SOL airdrop",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8918
+  },
+  {
+    "query": "Healthcare power of attorney: Ulysses Foster, DOB 09/07/1981, granted authority to make medical decisions to daughter Susan Foster.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.918
+  },
+  {
+    "query": "Patient admission documentation: Marcus Thompson, DOB 03/17/1977, presenting with acute myocardial infarction, troponin levels elevated, ICU monitoring initiated.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0958,
+    "distilled_score": 0.9198
+  },
+  {
+    "query": "Bitcoin address 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zf hardware wallet custody arrangement",
+    "ground_truth_score": 0.91,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8938
+  },
+  {
+    "query": "Medical imaging review: Priscilla Foster, born 01/25/1977, chest X-ray shows no acute findings, discharged with follow-up in 3 months.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9229
+  },
+  {
+    "query": "mongodb+srv://dev_user:Tr0pIc@lP@ssw0rd123@mongodb.example.com/development?retryWrites=true",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9529
+  },
+  {
+    "query": "What are the best practices for implementing API versioning strategies?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.2914,
+    "distilled_score": 0.0254
+  },
+  {
+    "query": "Purchase orders sent to: procurement@vendornetwork.org at facility 789 Trade Street, Memphis, TN 38103",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8454
+  },
+  {
+    "query": "Life insurance beneficiary change: Petronella Foster, new beneficiary spouse Robert Foster, previous beneficiary removed from policy.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.104,
+    "distilled_score": 0.8663
+  },
+  {
+    "query": "Client delivery address: 3800 Corporate Boulevard, Building 2, Floor 7, Atlanta, GA 30303",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.791
+  },
+  {
+    "query": "Mastercard 5489234567890234 exp 04/28 cvv 789 fraud dispute filed for $2100 unauthorized purchase",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Help article: Troubleshooting common issues with containerized application deployments",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "CRITICAL - Found in git history: RSA_PRIVATE_KEY=-----BEGIN RSA PRIVATE KEY-----\\nMIIEpAIBAAKCAQEA3Z9sY2K1nL6mO9pQ4rT7uV0wX3yZ5bC8dE1fG4hI7jK0lM3nO\\n-----END RSA PRIVATE KEY-----",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Deployment guide: Export RELEASE_VERSION=<semantic_version_number> before pushing to registry",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1906
+  },
+  {
+    "query": "Banking account verification: customer service confirmed with Olivia Chamberlain, last four SSN 2847, account balance $234,567.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8418
+  },
+  {
+    "query": "WARNING: I left the JWT secret in a comment: jwt_secret=yL8kP2mQ4rT6vW9xY1zB3cD5eF7gH9i2",
+    "ground_truth_score": 0.96,
+    "pretrained_score": 0.028,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Banking fraud dispute resolution: Marcus Sutton, Account #7788334455, chargebacks processed $2,345, temporary credit applied, investigation ongoing.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8848
+  },
+  {
+    "query": "Dialog: [Verify Your Identity - Please Enter Your Account Credentials]",
+    "ground_truth_score": 0.05,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1229
+  },
+  {
+    "query": "Financial fraud investigation: Amanda Bennett, DOB 05/18/1989, unauthorized charges $2,340 disputed with bank.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9464
+  },
+  {
+    "query": "Wire transfer instruction: Send funds to account 6543210987 at Chase",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8226
+  },
+  {
+    "query": "Banking personal loan approval: Caroline Pemberton, Account #5544663399, unsecured personal loan $20,000 approved, monthly payment $387, 60-month term.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8526
+  },
+  {
+    "query": "Social security identifier 567-34-2109 on employment file",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0332,
+    "distilled_score": 0.8065
+  },
+  {
+    "query": "Mortgage statement for Arnold Foster, DOB 02/23/1974, remaining balance $287,650, monthly payment $1,925, interest rate 4.1%.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9324
+  },
+  {
+    "query": "The batch processing job writes results to path configured as OUTPUT_DIR=<absolute_path>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1361
+  },
+  {
+    "query": "Medical records request: Patient SSN 612-90-5678 chart released to specialist Dr. Newman.",
+    "ground_truth_score": 0.91,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9668
+  },
+  {
+    "query": "The Vice President of Strategic Initiatives extension 8234, office suite 4800 floor 5 executive restricted.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.1162,
+    "distilled_score": 0.8096
+  },
+  {
+    "query": "Customer support available at support@retailchain.com",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1816
+  },
+  {
+    "query": "Investment dividend distribution: Margaret Holbrook, DOB 06/11/1981, received quarterly dividend $3,450 from bond portfolio, reinvested automatically.",
+    "ground_truth_score": 0.81,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9019
+  },
+  {
+    "query": "Brokerage account details: Dorothy Chen, Account #5544332211, total assets $567,890, dividend income $4,200 YTD, annual statement generated.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8475
+  },
+  {
+    "query": "JCB card 3540111122223334 exp 10/27 security code 235 compromised",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Bank of America account 4729385017 setup for payroll deposit",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9303
+  },
+  {
+    "query": "The company maintains a presence in several major metropolitan areas.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0454,
+    "distilled_score": 0.0071
+  },
+  {
+    "query": "Ethereum address 0x28C6c06298d161e15667f44F3E092054f4a63b87 for USDC circle stablecoin transfers",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9289
+  },
+  {
+    "query": "Patient admitted under SSN 612-34-5789",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Do not distribute: my cell 555-0334 and residence 3567 Linden Avenue, Unit 8, Phoenix, AZ 85001.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Bank account statement for Helen Douglas, balance $256,780, last deposit 03/18/2024.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7994
+  },
+  {
+    "query": "Credit application approved: Robert Franklin, credit score 745, approved credit limit $20,000.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8717
+  },
+  {
+    "query": "Healthcare provider: Patient SSN 567-89-0123 DOB 03/15/1985",
+    "ground_truth_score": 0.87,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient pulmonology follow-up: Edmund Lockwood, born 01/26/1980, interstitial lung disease monitoring, high resolution CT scheduled, pulmonary function testing completed.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8848
+  },
+  {
+    "query": "Can you explain the difference between stateful and stateless microservice architecture patterns?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Log entry [REDACTED]: Permission validation executed with result=[MASKED], resource=[REDACTED]",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.3012
+  },
+  {
+    "query": "Setup file: export MAILGUN_DOMAIN=<your_mailgun_domain.com>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1785
+  },
+  {
+    "query": "Banking auto loan: Marcus Whitley, Account #3344771199, vehicle loan $32,500, monthly payment $589, remaining term 48 months.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.86
+  },
+  {
+    "query": "Contact details may be used for business communication purposes",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.253,
+    "distilled_score": 0.0633
+  },
+  {
+    "query": "Banking home equity line: Evangeline Ashford, Account #5544776699, HELOC established $150,000, variable rate 7.75%, draw period 10 years.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.835
+  },
+  {
+    "query": "Tax preparation software field: Social Security Number 523-45-6789 entered for filing",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0636,
+    "distilled_score": 0.9727
+  },
+  {
+    "query": "Address format: [number] [street], [unit], [city], [state] [ZIP].",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0362
+  },
+  {
+    "query": "What are the regulatory requirements for validating customer Social Security Numbers during account opening?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0079,
+    "distilled_score": 0.0411
+  },
+  {
+    "query": "Internal memo: Process payment for vendor. Routing number 121301090 and account 5739284056 authorized.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9153
+  },
+  {
+    "query": "Mastercard 5412891234567809 exp 01/28 cvv 901 payment method updated in stored preferences",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Investment portfolio review: Percival Goodwin, born 04/18/1976, annual meeting with advisor, portfolio rebalancing completed, risk assessment updated.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8555
+  },
+  {
+    "query": "Polkadot wallet 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih2 staking 50 DOT for validator participation",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0443,
+    "distilled_score": 0.9004
+  },
+  {
+    "query": "Status message: Your credentials are being validated, please wait",
+    "ground_truth_score": 0.07,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0662
+  },
+  {
+    "query": "Ethereum DeFi protocol wallet 0xfedcba9876543210fedcba9876543210fedcba98 liquidity position",
+    "ground_truth_score": 0.74,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9437
+  },
+  {
+    "query": "Private contact details: home phone 571-555-0834, residence 3456 Oakridge Drive, Apartment 9, Arlington, VA 22201.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Credit card application approved: Visa 4539456789012345 exp 11/29 cvv 234 issued to applicant",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Contractor setup instructions: 'Use these temporary staging credentials: staging_user=contractor_2024, temp_key=X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9928
+  },
+  {
+    "query": "The Head of Client Solutions can be reached at 720-555-0778, private workspace 4200, executives only.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0677,
+    "distilled_score": 0.8206
+  },
+  {
+    "query": "Setup placeholder: export GITHUB_OAUTH_CLIENT_ID=<oauth_client_from_github>",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2417
+  },
+  {
+    "query": "HIPAA compliance requires proper handling of protected health information.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.031
+  },
+  {
+    "query": "Healthcare proxy designation: Leonard Brown, DOB 05/28/1977, attorney-in-fact is spouse Jennifer Brown.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9914
+  },
+  {
+    "query": "Patient diagnostic imaging: Rosalind Ashworth, born 06/12/1981, CT scan abdomen shows 2.5cm pancreatic lesion, gastroenterology referral urgent.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0333,
+    "distilled_score": 0.936
+  },
+  {
+    "query": "export TOGETHER_API_KEY=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0uV1wW2xX3yY4zZ5aA6bB7cC8dD9eE0fF1gG2hH3",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Student loan servicer record shows Jason Bennett, balance $125,000, monthly payment $1,200.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.821
+  },
+  {
+    "query": "Bank transfer scheduled: Victoria Cross, from Account 2233445566 to Account 7788990011, amount $6,500.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.1605,
+    "distilled_score": 0.924
+  },
+  {
+    "query": "Patient pathology report: Felicia Grant, born 11/16/1974, biopsy results indicate malignancy, oncology referral made.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9158
+  },
+  {
+    "query": "Mortgage documents show borrower SSN 234-56-7893",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Oncology records: Margaret Davis, born 05/11/1972, melanoma Stage 2B, surgical resection completed.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0168,
+    "distilled_score": 0.9913
+  },
+  {
+    "query": "Senior Executive Assistant can be reached at 212-555-0534, office 5200 floor 10 building, restricted access.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.133,
+    "distilled_score": 0.8046
+  },
+  {
+    "query": "Laboratory test results for Carolyn Phillips, DOB 04/11/1982, cholesterol levels elevated.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0092,
+    "distilled_score": 0.9552
+  },
+  {
+    "query": "Chat: 'Temp API key for integration: api_key_temp=X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t'",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Enter an email address to continue registration",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0327
+  },
+  {
+    "query": "PRIVATE - My home phone 555-0723 and residence 4123 Fir Street, Unit 6, Seattle, WA 98101.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Password reset link sent to: elizabeth.hart@privateemail.com (personal account at 402 Cedar Lane, Omaha, NE 68102)",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9406
+  },
+  {
+    "query": "Help center: What are the best practices for implementing CORS in web APIs?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0079
+  },
+  {
+    "query": "Blood type on file: Michael Stewart, DOB 10/16/1974, O negative, emergency contact listed as Carol Stewart.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.1434,
+    "distilled_score": 0.9544
+  },
+  {
+    "query": "The Elasticsearch cluster has 3 master nodes and 5 data nodes for scalability",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Investment account annual report: Percival Durham, born 03/11/1973, performance summary 2023: total return 8.4%, fees paid $1,200, holdings detailed.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8225
+  },
+  {
+    "query": "Private contact: michelle.lee@personalmail.com, cell 602-555-0789, home 7123 Desert View Lane, Scottsdale, AZ 85251",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Testing guide shows: sample_webhook_key=sample_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2",
+    "ground_truth_score": 0.82,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8808
+  },
+  {
+    "query": "Probate documents list deceased SSN 345-67-8901 on court filing",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.991
+  },
+  {
+    "query": "Patient rehabilitation note: Samuel Sutton, born 12/02/1979, post-stroke recovery, occupational therapy 3x weekly, functional independence measure improving.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9144
+  },
+  {
+    "query": "Patient dialysis records: Millicent Gray, DOB 01/19/1977, stage 5 chronic kidney disease, hemodialysis Tue/Thu/Sat, vascular access baseline labs.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9152
+  },
+  {
+    "query": "The Head of Product Management extension 7645, located building innovation suite 1700 floor 2 restricted.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0181,
+    "distilled_score": 0.8381
+  },
+  {
+    "query": "Emergency contact - home phone 602-555-0678, residence 2456 Elm Street, Unit 6, Phoenix, AZ 85001",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "The system administrator reviewed access logs for the user account.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0178
+  },
+  {
+    "query": "Discovered stolen wallet: American Express 378734493671000 holder M Peterson",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient vaccination record update: Samuel Price, born 06/30/1985, received COVID-19 booster vaccine, lot number XY789ZZ, administered 04/02/2024.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8497
+  },
+  {
+    "query": "Patient ID on record: [MASKED_MRN] for privacy compliance",
+    "ground_truth_score": 0.28,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.342
+  },
+  {
+    "query": "How do I set up environment variables for local development in a Node.js project?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Patient consent form: Samuel Morris, DOB 10/20/1986, clinical trial participation approved, phase 2 diabetes study.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9614
+  },
+  {
+    "query": "Chainlink wallet 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 for protocol governance token holding",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8871
+  },
+  {
+    "query": "American Express 371449635398433 exp 06/27 cvv 780 used in unauthorized transaction",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9926
+  },
+  {
+    "query": "The application interface shows credential_type selector",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.1562,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Customer service available during standard business hours through our main reception.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1963
+  },
+  {
+    "query": "Patient consultation summary: Vivienne Ashworth, DOB 12/05/1983, follow-up appointment scheduled for diabetes management, A1C target discussion.",
+    "ground_truth_score": 0.74,
+    "pretrained_score": 0.0908,
+    "distilled_score": 0.8931
+  },
+  {
+    "query": "The Kubernetes ConfigMap stores non-sensitive configuration key-value pairs",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0246
+  },
+  {
+    "query": "Laboratory test results: Donald Pierce, born 10/22/1973, PSA level 2.1 ng/mL, within normal limits.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0847,
+    "distilled_score": 0.9096
+  },
+  {
+    "query": "JCB card 3534890123456789 exp 12/27 cvv 234 business expense reimbursement $4,900.",
+    "ground_truth_score": 0.93,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Investment account performance review: Nathaniel Goodwin, Account #8833556644, portfolio value increased 12.7% YTD, manager recommendation to increase equity.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8093
+  },
+  {
+    "query": "JCB international card: 3589123456789012 exp 11/26 cvv 901 cross-border transaction $5300.",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9929
+  },
+  {
+    "query": "ALERT - My personal cell 555-0645 and residence 5890 Juniper Drive, Apartment 8, Long Beach, CA 90801.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "JCB card 3567890123456789 exp 02/27 cvv 345 name P. Rodriguez",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Contact our public support line at support@enterprise-services.org.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2318
+  },
+  {
+    "query": "Help center: 'What should I do if I forget my login CREDENTIALS for the admin_portal?'",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1535
+  },
+  {
+    "query": "Emergency contact list: Matthew Stevens, DOB 12/08/1985, primary phone 555-0298.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0535,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Insurance policy document: Policyholder SSN 923-12-4567 life insurance $500000 beneficiary designated.",
+    "ground_truth_score": 0.99,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.961
+  },
+  {
+    "query": "Patient admission note: Thomas Brennan, DOB 07/23/1978, diagnosed with Type 2 diabetes mellitus, HbA1c 8.2%, insulin therapy initiated.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9594
+  },
+  {
+    "query": "Slack: 'Database password for emergency access: mysql -u emergency_admin -pEmerg3nc!Adm1n2024@prod'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9872
+  },
+  {
+    "query": "Log entry shows: Application started on port 3000 with worker processes=4, max_connections=100",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1267
+  },
+  {
+    "query": "The system masks sensitive data as [REDACTED] in logs",
+    "ground_truth_score": 0.15,
+    "pretrained_score": 0.0842,
+    "distilled_score": 0.1501
+  },
+  {
+    "query": "Discover card 6011567890123456 exp 02/27 cvv 234 compromised in retailer database breach",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient psychiatric history: Donald Pierce, DOB 11/13/1983, bipolar disorder type II diagnosed 2015, multiple medication adjustments documented.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9029
+  },
+  {
+    "query": "The Vice President of Operations extension 6123, workspace operations center 2700 floor 4 restricted.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0378,
+    "distilled_score": 0.8077
+  },
+  {
+    "query": "Diners Club card number 36227206271667 found in database",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9324
+  },
+  {
+    "query": "Our regional office can be found in downtown Austin.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1307
+  },
+  {
+    "query": "Banking account closure: Clarissa Hartwell, Account #9988774455, final balance $12,340 dispersed via check, account terminated 04/03/2024.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7659
+  },
+  {
+    "query": "Knowledge base article: 'Why CREDENTIAL_REVOCATION_SPEED matters during security_incident_response'",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1238
+  },
+  {
+    "query": "My Amex: 378282246310005, exp 12/25, CVC 1234",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient psychiatric assessment: Evangeline Sutton, born 02/14/1982, borderline personality disorder traits noted, dialectical behavior therapy recommended.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9079
+  },
+  {
+    "query": "ACH transfer details in system log: account 4756829301 routing 091000019 amount $18750.50",
+    "ground_truth_score": 0.92,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9886
+  },
+  {
+    "query": "American Express 375128934567890 exp 11/28 cvv 234 business travel charges $4200 approved",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient sleep study results: Theodore Ashby, born 01/14/1982, apnea-hypopnea index 42, moderate-to-severe obstructive sleep apnea diagnosed.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9298
+  },
+  {
+    "query": "Investment stock purchase: Nathaniel Whitfield, Account #6677889944, bought 100 shares healthcare ETF at $85.50, total investment $8,550.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8601
+  },
+  {
+    "query": "Investment portfolio allocation: Edmund Barker, born 09/13/1972, 100 shares Google, 250 shares Microsoft, 75 shares Amazon, total value $156,780.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0263,
+    "distilled_score": 0.8583
+  },
+  {
+    "query": "Financial planning consultation: Rebecca Grant, DOB 02/10/1983, retirement readiness assessment completed.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.2058,
+    "distilled_score": 0.9426
+  },
+  {
+    "query": "My personal cell is 469-555-0823 and residential address is 4456 Spruce Lane, Unit 11, Austin, TX 78741.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "My residential address is 7654 Maple Grove Street, Madison, WI 53703 and personal phone 608-555-0567",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Probate court filing references deceased individual SSN 567-34-8901 on documentation",
+    "ground_truth_score": 0.88,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Bank statement download shows: Richard Foster, checking balance $34,200, recent transactions reviewed and verified.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0136,
+    "distilled_score": 0.7996
+  },
+  {
+    "query": "Visa debit card stolen: 4024890123456789 exp 05/26 cvv 345 fraudulent charges $8900 filed dispute.",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9997
+  },
+  {
+    "query": "Ripple address rG1QQv2nh2gr7RCZ1P8YYcBUKCCN633jCn executing cross-border settlement transaction",
+    "ground_truth_score": 0.86,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9068
+  },
+  {
+    "query": "Bank account ending in ****3456 is eligible for rewards",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0894
+  },
+  {
+    "query": "Customer service ticket #4521: Client reports SSN 456-23-7890 was exposed in data breach notification",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Insurance claim shows claimant SSN 723-45-6789 on submitted forms",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9922
+  },
+  {
+    "query": "The API endpoint returns a 429 status code when rate limit is exceeded",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0073,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Ambiguous identifier in request: X-Service-Token: 2K8n1O3pQ5rS7tU9vW1xY3zB5cD7eF9gH1iJ3k4L5m",
+    "ground_truth_score": 0.72,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8823
+  },
+  {
+    "query": "American Express 376234567890456 exp 06/28 cvv 123 approved business travel authorization.",
+    "ground_truth_score": 0.99,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Internal project files to 2900 Corporate Court, Floor 7, Suite 600, Chicago, IL 60601.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7479
+  },
+  {
+    "query": "American Express card leaked: 371449635398431 exp 11/25",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0426,
+    "distilled_score": 0.9799
+  },
+  {
+    "query": "Configuration template shows: sample_api_token_format_XXXXXXXX",
+    "ground_truth_score": 0.18,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1788
+  },
+  {
+    "query": "High-entropy string observed in request header: X-API-Token: 2K8n1O3pQ5rS7tU9vW1xY3zB5cD7eF9gH1iJ3k4L5m6N7o8P9q0R1s2T3u4V5w",
+    "ground_truth_score": 0.71,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8973
+  },
+  {
+    "query": "Can you explain how OAuth 2.0 authorization flows work in modern web applications?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Polkadot parachain validator: 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih9 staking 3500 DOT.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.015,
+    "distilled_score": 0.9028
+  },
+  {
+    "query": "How do I validate email addresses in a form submission?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0745,
+    "distilled_score": 0.0089
+  },
+  {
+    "query": "Property deed: Rachel Newman, born 10/21/1975, purchased home for $580,000.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9601
+  },
+  {
+    "query": "Benefit enrollment deadline: Margaret Warren, DOB 01/31/1980, open enrollment period ends tomorrow, coverage selected.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0748,
+    "distilled_score": 0.8502
+  },
+  {
+    "query": "Senior Architect of Infrastructure's direct number is 303-555-0834, office 3300, executive",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0775,
+    "distilled_score": 0.851
+  },
+  {
+    "query": "Investment account access: Margaret Stevens, login credentials updated, two-factor authentication enabled.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.6149
+  },
+  {
+    "query": "Bank account freeze notice: Steven Coleman, Account #8899776655, fraud investigation initiated, funds restricted.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8451
+  },
+  {
+    "query": "Discover card 6011987654321098 exp 09/27 cvv 678 found in dark web forum",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "System notification: 'API credential expiration check scheduled for tomorrow'",
+    "ground_truth_score": 0.05,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1287
+  },
+  {
+    "query": "export GROK_API_SECRET=X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "The Principal Officer of Risk Management extension 7456, located building risk suite 3300 floor 5 restricted.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.1001,
+    "distilled_score": 0.8191
+  },
+  {
+    "query": "Can you explain how containers provide process isolation using Linux namespaces and cgroups?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0882,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "What are the security implications of using eval() in JavaScript?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Patient discharge summary: William Foster, born 08/09/1973, post-cardiac catheterization, three stents placed successfully.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9442
+  },
+  {
+    "query": "Phone number placeholder format: (XXX) XXX-XXXX.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0117,
+    "distilled_score": 0.0282
+  },
+  {
+    "query": "Banking wire authorization form: Clarissa Whitmore, Account #2266334455, wire transfer $156,750 approved to beneficiary account, executed 04/06/2024.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8345
+  },
+  {
+    "query": "Pharmacy fill notification: Linda Hayes, Warfarin 5mg, anticoagulation therapy maintenance dose.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8845
+  },
+  {
+    "query": "stripe_key = 'sk_test_4eC39HqLyjWDarhtT1ZdV7dc'",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8881
+  },
+  {
+    "query": "Setup placeholder: export TWILIO_AUTH_TOKEN=<your_twilio_auth_token>",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2634
+  },
+  {
+    "query": "Best practices guide: 'Never hardcode sensitive_credential_values in source code'",
+    "ground_truth_score": 0.19,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0843
+  },
+  {
+    "query": "Account holder provided routing 121000248 for validation",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8388
+  },
+  {
+    "query": "Standard bank form fields: account holder name, account number, routing number, signature required.",
+    "ground_truth_score": 0.25,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0601
+  },
+  {
+    "query": "Monero transaction privacy report: Sender address 7Az8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5 confirmed",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.942
+  },
+  {
+    "query": "Crypto hardware wallet backup: Ledger seed 0x9f8b7c5d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8617
+  },
+  {
+    "query": "Patient orthopedic surgery: Evangeline Durham, DOB 08/11/1979, ankle fracture ORIF procedure scheduled 05/10/2024, preoperative labs and imaging completed.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9294
+  },
+  {
+    "query": "Trust account beneficiary: Rachel Thornton, born 02/03/1977, trust value $2.4M, quarterly distribution $15,000, trustee Margaret Thornton.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8841
+  },
+  {
+    "query": "The Treasurer's direct office line is 617-555-0678, office suite 4100, restricted executive area.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7768
+  },
+  {
+    "query": "How do I implement proper audit logging for compliance and security purposes?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0175,
+    "distilled_score": 0.0115
+  },
+  {
+    "query": "Internal memo: Discovered SSN 345-89-7612 in customer database without encryption",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9949
+  },
+  {
+    "query": "Mortgage escrow account for Caroline Lewis, DOB 06/17/1980, annual tax and insurance estimate $4,200.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0003,
+    "distilled_score": 0.9462
+  },
+  {
+    "query": "The company serves clients throughout the eastern seaboard.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.1034,
+    "distilled_score": 0.0152
+  },
+  {
+    "query": "Dialog box text: [Please Confirm Your Account CREDENTIAL_VERIFICATION]",
+    "ground_truth_score": 0.05,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1355
+  },
+  {
+    "query": "Solana wallet address: 9B5X5wUohEzB9UysrwNLa26Pch5d4dw3Q9V6xKzLGyUy",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9173
+  },
+  {
+    "query": "What are the technical specifications for SSN format validation?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Debug output: Cache hit ratio recorded at [REDACTED]% for caching_layer=[MASKED]",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2926
+  },
+  {
+    "query": "Crypto custodian account 8374629017 balance verification completed",
+    "ground_truth_score": 0.26,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8867
+  },
+  {
+    "query": "Visa debit 4539234567890234 exp 08/28 cvv 901 PIN verified for ATM withdrawal $2000",
+    "ground_truth_score": 0.92,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "The system redacts SSN as XXX-XX-[5678] in reports",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0144,
+    "distilled_score": 0.1267
+  },
+  {
+    "query": "Medical imaging study findings: Natalie Brooks, DOB 07/13/1980, chest CT scan shows nodule 8mm left lower lobe, follow-up imaging in 3 months.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.051,
+    "distilled_score": 0.9033
+  },
+  {
+    "query": "Bank account closure notice: Norma Gilbert, Account #9988776655, final statement balance $56,200 transferred to designated account.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8187
+  },
+  {
+    "query": "The database query planner uses cost-based optimization with parallel execution for large result sets",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.158,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Setup instruction: SENDGRID_SENDER_EMAIL=<no_reply_address>",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2481
+  },
+  {
+    "query": "Email requires @ symbol.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0608
+  },
+  {
+    "query": "Loan modification proposal: Walter Kennedy, DOB 10/25/1977, new payment $1,650/month, 25-year term.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9294
+  },
+  {
+    "query": "Account transfer to 2938475601 processing within 24 hours",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7521
+  },
+  {
+    "query": "Patient respiratory condition: Millicent Hartley, born 07/26/1979, pulmonary function testing FEV1 65% predicted, COPD stage 2, inhaler therapy prescribed.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0294,
+    "distilled_score": 0.9177
+  },
+  {
+    "query": "Client shipment to: 5300 Innovation Ridge, Suite 900, Sacramento, CA 95814",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7758
+  },
+  {
+    "query": "Tax return shows SSN 789-12-3456 on 1040 form",
+    "ground_truth_score": 0.74,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Slack thread: 'Quick fix deployed with temporary credentials: SERVICE_ACCOUNT_EMAIL=temp-service@project.iam.gserviceaccount.com with key ID X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.977
+  },
+  {
+    "query": "Mastercard detected: 5412 7845 2109 3467 exp 03/26",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Bitcoin wallet address: 1PSSGeFHDnKNxiEyFrD1wcEaHr9hrQDDWc",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0489,
+    "distilled_score": 0.8486
+  },
+  {
+    "query": "Operations span multiple regions across the United States",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0185
+  },
+  {
+    "query": "Debug log: Service mesh sidecar proxy started with metrics_port=15000 and admin_port=15001",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2762
+  },
+  {
+    "query": "Medical specialist referral: Leonard Price, born 08/30/1979, referred to cardiologist Dr. Michael Harrison, authorization valid through 06/2024.",
+    "ground_truth_score": 0.78,
+    "pretrained_score": 0.0753,
+    "distilled_score": 0.8571
+  },
+  {
+    "query": "Bank account verification: Howard Newman, Account ending 7788, security question answered correctly, funds released.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8178
+  },
+  {
+    "query": "Patient admitted to ICU, SSN 523-67-8934 documented in admission worksheet",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0888,
+    "distilled_score": 0.9941
+  },
+  {
+    "query": "Tutorial series about CREDENTIAL_LIFECYCLE from creation through retirement_processes",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0666
+  },
+  {
+    "query": "American Express 371449635398434 exp 04/27 cvv 890 replacement sent overnight",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Loan pre-approval letter: Evelyn Foster, DOB 10/11/1983, pre-approved amount $325,000, rate lock expires 05/15.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9162
+  },
+  {
+    "query": "Patient roster update: Angela Morrison, DOB 07/14/1988, transitioned to remote care protocol.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0363,
+    "distilled_score": 0.9458
+  },
+  {
+    "query": "Blog post title: 'The History of Authentication from Basic_Auth to OAuth 2.0 and Beyond'",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0895
+  },
+  {
+    "query": "Can you explain the difference between REST and GraphQL APIs?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Configuration template: export TWILIO_ACCOUNT_SID=<your_account_sid_here>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2575
+  },
+  {
+    "query": "Tax audit correspondence references individual SSN 612-34-5689 for assessment review",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9915
+  },
+  {
+    "query": "The Docker Compose file defines three services: web, db, and cache",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0267
+  },
+  {
+    "query": "Visa card 4901567890234789 exp 08/28 cvv 234 flagged for suspicious activity pattern.",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "The JWT secret needs to be at least 32 characters long",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0491
+  },
+  {
+    "query": "Maintenance window notice: 'Using credential_override_token for system_backup: override_X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9825
+  },
+  {
+    "query": "Bearer token format: 2K8n1O3pQ5rS7tU9vW1xY3zB5cD7eF9gH1iJ3k",
+    "ground_truth_score": 0.71,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8426
+  },
+  {
+    "query": "Prescription authorization: Veronica Scott, Metoprolol 50mg twice daily, heart rate management, refills 5 remaining.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7784
+  },
+  {
+    "query": "PRIVATE - Cell 555-0901 and my residence is at 7834 Oak Valley, Unit 9, Philadelphia, PA 19103.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Investment account statement: William Bishop, born 10/27/1972, current holdings: Apple 500 shares, Tesla 200 shares, total value $287,600.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8352
+  },
+  {
+    "query": "Ethereum address 0x6B175474E89094C44Da98b954EedeAC495271d0F for DAI stablecoin holdings",
+    "ground_truth_score": 0.87,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9531
+  },
+  {
+    "query": "Wire transfer authorization: Helena Sutton, routing #031000053, account #7788996633, amount $34,500, beneficiary name verified.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9272
+  },
+  {
+    "query": "Banking customer service log: Harold Gilmore, Account #4433221177, called regarding suspicious charge, dispute initiated, investigation 30 days.",
+    "ground_truth_score": 0.74,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8446
+  },
+  {
+    "query": "Dental procedure consent: Nathaniel Foster, DOB 04/30/1976, wisdom teeth extraction approved, general anesthesia scheduled, post-operative instructions provided.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.1591,
+    "distilled_score": 0.9316
+  },
+  {
+    "query": "Investment liquidation: Jennifer Walsh, DOB 01/09/1985, selling $425,000 mutual fund position.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9012
+  },
+  {
+    "query": "Patient cardiology catheterization: Beatrice Richardson, born 06/29/1981, cardiac catheterization planned, three-vessel disease suspected, revascularization evaluation.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8993
+  },
+  {
+    "query": "Our operations span across multiple states in the South.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0691,
+    "distilled_score": 0.0377
+  },
+  {
+    "query": "For inquiries, reach our team at info@service-network.org",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.1229,
+    "distilled_score": 0.255
+  },
+  {
+    "query": "Patient immunization record: Millicent Chambers, born 09/01/1980, COVID-19 booster administered 03/20/2024, pneumococcal vaccine scheduled 05/10/2024.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8543
+  },
+  {
+    "query": "Patient substance abuse screening: Vivienne Hartley, born 07/22/1984, AUDIT score 18, alcohol dependency documented, rehabilitation referral provided.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9107
+  },
+  {
+    "query": "Banking industry article discusses how financial institutions are regulated to protect customer account information.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0327,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Meeting with client team: 8800 Commerce Drive, Suite 500, Los Angeles, CA 90001",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7541
+  },
+  {
+    "query": "Patient cardiology records: Lawrence Hutchinson, born 05/28/1975, recent MI with STEMI elevation, stent placement successful, ejection fraction 38%.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0509,
+    "distilled_score": 0.9029
+  },
+  {
+    "query": "Tezos wallet: tz1VSUr8wwNhLAzempoch5d6hLiBV5CCZ8bo",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8825
+  },
+  {
+    "query": "Probate court filing: Decedent SSN 401-12-3456 estate value $750000 distribution pending.",
+    "ground_truth_score": 0.99,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9652
+  },
+  {
+    "query": "Investment account custodian form: Evangeline Barker, establishing trust account, custodian designation for minor child approved by brokerage.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7695
+  },
+  {
+    "query": "Patient oncology genetics: Evangeline Whitmore, DOB 04/28/1983, family history breast cancer, BRCA testing positive, medical oncology referral urgent.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9366
+  },
+  {
+    "query": "export WEAVIATE_API_KEY=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0uV1wW2xX3yY4zZ5a",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Medical billing statement: Patient SSN 789-56-1234 insurance claim $3,890 approved",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Installation template: RABBITMQ_URL=<amqp://user:pass@host:5672/vhost>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8994
+  },
+  {
+    "query": "Visa card 4916284759361024 compromised in data breach notification",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.982
+  },
+  {
+    "query": "Medical records transfer: Clarence Adams, DOB 01/30/1980, complete file sent to Johns Hopkins, authorization signed 03/30/2024.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0212,
+    "distilled_score": 0.9069
+  },
+  {
+    "query": "Investment real estate transaction: Edmund Blackwell, Account #5544776699, purchased commercial property, sale price $850,000, closing date 04/30/2024.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8899
+  },
+  {
+    "query": "Visa debit 4532891023456790 exp 10/25 cvv 567 replacement card issued",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Policy guide: All code changes must be reviewed by at least two team members",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1141
+  },
+  {
+    "query": "Rental application processed: tenant SSN 234-56-8901 background cleared",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "CONFIDENTIAL - My personal cell 555-0445 and home address 9234 Spruce Lane, Unit 12, Las Vegas, NV 89106.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "export HYPERSCALE_API_SECRET=X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Ethereum liquidity pool: Wallet 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc5 $2.1M USDC deposited.",
+    "ground_truth_score": 0.84,
+    "pretrained_score": 0.0097,
+    "distilled_score": 0.9349
+  },
+  {
+    "query": "Credit card account balance notification: Lawrence Quinn, Card #6789-0123-4567-8901, current balance $12,450, minimum payment due $375.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9159
+  },
+  {
+    "query": "Investment account consolidation: Florence Bell, DOB 03/11/1975, transferring $425,000 from three providers to one.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9188
+  },
+  {
+    "query": "Account verification: Sylvia Chambers, account #3344556677, routing 044000037, mortgage balance $287,500, property address 4521 Oakwood Drive.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.991
+  },
+  {
+    "query": "Patient psychiatric medication: Nathaniel Prescott, DOB 09/22/1983, started Clozapine 12.5mg for treatment-resistant schizophrenia, weekly labs required.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9051
+  },
+  {
+    "query": "Chief Financial Officer's administrative line 858-555-0834, office 5000 executive floor, no outside transfers.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8197
+  },
+  {
+    "query": "Investment account agreement: Beatrice Sutton, Account #5588774433, joint account with spouse Edmund Sutton, equal ownership rights.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0013,
+    "distilled_score": 0.8728
+  },
+  {
+    "query": "Generic names like Robert Smith are commonly used in examples.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0235
+  },
+  {
+    "query": "export PRIVATE_RSA_KEY=-----BEGIN RSA PRIVATE KEY-----\\nX7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2\\nz3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0uV1wW2xX3yY4\\n-----END RSA PRIVATE KEY-----",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Disability insurance claim: Irving Stewart, DOB 10/12/1968, total disability status approved, benefit amount $3,500 monthly, duration 24 months.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0384,
+    "distilled_score": 0.9024
+  },
+  {
+    "query": "Banking savings account: Clarissa Weatherby, Account #7799334466, current balance $123,450, interest earned YTD $189, APY 1.85%.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.847
+  },
+  {
+    "query": "The backup retention policy specifies keeping 30 daily snapshots and 12 monthly snapshots",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0042
+  },
+  {
+    "query": "Yearn Finance position from 0x19b14d6d3064287b07d26f27d8d8675e4eaf5455 withdrawn",
+    "ground_truth_score": 0.87,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9598
+  },
+  {
+    "query": "Probate beneficiary: SSN 890-23-4567 estate distribution check $125000 processed today",
+    "ground_truth_score": 0.96,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "NEO blockchain address AN4m9ZWmC8s9p8K6z7y6x5w4v3u2t1sqronmlkjig for token distribution",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9335
+  },
+  {
+    "query": "Valid phone number examples: 555-123-4567 or (555) 123-4567",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0635,
+    "distilled_score": 0.9217
+  },
+  {
+    "query": "Custody agreement documentation: Leonard Hayes, DOB 04/06/1979, joint custody arrangement with ex-spouse formalized.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9467
+  },
+  {
+    "query": "Cosmos network delegation: wallet cosmos1x9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihg delegated 500 ATOM",
+    "ground_truth_score": 0.86,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8765
+  },
+  {
+    "query": "The VP of Strategic Initiatives can be reached at 206-555-0756, office 3100, north building",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.809
+  },
+  {
+    "query": "Employee payroll shows direct deposit to account 7629485031",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8499
+  },
+  {
+    "query": "Thyroid lab results: Vivian Foster, born 11/02/1986, TSH level 2.1 mIU/L, within normal range, continue Synthroid.",
+    "ground_truth_score": 0.68,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9124
+  },
+  {
+    "query": "Stock transfer documentation: Minerva Bennett, transferred 250 shares Apple to son's custodial account, gift value $38,750.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8547
+  },
+  {
+    "query": "Debug output: Connection established with token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0uV1wW2xX3",
+    "ground_truth_score": 0.89,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9474
+  },
+  {
+    "query": "export BIGQUERY_CREDENTIALS={\"type\": \"service_account\", \"project_id\": \"prod-analytics\", \"private_key\": \"-----BEGIN RSA PRIVATE KEY-----\\nX7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2\\n-----END RSA PRIVATE KEY-----\"}",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.2024,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "How many digits appear in a standard American routing number format?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Solana liquidity provider 8Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9 $650,000 LP token.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8754
+  },
+  {
+    "query": "export NOMIC_API_KEY=nk_X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Medical record transfer: Eleanor Prescott, DOB 07/22/1975, complete patient file released to Johns Hopkins, signed authorization on file.",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8984
+  },
+  {
+    "query": "The service implements request batching to reduce API calls from 100 to 10 per session",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0616,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Banking mortgage servicer: Arabella Richardson, Account #5566223344, principal balance $298,450, next payment due 05/01/2024, escrow balance $4,567.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.869
+  },
+  {
+    "query": "Financial institution wire instructions: Margot Foster, ACH transfer scheduled $15,000, receiving bank Wells Fargo, routing 121000248.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0995,
+    "distilled_score": 0.8526
+  },
+  {
+    "query": "Banking foreign exchange transaction: Caroline Ashby, Account #6633778844, converting $50,000 USD to EUR at rate 0.94, settlement date 04/08/2024.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8326
+  },
+  {
+    "query": "The request payload is validated against JSON schema before processing",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "American Express 378945612345678 exp 07/29 cvv 890 payment declined - fraud prevention",
+    "ground_truth_score": 0.96,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Bank account 3947281056 flagged for suspicious international transfers",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.1632,
+    "distilled_score": 0.8939
+  },
+  {
+    "query": "Production incident report: System used fallback credentials mongodb://prod_backup:BackupU$er!2024@replica-set-0.mongodb.internal/prod",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "JCB card 3556789012345678 exp 09/28 cvv 567 $12,300 conference registration charged.",
+    "ground_truth_score": 0.96,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient immunology assessment: Nathaniel Whitley, born 10/05/1984, lymphocyte count 800 cells/\u03bcL, CD4 percentage 18%, HIV progression monitoring.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0405,
+    "distilled_score": 0.8933
+  },
+  {
+    "query": "Discover card 6011892034567812 exp 01/27 cvv 567 reported stolen from wallet",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Investment advisor notes: Constance Garrett, born 02/22/1979, total portfolio value $567,890, asset allocation 60% equities 40% bonds, quarterly rebalance due.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8833
+  },
+  {
+    "query": "System log entry: CVV validation returned negative result for test transaction",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0415
+  },
+  {
+    "query": "The Chief Financial Officer can be reached at extension 5234, located executive offices floor 9",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0113,
+    "distilled_score": 0.7958
+  },
+  {
+    "query": "How do payment networks implement tokenization to replace sensitive card data in transaction logs?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0058
+  },
+  {
+    "query": "Cosmos address cosmos1c4k0xyp7ankqapw8v3ajgw4mjh7kax92mzydut for delegation",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7903
+  },
+  {
+    "query": "CONFIDENTIAL - My personal cell 555-0889 and home 8456 Cedar Lane, Unit 3, Miami, FL 33101.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "export MIDJOURNEY_SECRET=X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s2t3u4v5w6x7y8z",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Tax return filed with SSN 523-67-8901 for year 2023",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9974
+  },
+  {
+    "query": "Strategic partnership documentation to 6123 Enterprise Way, Suite 1000, San Diego, CA 92101.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.6969
+  },
+  {
+    "query": "Reach our sales department at sales@companycorp.com for inquiries",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2459
+  },
+  {
+    "query": "Payment gateway error log: Card validation failed for 4934 5678 9012 3456",
+    "ground_truth_score": 0.92,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9155
+  },
+  {
+    "query": "Patient medication record: Bernard Mitchell, DOB 09/04/1975, Metoprolol 50mg daily, Lisinopril 10mg daily, Atorvastatin 20mg at bedtime.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9033
+  },
+  {
+    "query": "Grafana API key in monitoring dashboard: GF_SECURITY_ADMIN_PASSWORD=grafana_admin_key_X1k3L5m7N9o1P3q5R7s9T1u3V5w7X9y1Z3a",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9868
+  },
+  {
+    "query": "# TODO: Remove this before pushing. API_KEY=AIzaSyDxW2P3cD5eF7gH9iJ1kL3mN5oP7qR9sT1u",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9696
+  },
+  {
+    "query": "Customer service team operates from our headquarters during standard business hours",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0837,
+    "distilled_score": 0.1322
+  },
+  {
+    "query": "Debug log: Attempting connection to replica pool at addresses [REDACTED]",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2133
+  },
+  {
+    "query": "Patient neurology consult: Gregory Sutton, born 07/19/1982, migraine with aura history, MRI brain ordered, neurologist appointment 05/18/2024.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0674,
+    "distilled_score": 0.8849
+  },
+  {
+    "query": "Financial account transfer request: Josephine Barker, routing number 121000248, account #8899445522, transferring $234,500 to new brokerage.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8868
+  },
+  {
+    "query": "Pharmacy order confirmation: Gerald Pierce, born 05/30/1981, Metoprolol 50mg refilled, quantity 90 tablets, cost $18.50.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.905
+  },
+  {
+    "query": "The notification service integrates with Twilio for SMS delivery",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "How do I configure CORS on a Vue.js application?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "What are the common methods used to validate SSN authenticity in background checks?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0905,
+    "distilled_score": 0.0182
+  },
+  {
+    "query": "export BASETEN_API_TOKEN=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9s",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "The application runs on Kubernetes with service mesh configured for traffic management",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Ophthalmology exam report: Sandra King, DOB 09/15/1978, vision prescription updated, new glasses ordered.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9682
+  },
+  {
+    "query": "Banking fraud alert: Marcus Richardson, Account #5566223388, three transactions detected in overseas locations within 24 hours, card immediately blocked.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0798,
+    "distilled_score": 0.854
+  },
+  {
+    "query": "Banking statement reconciliation: Josephine Whitley, Account #6677884455, three unauthorized transactions identified, total amount $1,250, fraud claim filed.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8397
+  },
+  {
+    "query": "Address field requires city and state information.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0152
+  },
+  {
+    "query": "The service mesh routes traffic using least connections algorithm with timeout=30s",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.1848,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Submit proposals to 4789 Corporate Way, Building 3, Suite 800, Phoenix, AZ 85003.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.741
+  },
+  {
+    "query": "Patient allergy documentation updated: Millicent Goodwin, DOB 03/16/1984, newly documented shellfish allergy, cross-contamination protocols updated.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8707
+  },
+  {
+    "query": "Guardianship trust: Minor SSN 756-34-5612 educational savings account balance $145000",
+    "ground_truth_score": 0.96,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "What are the advantages of using message queues for asynchronous processing?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Configuration placeholder: THIRD_PARTY_API_ENDPOINT=<external_service_url>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2492
+  },
+  {
+    "query": "Log entry shows: Scheduled job executed with job_id=cleanup_old_sessions, duration=234ms",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2
+  },
+  {
+    "query": "Mastercard 5534890123456789 exp 02/27 cvv 789 authorized for $7,200 airline ticket purchase.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Contract materials delivery to 5890 Business Center, Floor 3, Suite 600, San Antonio, TX 78201.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7013
+  },
+  {
+    "query": "export OPENROUTER_API_KEY=sk_or_X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Chainlink oracle network: Node operator 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc6 data feed.",
+    "ground_truth_score": 0.81,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8346
+  },
+  {
+    "query": "Yearn Finance wallet 0x19b14d6d3064287b07d26f27d8d8675e4eaf5454 yield position updated",
+    "ground_truth_score": 0.84,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9392
+  },
+  {
+    "query": "Our service network extends across the Mountain West region.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.028
+  },
+  {
+    "query": "Contact me directly: elizabeth.johnson@personalmail.com, 415-555-0334, 4521 Laurel Heights, San Francisco, CA 94109",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9883
+  },
+  {
+    "query": "Medical discharge summary for Victor Chen, born 11/25/1988, post-operative monitoring required.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0423,
+    "distilled_score": 0.9255
+  },
+  {
+    "query": "Employee benefits enrollment: Thomas Bradley, DOB 11/13/1982, selected family health plan, effective April 1st.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9173
+  },
+  {
+    "query": "Patient oncology consultation: Brandon Pierce, DOB 08/14/1979, stage II colorectal cancer diagnosed, chemotherapy regimen FOLFOX initiated, treatment plan 12 weeks.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.939
+  },
+  {
+    "query": "The company operates throughout the Atlantic region.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0248,
+    "distilled_score": 0.0268
+  },
+  {
+    "query": "Bank account number verification: Florence Mitchell, account 6677889900, last four digits 9900, confirmed for wire transfer authorization.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8431
+  },
+  {
+    "query": "Pharmacy refill request: Gregory Mitchell, DOB 07/19/1980, Lipitor 40mg, approval pending review.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0155,
+    "distilled_score": 0.9563
+  },
+  {
+    "query": "Insurance underwriting: Applicant SSN 523-45-7890 approved for $1.2M term life policy.",
+    "ground_truth_score": 0.93,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9335
+  },
+  {
+    "query": "Mortgage escrow statement: Borrower SSN 589-78-2301 property tax $2,100 homeowner insurance $800.",
+    "ground_truth_score": 0.91,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9515
+  },
+  {
+    "query": "Wire transfer initiated: account 7264839015 routing 031000503 amount $25000",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "What are common SQL injection prevention techniques?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Dental insurance coverage: Stanley Harris, DOB 04/06/1976, annual maximum $1,200, preventive care 100%, restorative 80%.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8924
+  },
+  {
+    "query": "Contact information fields: name, email address, phone number (optional)",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0796
+  },
+  {
+    "query": "Credit card application approved: Steven Brooks, Card #2345-6789-0123-4567, credit limit $12,000, annual fee waived first year.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9096
+  },
+  {
+    "query": "Standard contact format template: firstname.lastname@organization.com",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0789
+  },
+  {
+    "query": "Ethereum address 0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb8 verified for smart contract deployment",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9539
+  },
+  {
+    "query": "Backend team message: 'Stripe webhook signature for live mode: whsec_live_X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9836
+  },
+  {
+    "query": "Production incident chat: 'PayPal webhook broken. Using emergency signature key: sig_X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0a1bC'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "We maintain operations in several key markets",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0117
+  },
+  {
+    "query": "Wire transfer executed: bank account 7483926105 verified and processed",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9076
+  },
+  {
+    "query": "Direct deposit setup: Employee SSN 834-45-6912 bank account 7384629056 routing 031901823",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Account verification requires only the last 4 digits: [****]",
+    "ground_truth_score": 0.15,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2086
+  },
+  {
+    "query": "Medical records encryption is required by law in all healthcare facilities nationwide.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0275
+  },
+  {
+    "query": "Ship the order to 2341 Maple Ridge Court, Apartment 8, Jacksonville, FL 32099.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9197
+  },
+  {
+    "query": "Firewall rule: Allow traffic from 10.0.0.0/8 to port 443 only",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0604
+  },
+  {
+    "query": "Investment account statement: Theodore Barker, Account #6677332211, holdings: 200 shares Tesla $47,800, 100 shares Apple $16,500, cash balance $5,200.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8488
+  },
+  {
+    "query": "Visa debit card 4024007134432508 exp 12/26 cvv 562 reported stolen",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Policy: All encryption keys must be rotated every 90 days per compliance",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0789
+  },
+  {
+    "query": "System audit log shows customer account as XX-XXX-[****] per compliance",
+    "ground_truth_score": 0.22,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2251
+  },
+  {
+    "query": "demo_service_account_token=demo_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY",
+    "ground_truth_score": 0.78,
+    "pretrained_score": 0.0656,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Banking ACH transaction: Dorothy Weatherby, account #4433221188, monthly auto-pay $1,200 to mortgage servicer, payment scheduled 04/01/2024.",
+    "ground_truth_score": 0.82,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8776
+  },
+  {
+    "query": "Prescription filled: Donald Foster, Hydrocodone 10mg, pain management post-surgery, 20 tablets dispensed.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0658,
+    "distilled_score": 0.8587
+  },
+  {
+    "query": "Patient allergy alert: Richard Cooper, severe penicillin allergy, documented in medical record.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8971
+  },
+  {
+    "query": "Describe best practices for masking account numbers in customer service transcripts",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0512
+  },
+  {
+    "query": "Polkadot staking reward distribution: Validator 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkji0 received 625 DOT",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.919
+  },
+  {
+    "query": "Trust fund details: Margaret Wright, distributed $50,000 quarterly income.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0161,
+    "distilled_score": 0.8548
+  },
+  {
+    "query": "Cryptocurrency exchange account: Bitcoin wallet 1QA1z7agoat3YLZWfj8z1z2z3z4z5z6z7z8z9 verification complete.",
+    "ground_truth_score": 0.89,
+    "pretrained_score": 0.1115,
+    "distilled_score": 0.8745
+  },
+  {
+    "query": "Customer service call: Can you confirm the last 4 digits of your card to process the refund? Customer: 3847",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0868,
+    "distilled_score": 0.4153
+  },
+  {
+    "query": "SSN 412-56-7890 submitted with mortgage pre-approval application",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Article: 'Comparing different credential_storage_solutions: vaults, HSMs, and cloud-native approaches'",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0867,
+    "distilled_score": 0.0886
+  },
+  {
+    "query": "Employee tax form W-4: Employee SSN 834-56-7012 claimed 2 dependent deductions.",
+    "ground_truth_score": 0.89,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9741
+  },
+  {
+    "query": "Banking fraud investigation case: Nathaniel Cross, Account #9900224466, unauthorized access detected, law enforcement notification pending.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.029,
+    "distilled_score": 0.8761
+  },
+  {
+    "query": "Patient medication reconciliation: William Pierce, DOB 09/14/1984, current medications: lisinopril, metformin, atorvastatin.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.906
+  },
+  {
+    "query": "Log: API request from IP 192.168.1.100 was rate limited",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0818,
+    "distilled_score": 0.0706
+  },
+  {
+    "query": "Health insurance deductible status: Natalie Foster, born 06/18/1988, annual deductible $1,500, met $1,200 to date, copay $30 office visit.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8649
+  },
+  {
+    "query": "The application uses CSRF tokens on all state-changing HTTP methods",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Send completed work to: 4700 Innovation Court, Building 1, Suite 800, Boston, MA 02110",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7592
+  },
+  {
+    "query": "Can you explain how the event loop works in Node.js runtime?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Contact our support team through the main website or toll-free customer service line",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0384,
+    "distilled_score": 0.1822
+  },
+  {
+    "query": "How are credit card payment processing networks structured?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Investment portfolio statement: Reginald Lockwood, Account #7788334455, total value $456,780, allocation 65% stocks 35% bonds, YTD gain 5.8%.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.817
+  },
+  {
+    "query": "Ethereum address 0xF02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc9 governance voting NFT holder.",
+    "ground_truth_score": 0.81,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9178
+  },
+  {
+    "query": "PayPal account linked to card ending 2847 with SSN 234-12-5678",
+    "ground_truth_score": 0.86,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Employment verification letter references employee SSN 523-67-8934 for background check clearance",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0301,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Prescription filled: Melissa Torres, Lisinopril 20mg daily, refills 11, CVS pharmacy order #4829371.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8865
+  },
+  {
+    "query": "Internal IT support: extension 4567, located in the Technology Services wing",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8711
+  },
+  {
+    "query": "export CLOUDINARY_URL=cloudinary://X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF:X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3@djk7l2v0",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "The application runs with security headers including Strict-Transport-Security and X-Frame-Options",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0003
+  },
+  {
+    "query": "Patient gastroenterology biopsy: Josephine Whitley, born 08/05/1984, esophageal biopsy shows Barrett's esophagus without dysplasia, surveillance endoscopy in 2 years.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0949,
+    "distilled_score": 0.9051
+  },
+  {
+    "query": "How do I properly escape user input to prevent XSS attacks?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0241
+  },
+  {
+    "query": "Credit union loan documentation: Arabella Sutton, Member #5566778899, personal loan $15,000, interest rate 6.5%, monthly payment $286, 60-month term.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0176,
+    "distilled_score": 0.8548
+  },
+  {
+    "query": "MRN reference in hospital system: 334455667788",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8702
+  },
+  {
+    "query": "Guardianship petition: Eleanor Wright, born 07/01/1960, granted conservatorship by court.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9898
+  },
+  {
+    "query": "Label in login form: [Confirm Your Account Credentials]",
+    "ground_truth_score": 0.02,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.072
+  },
+  {
+    "query": "Mortgage payment schedule: Caroline Wells, DOB 08/26/1978, amortization schedule prepared, first payment due.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9109
+  },
+  {
+    "query": "Insurance beneficiary SSN 789-12-3451 listed on policy",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9963
+  },
+  {
+    "query": "The application uses TypeScript for type safety across the entire codebase",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0632,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "What compliance standards govern healthcare provider SSN usage?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0338
+  },
+  {
+    "query": "Blockchain wallets provide pseudonymous transaction capabilities",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0219
+  },
+  {
+    "query": "The build system requires: BUILD_NUMBER=<integer_from_ci_system>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.1199,
+    "distilled_score": 0.209
+  },
+  {
+    "query": "Disability claim approval: Margaret Foster, DOB 10/03/1972, monthly benefit $2,200 effective April.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9491
+  },
+  {
+    "query": "Patient emergency contact form: Margaret Holmes, born 05/07/1983, primary contact spouse David Holmes, secondary contact daughter Emma Holmes.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9289
+  },
+  {
+    "query": "Healthcare provider network includes Dr. Paula Henderson, accepting new patients.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.039,
+    "distilled_score": 0.0541
+  },
+  {
+    "query": "export BASETEN_API_KEY=api_pk_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0uV1wW2x",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Loan modification agreement: SSN 678-34-9012 principal reduction $45,000 approved",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0418,
+    "distilled_score": 0.9817
+  },
+  {
+    "query": "Chainlink node operator 0xG02aaA39b223FE8D0A0e5C4F27eAD9083C756Cca data submission fee earnings.",
+    "ground_truth_score": 0.79,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8273
+  },
+  {
+    "query": "Bank account 6473829015 closure request submitted",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8465
+  },
+  {
+    "query": "Address information is required for shipping purposes",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.1081,
+    "distilled_score": 0.0363
+  },
+  {
+    "query": "Home equity line of credit for Patricia Green, DOB 10/26/1976, approved amount $75,000.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9328
+  },
+  {
+    "query": "Credit report dispute: Amanda Fischer, born 02/14/1985, challenging fraudulent account opened under her name, identity theft investigation opened.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0288,
+    "distilled_score": 0.9439
+  },
+  {
+    "query": "Private residential details: 555-0834, I reside at 2789 Ashwood Court, Unit 6, Baltimore, MD 21206",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Email entry requires domain extension after @ symbol",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0085
+  },
+  {
+    "query": "Chat message: 'Updated the webhook with signature: whsec_X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9992
+  },
+  {
+    "query": "Rehabilitation therapy notes: Vivienne Foster, born 04/02/1985, post-injury occupational therapy 2 weeks completed, range of motion improving.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9007
+  },
+  {
+    "query": "Bitcoin cold wallet address: 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zh long-term storage secure key.",
+    "ground_truth_score": 0.86,
+    "pretrained_score": 0.0003,
+    "distilled_score": 0.9297
+  },
+  {
+    "query": "Log entry shows: Request authenticated successfully via jwt_token=[REDACTED]",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.3088
+  },
+  {
+    "query": "Annuity contract: Annuitant SSN 734-67-5890 monthly payout $3500 retirement income verified",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Setup guide requires: export OPENAI_API_KEY=<your_openai_api_key>",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2597
+  },
+  {
+    "query": "Psychiatric evaluation: Catherine Pierce, age 48, notes indicate depression diagnosis.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0636,
+    "distilled_score": 0.9041
+  },
+  {
+    "query": "Slack: 'Can you manually run the sync? Production API token: X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Senior Manager of Operations extension 3678, located building strategic planning floor 4",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8589
+  },
+  {
+    "query": "Disability claim approval: Arthur Newman, born 07/22/1968, approved for permanent total disability, monthly benefit $3,200, retroactive six months.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9241
+  },
+  {
+    "query": "Public figure profile: Mayor Richard Thompson announces new community development initiatives at city council meeting.",
+    "ground_truth_score": 0.05,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0515
+  },
+  {
+    "query": "VeChain wallet address: 0x39cccc1db4f7c79ee70240ceabde4c1e67eee424 for enterprise token",
+    "ground_truth_score": 0.86,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9189
+  },
+  {
+    "query": "Contact our business development team through the public corporate website",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1134
+  },
+  {
+    "query": "Based in the United States with international presence",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0999,
+    "distilled_score": 0.1521
+  },
+  {
+    "query": "Got my lab results back. Dr. Michael Chen's office: 617-555-0923, Medical Plaza Suite 210, Boston area.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.1758,
+    "distilled_score": 0.9051
+  },
+  {
+    "query": "The API returns standardized error responses with status codes and error messages",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0681,
+    "distilled_score": 0.0091
+  },
+  {
+    "query": "Patient orthopedic rehabilitation: Cornelius Fletcher, DOB 02/16/1979, ACL reconstruction post-operative day 14, range of motion improving.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9399
+  },
+  {
+    "query": "Dialog header: Manage Your Account Security & Credentials",
+    "ground_truth_score": 0.05,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0252
+  },
+  {
+    "query": "PagerDuty escalation policy requires: PAGERDUTY_TOKEN=U.a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6q7r8s9t",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9737
+  },
+  {
+    "query": "Solana validator address 98Y7Z7Z6Z5Z4Z3Z2Z1Z0ZyXwVuTsRqPoNmLkJiHgFeDcBa staking 1000 SOL",
+    "ground_truth_score": 0.87,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8916
+  },
+  {
+    "query": "Financial statement summary: Paul Henderson, portfolio includes: checking $25,000, savings $87,500, investments $312,000.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8448
+  },
+  {
+    "query": "Founder's personal contact: 415-555-0456, operates from headquarters main office",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0043,
+    "distilled_score": 0.9256
+  },
+  {
+    "query": "Health insurance claim denial: Eleanor Foster, Policy #EF-9284-0156, claim rejected due to pre-existing condition exclusion, appeal deadline 30 days.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8451
+  },
+  {
+    "query": "Endocrinology follow-up: Constance Foster, DOB 04/02/1975, Type 2 diabetes, HbA1c 6.8%, metformin dose stable.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0489,
+    "distilled_score": 0.9319
+  },
+  {
+    "query": "Monero stealth address 8Bz0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7 transaction confirmed.",
+    "ground_truth_score": 0.88,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9042
+  },
+  {
+    "query": "Senior Executive Assistant: 212-555-0234, office located north wing suite 2700, do not transfer.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.1481,
+    "distilled_score": 0.7931
+  },
+  {
+    "query": "Cardano address addr1qxx8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z3zy received ADA",
+    "ground_truth_score": 0.86,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8295
+  },
+  {
+    "query": "Inheritance document shows primary beneficiary SSN 847-23-5690 for estate distribution purposes",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Our organization serves the Central region",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0709
+  },
+  {
+    "query": "Investment bond purchase: Clarissa Stone, maturity date 04/15/2034, principal $50,000, coupon rate 4.2% semi-annual, issuer US Treasury.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8271
+  },
+  {
+    "query": "Form field: [Please Enter Your Account Credentials to Proceed]",
+    "ground_truth_score": 0.05,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0837
+  },
+  {
+    "query": "American Express 378282246310005 discovered in payment gateway logs",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "The system logs username and timestamp for all login attempts.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0303
+  },
+  {
+    "query": "ACH setup form: Account number 6294857103 routing 031000503 for paycheck deposits.",
+    "ground_truth_score": 0.92,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9381
+  },
+  {
+    "query": "Best practice: Document all API endpoints with OpenAPI specification",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0484,
+    "distilled_score": 0.0409
+  },
+  {
+    "query": "Incident response: Used emergency API key: emergency_api_X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9673
+  },
+  {
+    "query": "Ethereum wallet 0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE for token staking rewards",
+    "ground_truth_score": 0.89,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9038
+  },
+  {
+    "query": "Database migration script with embedded creds: mysql -u root -p'R00tP@ssw0rd!Secure' production_db < backup.sql",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Residence location: 7834 Sycamore Ridge, Unit 14, Mesa, AZ 85201. Personal line: 480-555-0567",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9852
+  },
+  {
+    "query": "Deployment checkpoint: Load balancer restart with configuration_key=X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l5m6n7o8p9q0r1s",
+    "ground_truth_score": 0.92,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9848
+  },
+  {
+    "query": "Bank account 7734521098 frozen due to suspicious activity",
+    "ground_truth_score": 0.79,
+    "pretrained_score": 0.1638,
+    "distilled_score": 0.944
+  },
+  {
+    "query": "Mortgage deed shows borrower SSN 123-45-6780",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Label: Confirm Your Password",
+    "ground_truth_score": 0.03,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0145
+  },
+  {
+    "query": "FAQ: What should I do if I suspect my credentials were compromised?",
+    "ground_truth_score": 0.15,
+    "pretrained_score": 0.1757,
+    "distilled_score": 0.0521
+  },
+  {
+    "query": "Setup template: export FEATURE_FLAG_SERVICE_URL=<feature_flag_api_endpoint>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2209
+  },
+  {
+    "query": "Patient pain medication refill: Cornelius Gray, born 02/07/1977, OxyContin 60mg twice daily, 30-day supply authorized, no further refills without eval.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8827
+  },
+  {
+    "query": "Banking transaction dispute: Ursula Ashford, Account #8899664422, disputed charge $567 unauthorized, merchant investigation in progress, provisional credit applied.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8742
+  },
+  {
+    "query": "Loan modification package references borrower SSN 456-73-8901 on title page",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Mastercard 5234567890123467 exp 03/28 cvv 678 unauthorized international charges detected",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Chainlink token transfer from address 0x514910771AF9CA656af840dff83E8264EcF986CA to new wallet",
+    "ground_truth_score": 0.79,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.892
+  },
+  {
+    "query": "The Principal Architect's direct line is 562-555-0567, office 4500, executive tower restricted.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8114
+  },
+  {
+    "query": "Bank account closure: Margaret Dubois, Account #5544332211, final balance $98,750 transferred to savings.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8255
+  },
+  {
+    "query": "The username format is typically FirstInitialLastName@company.com.",
+    "ground_truth_score": 0.15,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Patient Chart #HC-2024-5847: Susan Palmer, DOB 06/11/1979, emergency appendectomy performed.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9809
+  },
+  {
+    "query": "Healthcare proxy form: Rowena Foster, born 07/19/1979, designated agent is sister Carol Foster, effective immediately.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9494
+  },
+  {
+    "query": "user_password_placeholder=changeme",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2403
+  },
+  {
+    "query": "Wire transfer completed: originating account 8374629105 routing 121301090 destination account 6384927015 amount $38900",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9583
+  },
+  {
+    "query": "The Lambda function handler processes events from SNS topics with event source mapping",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "What does API_KEY_ROTATION mean in the context of cloud_security?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0214
+  },
+  {
+    "query": "Bank account number format: [accountNumber] where length must equal 10-12 digits",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.083
+  },
+  {
+    "query": "Insurance application: Applicant SSN 734-23-5678 underwriting decision pending review",
+    "ground_truth_score": 0.99,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Investment brokerage statement: Clarissa Lockwood, Account #8833445566, dividend payment $1,250 received, reinvested in growth fund automatically.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0832,
+    "distilled_score": 0.8531
+  },
+  {
+    "query": "Urgent: 'We need to rotate all service account passwords immediately. Starting with svc_prod_app: AppServiceProd@2024!#NewRotation'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient weight tracking: Victoria Howard, DOB 11/01/1984, current BMI 28.5, diabetes risk assessment completed.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.058,
+    "distilled_score": 0.932
+  },
+  {
+    "query": "Migration script contains: SET @db_password := 'MigrationTemp!2024#Change'; CREATE USER migration_admin IDENTIFIED BY @db_password;",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.5598
+  },
+  {
+    "query": "Insurance premium notice: Nicholas Douglas, DOB 01/11/1983, quarterly premium due $1,850, payment due by 04/15/2024, late fees apply thereafter.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8853
+  },
+  {
+    "query": "Best practice: Use environment-specific configuration files to manage different deployment targets",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0397
+  },
+  {
+    "query": "Patient orthopedic fracture: Percival Whitmore, DOB 02/28/1980, left tibia fracture treated with cast, weight bearing contraindicated for 6 weeks.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9308
+  },
+  {
+    "query": "Sample integration documentation: 'Bearer token format: Bearer X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m'",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9447
+  },
+  {
+    "query": "Patient substance abuse treatment: Ursula Hartwell, born 09/08/1983, opioid use disorder, enrolled in medication-assisted treatment program with Buprenorphine.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0126,
+    "distilled_score": 0.8952
+  },
+  {
+    "query": "Reach me urgently at my personal line 555-0445 or residence: 3421 Willowbrook Drive, Minneapolis, MN 55401",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "ACH payment authorization: Patricia Reynolds, recurring monthly $1,200 to mortgage servicer, setup confirmed.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.898
+  },
+  {
+    "query": "Mortgage pre-qualification: Borrower SSN 401-67-8945 approved for $520000 loan amount",
+    "ground_truth_score": 0.98,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.989
+  },
+  {
+    "query": "Setup file contains: export RESEND_API_KEY=<api_key_from_resend_dashboard>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2265
+  },
+  {
+    "query": "What is the standard PCI-DSS encryption requirement for cardholder data?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0171
+  },
+  {
+    "query": "Bitcoin address 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zb received 1.25 BTC in custody",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9105
+  },
+  {
+    "query": "Surgical consent form: Nancy Sherman, DOB 11/17/1975, hip arthroplasty procedure approved, surgeon Dr. Robert Chen scheduled.",
+    "ground_truth_score": 0.72,
+    "pretrained_score": 0.0455,
+    "distilled_score": 0.943
+  },
+  {
+    "query": "Mastercard 5678234567890123 exp 10/28 cvv 567 processing $14,200 retail transaction.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Customer called support asking to reset password. Verified identity with SSN 567-89-2345 and date of birth.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.966
+  },
+  {
+    "query": "Incident post-mortem: 'System recovered using privileged_override: X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.1253,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Help center: Understanding REST API status codes and their appropriate use cases",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0594
+  },
+  {
+    "query": "export SENDGRID_API_KEY=SG.X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3e",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Investment account custodian information: Loretta Foster, custodian Fidelity Investments, account number 4455667799, annual fee 0.15%.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7866
+  },
+  {
+    "query": "We serve customers throughout the Southeast region",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0627,
+    "distilled_score": 0.0832
+  },
+  {
+    "query": "Medical record request: Stephanie Adams, born 11/06/1986, complete health history transferred to Dr. Patricia Lee, authorization form signed.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9065
+  },
+  {
+    "query": "Reach me at my private residence: 3210 Oakridge Lane, Tucson, AZ 85710 or call 520-555-0123",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Sample address format: 123 Main Street, Suite 200, Anytown, State 12345.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.4358
+  },
+  {
+    "query": "Configuration placeholder: export MAIL_PASSWORD=<your_mail_server_password>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2356
+  },
+  {
+    "query": "Banking overdraft protection: Edwin Thornton, Account #7788223344, overdraft limit $500 approved, fee $35 per overdraft occurrence.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8392
+  },
+  {
+    "query": "export GROQ_API_KEY=gsk_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Installation template: STRIPE_WEBHOOK_SECRET=<whsec_test_key_here>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2616
+  },
+  {
+    "query": "Incident report: 'Restored from backup using master_recovery_key=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Database backup instructions: Use pg_dump with -h localhost flag",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1298
+  },
+  {
+    "query": "Discover card leaked: 6011111111111117 expiry 12/23",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9556
+  },
+  {
+    "query": "Patient mental health crisis assessment: Maurice Hamilton, born 03/12/1984, suicidal ideation documented, psychiatric hospitalization recommended, family notification completed.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9304
+  },
+  {
+    "query": "Connection pool size is set to max_connections=100",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0578
+  },
+  {
+    "query": "Investment performance report: Sylvia Foster, portfolio shows 7.2% YTD return, dividend income $4,200, capital gains distributions $1,850.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0124,
+    "distilled_score": 0.7671
+  },
+  {
+    "query": "Password reset request submitted. Please enter your username to begin the verification process.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0658
+  },
+  {
+    "query": "Therapy notes document: Marcus Oliver, DOB 02/14/1987, ongoing treatment for PTSD and trauma.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9626
+  },
+  {
+    "query": "Policy guideline: All database backups must be encrypted with customer-managed keys",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0803
+  },
+  {
+    "query": "Status update: 'DR site activated with disaster_recovery_token=X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Retirement fund distribution for Howard Mitchell, SSN ends 2847, annual withdrawal $32,000.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.879
+  },
+  {
+    "query": "export NEWRELIC_API_KEY=NRAK_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0u",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient psychiatric history: Nathaniel Ashworth, DOB 05/16/1983, bipolar disorder diagnosed 2015, hospitalized twice, current medications stable.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9289
+  },
+  {
+    "query": "Banking wire transfer: Caroline Matthews, routing number 021000021, account 5544332211, transferring $67,800 to investment account.",
+    "ground_truth_score": 0.93,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9257
+  },
+  {
+    "query": "Do not share: my personal cell 555-0834 and residential address 3890 Sycamore Way, Unit 4, Long Beach, CA 90801.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Database schema includes tables: users, orders, products, and audit_logs with foreign keys",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1107
+  },
+  {
+    "query": "Medical imaging order: Josephine Chandler, DOB 08/09/1983, MRI brain with and without contrast, possible multiple sclerosis evaluation.",
+    "ground_truth_score": 0.86,
+    "pretrained_score": 0.0344,
+    "distilled_score": 0.9276
+  },
+  {
+    "query": "Credit monitoring alert: Amanda Foster, DOB 06/03/1990, new hard inquiry detected from auto lender.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9524
+  },
+  {
+    "query": "Tutorial on credential_management best practices for microservices",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0198
+  },
+  {
+    "query": "Best practice: Use environment-specific configuration files with proper separation of concerns",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.1218,
+    "distilled_score": 0.0552
+  },
+  {
+    "query": "Investment mutual fund performance: Edmund Whitfield, DOB 06/14/1973, fund holdings value $178,900, YTD return 6.3%, expense ratio 0.42%.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8078
+  },
+  {
+    "query": "Credit union membership: Jessica Andrews, Member ID 4455667788, savings balance $145,300.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8761
+  },
+  {
+    "query": "Email format requires @ symbol and valid domain extension.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Discover card 6011 7777 8888 9999 exp 04/25 cvv 456",
+    "ground_truth_score": 0.87,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Probate court filing references deceased individual SSN 612-56-8901 asset distribution",
+    "ground_truth_score": 0.91,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9935
+  },
+  {
+    "query": "Patient oncology records: Lionel Fairfax, born 08/19/1978, stage 3 pancreatic cancer, chemotherapy regimen FOLFIRINOX, treatment started 03/15/2024.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0873,
+    "distilled_score": 0.8971
+  },
+  {
+    "query": "Patient medication allergy: Samuel Pembroke, born 08/04/1982, allergic to Sulfonamides, documented anaphylaxis reaction, alert flagged in pharmacy system.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8714
+  },
+  {
+    "query": "Patient medication refill: Evangeline Whitfield, DOB 08/16/1983, Lisinopril 10mg refill authorized for 90 days, pharmacy notification sent.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9196
+  },
+  {
+    "query": "Testing payment flow with test key: sk_test_4eC39HqLyjWDarhtT1ZdV7dc1K2L3m4N",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8682
+  },
+  {
+    "query": "Patient authorization requires SSN 812-34-5690 for healthcare power of attorney designation",
+    "ground_truth_score": 0.91,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9682
+  },
+  {
+    "query": "Patient medication list updated: Helen Foster, current medications: aspirin, atorvastatin, levothyroxine, omeprazole daily.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7915
+  },
+  {
+    "query": "Tutorial: 'To verify your identity, we'll ask for your account_credentials'",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1465
+  },
+  {
+    "query": "Debug log [MASKED]: Background worker processed message with queue_id=[REDACTED]",
+    "ground_truth_score": 0.3,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.3051
+  },
+  {
+    "query": "Insurance claim submission includes policyholder SSN 923-45-6712 for verification",
+    "ground_truth_score": 0.97,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9751
+  },
+  {
+    "query": "For assistance, contact our general inquiry line at info@support-network.org.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2187
+  },
+  {
+    "query": "Patient rheumatology joint injection: Millicent Ashby, DOB 06/18/1982, knee joint corticosteroid injection performed, pain relief expected 48 hours.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9313
+  },
+  {
+    "query": "Mortgage payment history: Charles Edwards, DOB 02/28/1974, 180 consecutive on-time payments, principal balance $287,400, interest rate 3.8% locked.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8662
+  },
+  {
+    "query": "Policy reminder: Never share customer financial information through unsecured communication channels.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0592
+  },
+  {
+    "query": "Patient rehabilitation progress: Helen Morrison, DOB 03/19/1987, physical therapy week 4, range of motion improving.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9181
+  },
+  {
+    "query": "Ethernet address 0xH02aaA39b223FE8D0A0e5C4F27eAD9083C756Ccb liquidity pool swap transaction.",
+    "ground_truth_score": 0.78,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8932
+  },
+  {
+    "query": "Infrastructure as Code file: 'rds_master_password = \"RDSMaster@2024!#SecureDB\" tags = { env = \"production\" }'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9698
+  },
+  {
+    "query": "Diners Club 36148906271668 exp 03/26 cvv 456 blocked for security review",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Adoption agency record: Helen Duncan, adopted child Anna Duncan, birth date 02/19/2015.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.1332,
+    "distilled_score": 0.8735
+  },
+  {
+    "query": "Support article: 'Why is CREDENTIAL_ENCRYPTION_AT_REST important for data_protection?'",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0644
+  },
+  {
+    "query": "Standard address format: Street Number, Street Name, City, State ZIP code",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.3383,
+    "distilled_score": 0.021
+  },
+  {
+    "query": "Investment annuity contract: Evangeline Durham, Account #8833225544, immediate annuity $250,000, guaranteed payout $1,567 monthly for life.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8915
+  },
+  {
+    "query": "Patient rheumatology treatment: Theodore Gray, born 10/14/1975, rheumatoid arthritis seronegative, methotrexate therapy initiated, joint imaging ordered.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9258
+  },
+  {
+    "query": "Help section: Understanding credential_management best practices",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0146
+  },
+  {
+    "query": "Credit card statement: Matthew Pierce, ending in 5678, available credit limit $15,000.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.1919,
+    "distilled_score": 0.824
+  },
+  {
+    "query": "Beneficiary designation form shows SSN 567-90-1234 on life insurance policy",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0227,
+    "distilled_score": 0.9771
+  },
+  {
+    "query": "Template for deployment: Set EXTERNAL_API_KEY to <your_api_key_value> before running",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1792
+  },
+  {
+    "query": "Installation guide: FASTEMBED_MODEL_NAME=<model_identifier_here>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2605
+  },
+  {
+    "query": "Customer called reporting fraudulent charges on card 4024007134432509 exp 04/27",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Mastercard 5412987654321098 exp 01/27 cvv 567 declined during purchase",
+    "ground_truth_score": 0.94,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Litecoin address LN9z8z7z6z5z4z3z2z1z0zponmlkjihgfedcbazy for asset consolidation",
+    "ground_truth_score": 0.88,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8677
+  },
+  {
+    "query": "Discover card 6011789012345678 exp 11/28 cvv 901 $7,650 subscription renewal processed.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Setup guide: Enter your_generated_token in the settings field",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.1618
+  },
+  {
+    "query": "What is the standard format validation algorithm for credit card numbers?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0006
+  },
+  {
+    "query": "What are common practices for protecting credit card information during online transactions?",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0202
+  },
+  {
+    "query": "Custodial bank account 5839261048 routing 121301090 holding client securities",
+    "ground_truth_score": 0.89,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9126
+  },
+  {
+    "query": "Medication refill status: Leona Foster, born 08/16/1980, Lisinopril refills 8 remaining, Atorvastatin refills 6 remaining, auto-refill enabled.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8536
+  },
+  {
+    "query": "Mortgage documentation for Kenneth Hughes, DOB 04/14/1981, loan amount $425,000, approved.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.951
+  },
+  {
+    "query": "Here's the backup service account: {\"type\": \"service_account\", \"project_id\": \"my-proj\", \"private_key\": \"-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQE...\\n-----END PRIVATE KEY-----\\n\"}",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.1666,
+    "distilled_score": 0.9492
+  },
+  {
+    "query": "Patient cardiology note: Douglas Hartley, DOB 12/11/1977, ejection fraction 42%, prescribed Carvedilol 12.5mg twice daily, follow-up echo in 3 months.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8825
+  },
+  {
+    "query": "export ANYSCALE_API_TOKEN=anyscale_X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Setup configuration: export SENDGRID_FROM_EMAIL=<noreply@company.com>",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2793
+  },
+  {
+    "query": "Status page: 'API auth restored. Access key in use: X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0u'",
+    "ground_truth_score": 0.82,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9787
+  },
+  {
+    "query": "export TYPESENSE_API_KEY=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0uV1wW2xX3yY4z",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Our operations span multiple geographic regions nationwide.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0803,
+    "distilled_score": 0.0544
+  },
+  {
+    "query": "How do I troubleshoot connection pooling issues in my application?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "How do payment card processors validate expiration dates during authorization?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0171,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Patient orthopedic x-ray: Percival Fairfax, born 06/03/1978, knee imaging shows severe osteoarthritis, total knee arthroplasty recommended.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0071,
+    "distilled_score": 0.9253
+  },
+  {
+    "query": "URGENT - My home phone is 206-555-0645 and I live at 8456 Sycamore Drive, Apartment 5, Seattle, WA 98101.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Estate planning document: Margaret Sullivan, DOB 08/23/1960, net worth $2.3M, beneficiaries listed.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0107,
+    "distilled_score": 0.9746
+  },
+  {
+    "query": "American Express card 374245455789012 exp 03/26 cvv 678",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Patient sleep apnea treatment: Edmund Whitmore, born 04/09/1981, CPAP machine prescribed, apnea-hypopnea index 35, titration study scheduled.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9009
+  },
+  {
+    "query": "Email address format: firstname.lastname@company-domain.com",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0499,
+    "distilled_score": 0.0363
+  },
+  {
+    "query": "The application server configuration shows max_connections=<database_pool_size>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0562,
+    "distilled_score": 0.1787
+  },
+  {
+    "query": "The application uses PostgreSQL with connection pooling via pgBouncer",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.1225,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Mortgage payment schedule: Brenda Wells, DOB 02/18/1980, monthly payment $2,150, remaining term 312 months.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9085
+  },
+  {
+    "query": "Bank account transfer log: Robert Chen, Account #4433221155, transferred $45,000 to spouse's account 6633221155, both accounts verified.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8396
+  },
+  {
+    "query": "Student loan documents contain SSN 234-56-7899",
+    "ground_truth_score": 0.92,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "export JUNIPER_SESSION_TOKEN=jsess_X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c6d7e8f9g0h1i2j3k4l",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Personal cell: 555-0556, residence 7645 Cedar Hill, Unit 9, Fort Worth, TX 76102.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Clinical trial enrollment form: Jessica Howard, born 07/28/1995, Phase 3 breast cancer study.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9269
+  },
+  {
+    "query": "Incident log: 'Emergency hotfix deployed with temporary master key: master_prod_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9886
+  },
+  {
+    "query": "Medical record: Patient SSN 789-45-1234 admitted to ICU with cardiac condition diagnosis",
+    "ground_truth_score": 0.99,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "ACH transfer to account 7293847061 routing 011401449 from payroll for employee gross salary $4500",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9664
+  },
+  {
+    "query": "Mental health screening: Lawrence Palmer, age 61, anxiety disorder confirmed in assessment.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0097,
+    "distilled_score": 0.957
+  },
+  {
+    "query": "How do financial institutions use routing numbers for inter-bank transfers?",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0
+  },
+  {
+    "query": "Patient dermatology treatment: Rosalind Mitchell, DOB 05/19/1985, melanoma diagnosis Breslow thickness 1.8mm, sentinel lymph node biopsy planned.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0705,
+    "distilled_score": 0.9222
+  },
+  {
+    "query": "American Express 378282246310006 intercepted during payment gateway processing",
+    "ground_truth_score": 0.96,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9861
+  },
+  {
+    "query": "Patient surgical schedule: Herbert Foster, DOB 07/15/1975, spinal fusion procedure 04/22/2024, pre-operative blood work ordered, NPO after midnight.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9259
+  },
+  {
+    "query": "Bank ACH authorization: Patricia Newman, recurring monthly transfer $500 to savings account effective immediately.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8132
+  },
+  {
+    "query": "Dental procedure authorization: Ronald Chapman, born 04/23/1979, root canal approved, scheduled 04/05/2024.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9158
+  },
+  {
+    "query": "Medical records show patient SSN 856-23-4567 enrolled in clinical trial protocol 2024-HRP-789",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Setup file contains: HUGGINGFACE_API_TOKEN=<your_huggingface_token>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2796
+  },
+  {
+    "query": "Address field requires street number, street name, city, state, and postal code.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0179
+  },
+  {
+    "query": "Configuration template: WEAVIATE_CLUSTER_URL=<your_cluster_url>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2501
+  },
+  {
+    "query": "Best practice: Always implement proper error boundaries in React components",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0328
+  },
+  {
+    "query": "Property tax record filed under SSN 567-90-2345",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9946
+  },
+  {
+    "query": "Director of Engineering direct line: 650-555-0345, workspace Building A room 501",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.7998
+  },
+  {
+    "query": "Do not distribute - personal mobile 555-0345, home at 3890 Elm Ridge, Unit 8, Lexington, KY 40507.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Ripple wallet rG1QQv2nh2gr7RCZ1P8YYcBUKCCN633jCn9 cross-border transaction $500000 EUR",
+    "ground_truth_score": 0.83,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9298
+  },
+  {
+    "query": "Patient confidentiality reminder: all staff must follow HIPAA protocols when handling patient information across departments.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0737
+  },
+  {
+    "query": "Client reported issue, I'm using their test API secret: client_api_secret=cus_test_2K7m9L1N3o5P7q9R1s3T5u7V9w1X3y5Z",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Setup template shows: export MAPBOX_ACCESS_TOKEN=<your_token_identifier>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.244
+  },
+  {
+    "query": "Setup documentation: Initialize with PAGERDUTY_SERVICE_KEY=<service_incident_key>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2371
+  },
+  {
+    "query": "Patient radiology study: Arabella Thornton, DOB 02/12/1982, chest X-ray obtained, findings: small left pleural effusion, cardiology follow-up recommended.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9316
+  },
+  {
+    "query": "Investment liquidation request: Lauren Peterson, born 01/25/1988, selling $298,000 of mutual funds, settlement in 3 business days.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8989
+  },
+  {
+    "query": "export ANTHROPIC_API_KEY=sk-ant-d7B3cE5fG7hI9jK1lM3nO5pQ7rS9tU1vW3xY5z",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Discover card 6011123456789012 exp 05/26 cvv 456 holder name S. Williams",
+    "ground_truth_score": 0.96,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9947
+  },
+  {
+    "query": "API documentation: Include api_version=v2 and client_id=<your_client_id> in requests",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2134
+  },
+  {
+    "query": "Prescription order: George Patterson, Metoprolol 50mg, refills: 11, filled 03/22/2024.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8458
+  },
+  {
+    "query": "Visa card 4539237458761234 compromised during retail data breach",
+    "ground_truth_score": 0.99,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Email format specification: firstname@domain.com example.",
+    "ground_truth_score": 0.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0082
+  },
+  {
+    "query": "Patient mental health intake: Caroline Sutton, DOB 02/20/1985, initial psychiatric evaluation, depression screening positive, antidepressant trial starting.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9427
+  },
+  {
+    "query": "Always implement proper validation at both client and server sides",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.2261,
+    "distilled_score": 0.0602
+  },
+  {
+    "query": "Medical leave of absence: Humphrey Grant, DOB 08/31/1982, approved 6 weeks, diagnosis major depressive episode, return date 05/15/2024.",
+    "ground_truth_score": 0.85,
+    "pretrained_score": 0.1612,
+    "distilled_score": 0.8893
+  },
+  {
+    "query": "Maintenance log: 'Snowflake warehouse unlocked with: warehouse_key=X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Legal documents to: 7950 Commerce Street, Building A, Suite 1200, Denver, CO 80202",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.781
+  },
+  {
+    "query": "Bank fraud case number: FRD-2024-87654, account holder Victoria Foster, DOB 08/11/1989, investigating $3,200 unauthorized charges.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9538
+  },
+  {
+    "query": "Chainlink validator node 0xL02aaA39b223FE8D0A0e5C4F27eAD9083C756Ccf staking revenue share.",
+    "ground_truth_score": 0.81,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8156
+  },
+  {
+    "query": "Wire transfer instruction from Linda Crawford, routing 112233445, account 9876543210, amount $9,200.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9299
+  },
+  {
+    "query": "Employee medical clearance: Harold Foster, DOB 08/14/1981, physical examination passed, cleared for duty.",
+    "ground_truth_score": 0.7,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.928
+  },
+  {
+    "query": "Card number 4678901234567890 exp 03/28 cvv 901 authorized $9,450 medical procedure.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Kubernetes secret revealed in pod description: DB_PASSWORD=K8sDb!Passw0rd2024#Prod",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.972
+  },
+  {
+    "query": "Research & Development internal phone: 555-0778, campus location Industrial Park",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0382,
+    "distilled_score": 0.8537
+  },
+  {
+    "query": "Login attempt by username 'jdoe42' was unsuccessful.",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0536,
+    "distilled_score": 0.1169
+  },
+  {
+    "query": "Applicant SSN 901-23-4567 submitted with mortgage pre-approval documentation",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9978
+  },
+  {
+    "query": "Data retention policy states that personal information should be maintained only as required by regulatory guidelines.",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0715,
+    "distilled_score": 0.068
+  },
+  {
+    "query": "Medical procedure authorization: Edward Collins, DOB 04/18/1976, gastric bypass surgery scheduled 05/10/2024, insurance pre-approval obtained.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9437
+  },
+  {
+    "query": "Policy document: Access control lists must be reviewed quarterly for all services",
+    "ground_truth_score": 0.1,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.0661
+  },
+  {
+    "query": "Patient discharge instruction: Quinton Myers, born 07/29/1980, post-operative care: keep incision dry, pain management with acetaminophen.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9283
+  },
+  {
+    "query": "Configuration shows: Set NOTION_DATABASE_ID=<database_id_from_workspace>",
+    "ground_truth_score": 0.2,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.2333
+  },
+  {
+    "query": "Healthcare provider directory: Dr. Amanda Powell, DOB 06/22/1981, board certified internist, accepting new patients.",
+    "ground_truth_score": 0.8,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9009
+  },
+  {
+    "query": "Medical imaging results: Patricia Foster, DOB 02/20/1979, CT scan shows no malignancy, discharge recommended.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9396
+  },
+  {
+    "query": "Medical records request: Augustus Whitley, born 01/25/1970, requested copy of records from pediatric visits 1975-1980, archival retrieval in progress.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.875
+  },
+  {
+    "query": "Deployment notification: 'Application initialized with service_account_credentials: X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9649
+  },
+  {
+    "query": "Medical power of attorney document: Helen Foster, born 12/28/1975, agent spouse Richard Foster authorized fully.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9365
+  },
+  {
+    "query": "PRIVATE - My personal cell 555-0667 and home at 7456 Quebracho Lane, Unit 3, San Antonio, TX 78201.",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Retirement distribution statement for Norman Price, DOB 05/19/1958, monthly withdrawal $4,200, tax withholding calculated.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9299
+  },
+  {
+    "query": "Patient comprehensive metabolic panel: Evangeline Worthington, DOB 09/08/1983, electrolytes normal, liver function tests mildly elevated, albumin 3.8 g/dL.",
+    "ground_truth_score": 0.75,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.844
+  },
+  {
+    "query": "Production logs captured: 'AUTH_SESSION_TOKEN=session_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA'",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9874
+  },
+  {
+    "query": "Loan disbursement record: Patricia Warren, born 05/27/1979, home equity line $180,000 approved, draws scheduled monthly $3,000.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9031
+  },
+  {
+    "query": "JCB card 3540111122223335 exp 09/27 cvv 678 flagged for suspicious international charges",
+    "ground_truth_score": 1.0,
+    "pretrained_score": 0.0,
+    "distilled_score": 1.0
+  },
+  {
+    "query": "Monero public address: 45z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9",
+    "ground_truth_score": 0.78,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.912
+  },
+  {
+    "query": "Patient lab values: Reginald Shaw, DOB 06/27/1981, glucose 145 mg/dL, HbA1c 6.8%, lipid panel pending, diabetes monitoring protocol.",
+    "ground_truth_score": 0.95,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9062
+  },
+  {
+    "query": "Patient nephrology assessment: Rosalind Ashton, born 12/17/1979, chronic kidney disease stage 3b, creatinine 1.8, eGFR 38, nephrology follow-up 8 weeks.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.8989
+  },
+  {
+    "query": "Patient psychiatric evaluation: Theodore Ashton, DOB 09/03/1980, presenting with depressive symptoms, PHQ-9 score 22, major depressive disorder diagnosed.",
+    "ground_truth_score": 0.9,
+    "pretrained_score": 0.0,
+    "distilled_score": 0.9262
+  }
+]
