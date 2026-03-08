@@ -1,2 +1,0 @@
-# All dependencies live in scaffold/requirements.txt
--r scaffold/requirements.txt
