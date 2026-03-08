@@ -52,6 +52,7 @@ def test_inference():
     ]
 
     print("\n--- Model Predictions ---")
+    scores = []
     for i, text in enumerate(test_sentences):
         inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True).to(device)
         with torch.no_grad():
@@ -60,12 +61,16 @@ def test_inference():
             if i == 0:
                 print(f"[debug] logits shape: {logits.shape}, raw: {logits.cpu().tolist()}\n")
             score = logits.squeeze().item() if logits.numel() == 1 else logits[0, 0].item()
+            scores.append(score)
             is_sensitive = score >= 0.5
             
         status = "🚩 SENSITIVE" if is_sensitive else "✅ SAFE"
         score_str = f"{score:.4f}" if not (isinstance(score, float) and (score != score)) else "nan"
         print(f"Text: {text}")
         print(f"Score: {score_str} -> {status}\n")
+
+    if len(scores) > 1 and all(s == scores[0] for s in scores):
+        print("⚠️  All scores identical — model may have collapsed during training (not using input). Consider retraining with more data or different hyperparameters.")
 
 if __name__ == "__main__":
     test_inference()

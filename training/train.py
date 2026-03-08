@@ -111,8 +111,9 @@ class DetectorModelManager:
             load_best_model_at_end=True,
             metric_for_best_model="mse",
             greater_is_better=False,
-            # BF16 is more stable for DeBERTa and avoids the gradient scaler bug in latest Torch
-            bf16=torch.cuda.is_available(),
+            # Train in float32 for stability (slower, more GPU memory than bf16)
+            bf16=False,
+            fp16=False,
             logging_steps=50,
             report_to="none"
         )
