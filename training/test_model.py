@@ -7,7 +7,10 @@ def test_inference():
     
     print(f"Loading model from {model_path}...")
     tokenizer = AutoTokenizer.from_pretrained(model_path)
-    model = AutoModelForSequenceClassification.from_pretrained(model_path).to(device)
+    # Regression head (num_labels=1) — must match how the model was trained
+    model = AutoModelForSequenceClassification.from_pretrained(
+        model_path, num_labels=1
+    ).to(device)
     model.eval()
 
     test_sentences = [
@@ -27,8 +30,9 @@ def test_inference():
             is_sensitive = score >= 0.5
             
         status = "🚩 SENSITIVE" if is_sensitive else "✅ SAFE"
+        score_str = f"{score:.4f}" if not (isinstance(score, float) and (score != score)) else "nan"
         print(f"Text: {text}")
-        print(f"Score: {score:.4f} -> {status}\n")
+        print(f"Score: {score_str} -> {status}\n")
 
 if __name__ == "__main__":
     test_inference()
