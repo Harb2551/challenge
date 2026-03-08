@@ -15,6 +15,7 @@ DISTILLED_PATH = "/workspace/models/detector_v1"
 MAX_LENGTH = 512
 BATCH_SIZE = 32
 FIRST_N = 50  # show first N test samples with predictions
+OUTPUT_JSON = os.path.join(os.path.dirname(__file__), "..", "pretrained_vs_distilled_results.json")
 
 
 def load_test_data(path: str):
@@ -61,6 +62,7 @@ def run_eval(model, tokenizer, texts, labels, device, name: str) -> dict:
         preds = out.logits.squeeze(-1).cpu().numpy()
         if preds.ndim == 0:
             preds = np.array([preds])
+        preds = np.clip(preds, 0.0, 1.0)  # head is linear (no sigmoid); clip for [0,1] score
         all_preds.append(preds)
     predictions = np.concatenate(all_preds)
     return compute_metrics(labels, predictions), predictions
@@ -121,6 +123,20 @@ def main():
     print(f"  R2:        {metrics_pretrained['r2']:.4f} -> {metrics_distilled['r2']:.4f} (higher is better)")
     print(f"  F1:        {metrics_pretrained['f1']:.4f} -> {metrics_distilled['f1']:.4f} (higher is better)")
     print(f"  Accuracy:  {metrics_pretrained['accuracy']:.4f} -> {metrics_distilled['accuracy']:.4f} (higher is better)")
+
+    # 5) Save full results to JSON
+    results = [
+        {
+            "query": text,
+            "ground_truth_score": round(float(labels[i]), 4),
+            "pretrained_score": round(float(preds_pretrained[i]), 4),
+            "distilled_score": round(float(preds_distilled[i]), 4),
+        }
+        for i, text in enumerate(texts)
+    ]
+    with open(OUTPUT_JSON, "w") as f:
+        json.dump(results, f, indent=2)
+    print(f"\nResults saved to {OUTPUT_JSON} ({len(results)} rows)")
 
 
 if __name__ == "__main__":

@@ -60,7 +60,8 @@ def test_inference():
             logits = outputs.logits
             if i == 0:
                 print(f"[debug] logits shape: {logits.shape}, raw: {logits.cpu().tolist()}\n")
-            score = logits.squeeze().item() if logits.numel() == 1 else logits[0, 0].item()
+            raw = logits.squeeze().item() if logits.numel() == 1 else logits[0, 0].item()
+            score = max(0.0, min(1.0, raw))  # head is linear (no sigmoid); clip to [0,1]
             scores.append(score)
             is_sensitive = score >= 0.5
             
