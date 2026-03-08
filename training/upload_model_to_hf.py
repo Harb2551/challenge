@@ -15,7 +15,6 @@ Default repo-id: harshit2551/challenge-detector-v1 (must match HF_MODEL_ID in sc
 import argparse
 import os
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
-from huggingface_hub import HfHubHTTPError
 
 MODEL_PATH = "models/detector_v1"
 DEFAULT_REPO_ID = "harshit2551/challenge-detector-v1"
@@ -45,8 +44,9 @@ def main():
     try:
         tokenizer.push_to_hub(args.repo_id, token=token)
         model.push_to_hub(args.repo_id, safe_serialization=True, token=token)
-    except HfHubHTTPError as e:
-        if e.response.status_code == 401:
+    except Exception as e:
+        status = getattr(getattr(e, "response", None), "status_code", None)
+        if status == 401:
             print("Error: Not logged in to Hugging Face. Use a token:")
             print("  export HF_TOKEN=your_token   # create at https://huggingface.co/settings/tokens")
             print("  python training/upload_model_to_hf.py")
