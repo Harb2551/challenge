@@ -122,7 +122,6 @@ class DetectorModelManager:
             fp16=False,
             logging_steps=50,
             report_to="none",
-            save_safetensors=True,
         )
 
         trainer = Trainer(
