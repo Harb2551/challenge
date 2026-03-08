@@ -108,6 +108,23 @@ def _run_pytorch_single(text: str) -> DetectResponse:
     return _logits_to_response(logits.squeeze().item())
 
 
+def _run_pytorch_batch(texts: list[str]) -> list[DetectResponse]:
+    """One forward pass for the whole batch instead of N separate runs."""
+    if not texts:
+        return []
+    inputs = _tokenizer(
+        texts,
+        return_tensors="pt",
+        truncation=True,
+        max_length=MAX_LENGTH,
+        padding=True,
+    )
+    inputs = {k: v.to(_device) if torch.is_tensor(v) else v for k, v in inputs.items()}
+    with torch.no_grad():
+        logits = _model(**inputs).logits
+    return [_logits_to_response(logits[i].squeeze().item()) for i in range(len(texts))]
+
+
 def detect_sensitive_content(text: str) -> DetectResponse:
     _load_model()
     if _onnx_detector is not None:
@@ -121,7 +138,7 @@ def detect_sensitive_content_batch(texts: list[str]) -> list[DetectResponse]:
     if _onnx_detector is not None:
         logits = _onnx_detector.run(_tokenizer, texts, MAX_LENGTH)
         return [_logits_to_response(logit) for logit in logits]
-    return [_run_pytorch_single(t) for t in texts]
+    return _run_pytorch_batch(texts)
 
 
 @app.post("/detect", response_model=DetectResponse)
