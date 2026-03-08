@@ -111,8 +111,8 @@ class DetectorModelManager:
             load_best_model_at_end=True,
             metric_for_best_model="mse",
             greater_is_better=False,
-            # Force FP16 on GPU (RunPod), but skip on CPU (Mac)
-            fp16=torch.cuda.is_available(),
+            # BF16 is more stable for DeBERTa and avoids the gradient scaler bug in latest Torch
+            bf16=torch.cuda.is_available(),
             logging_steps=50,
             report_to="none"
         )
