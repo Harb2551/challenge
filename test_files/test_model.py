@@ -1,8 +1,12 @@
 import torch
+from pathlib import Path
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, AutoConfig
 
+# Resolve paths from repo root so script works from any cwd
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
 def test_inference():
-    model_path = "models/detector_v1"
+    model_path = str(REPO_ROOT / "models" / "detector_v1")
     device = "cuda" if torch.cuda.is_available() else "cpu"
     
     print(f"Loading model from {model_path}...")

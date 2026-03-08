@@ -1,21 +1,24 @@
 """
 Compare pretrained (microsoft/deberta-v3-small) vs distilled model on the test set.
-Run: python3 training/compare_pretrained_vs_distilled.py
+Run from repo root: python test_files/compare_pretrained_vs_distilled.py
 """
 import json
 import os
 import torch
 import numpy as np
+from pathlib import Path
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, DataCollatorWithPadding
 from sklearn.metrics import mean_squared_error, r2_score, f1_score, precision_score, recall_score, accuracy_score
 
-TEST_FILE = "datasets/test.json"
+# Resolve paths from repo root so script works from any cwd
+REPO_ROOT = Path(__file__).resolve().parent.parent
+TEST_FILE = str(REPO_ROOT / "datasets" / "test.json")
 PRETRAINED_NAME = "microsoft/deberta-v3-small"
-DISTILLED_PATH = "models/detector_v1"
+DISTILLED_PATH = str(REPO_ROOT / "models" / "detector_v1")
 MAX_LENGTH = 512
 BATCH_SIZE = 32
 FIRST_N = 50  # show first N test samples with predictions
-OUTPUT_JSON = os.path.join(os.path.dirname(__file__), "..", "pretrained_vs_distilled_results.json")
+OUTPUT_JSON = str(REPO_ROOT / "pretrained_vs_distilled_results.json")
 
 
 def load_test_data(path: str):

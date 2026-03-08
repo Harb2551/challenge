@@ -1,9 +1,9 @@
 """
 Rigorous batch latency tests: hit /detect/batch with varying batch sizes and record response times.
 
-Uses test data from scaffold/sample_data.json and datasets/test.json. Run with the API up:
+Uses test data from scaffold/sample_data.json and datasets/test.json. Run with the API up (from repo root):
 
-  python -m scaffold.batch_latency_test [--base-url http://localhost:8000] [--runs 5]
+  python test_files/batch_latency_test.py [--base-url http://localhost:8000] [--runs 5]
 """
 
 import argparse
@@ -24,7 +24,7 @@ import urllib.request
 import urllib.error
 
 
-# Repo root: parent of scaffold/
+# Repo root: parent of test_files/
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SAMPLE_DATA = REPO_ROOT / "scaffold" / "sample_data.json"
 DATASETS_TEST = REPO_ROOT / "datasets" / "test.json"

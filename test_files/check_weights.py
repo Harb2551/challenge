@@ -1,8 +1,12 @@
 import torch
+from pathlib import Path
 from transformers import AutoModelForSequenceClassification
 
+# Resolve paths from repo root so script works from any cwd
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
 def check_weights():
-    model_path = "models/detector_v1"
+    model_path = str(REPO_ROOT / "models" / "detector_v1")
     print(f"Checking weights in {model_path}...")
     
     try:
