@@ -1,0 +1,102 @@
+[
+  {
+    "text": "my password is fluffy2024",
+    "has_sensitive_content": true,
+    "category": "password"
+  },
+  {
+    "text": "can you help me connect? the password is: Kj8#mP2$nQ5@vL9",
+    "has_sensitive_content": true,
+    "category": "password"
+  },
+  {
+    "text": "login with username admin and password Spr1ngB00t!#2024",
+    "has_sensitive_content": true,
+    "category": "password"
+  },
+  {
+    "text": "here's my openai key sk-proj-abc123def456ghi789jkl012 can you use it",
+    "has_sensitive_content": true,
+    "category": "api_key"
+  },
+  {
+    "text": "export GITHUB_TOKEN=ghp_ABCDEFghijklMNOPQRstuvwxyz1234567890",
+    "has_sensitive_content": true,
+    "category": "api_key"
+  },
+  {
+    "text": "my SSN is 123-45-6789 don't share this",
+    "has_sensitive_content": true,
+    "category": "ssn"
+  },
+  {
+    "text": "my credit card number is 4532 1234 5678 9012 expiry 03/27 cvv 891",
+    "has_sensitive_content": true,
+    "category": "credit_card"
+  },
+  {
+    "text": "my email is john.smith@company.com and my phone is 415-555-0199",
+    "has_sensitive_content": true,
+    "category": "contact_info"
+  },
+  {
+    "text": "AWS_SECRET_ACCESS_KEY=\"wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY\"",
+    "has_sensitive_content": true,
+    "category": "api_key"
+  },
+  {
+    "text": "Connect with mongodb://root:x8Kp2mNq@cluster0.abc.mongodb.net/mydb",
+    "has_sensitive_content": true,
+    "category": "connection_string"
+  },
+  {
+    "text": "Here's my JWT: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIn0.dozjgNryP4J3jVmNHl0w5N_XgL0n3I9PlFUP0THsR8U",
+    "has_sensitive_content": true,
+    "category": "token"
+  },
+  {
+    "text": "the password policy requires 8 characters with uppercase and special",
+    "has_sensitive_content": false,
+    "category": "safe_policy"
+  },
+  {
+    "text": "The server runs on port 8080 in the us-east-1 region",
+    "has_sensitive_content": false,
+    "category": "safe_technical"
+  },
+  {
+    "text": "Can you explain how async/await works in JavaScript?",
+    "has_sensitive_content": false,
+    "category": "safe_question"
+  },
+  {
+    "text": "Install with npm install express@latest and set debug to true",
+    "has_sensitive_content": false,
+    "category": "safe_technical"
+  },
+  {
+    "text": "The Docker image is node:18-alpine and the endpoint is /api/v1/users",
+    "has_sensitive_content": false,
+    "category": "safe_technical"
+  },
+  {
+    "text": "credit to the team for their amazing work on this release",
+    "has_sensitive_content": false,
+    "category": "safe_casual"
+  },
+  {
+    "text": "what's the weather like in San Francisco today",
+    "has_sensitive_content": false,
+    "category": "safe_casual"
+  },
+  {
+    "text": "The error message says connection refused on localhost:5432",
+    "has_sensitive_content": false,
+    "category": "safe_technical"
+  },
+  {
+    "text": "Run the migration: ALTER TABLE users ADD COLUMN email VARCHAR(255)",
+    "has_sensitive_content": false,
+    "category": "safe_technical"
+  }
+]

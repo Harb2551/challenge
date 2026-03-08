@@ -1,0 +1,42 @@
+[
+    {
+        "text": "The server runs on port 8080 in the us-east-1 region",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "Can you explain how async/await works in JavaScript?",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "Install with npm install express@latest and set debug to true",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "The Docker image is node:18-alpine and the endpoint is /api/v1/users",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "The error message says connection refused on localhost:5432",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "Run the migration: ALTER TABLE users ADD COLUMN email VARCHAR(255)",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "export AWS_SECRET_ACCESS_KEY=<INSERT_YOUR_KEY_HERE>",
+        "sensitivity_score": 0.4
+    },
+    {
+        "text": "Remember to rotate your password every 90 days as per company policy.",
+        "sensitivity_score": 0.1
+    },
+    {
+        "text": "Log entry: User login attempt failed for username 'admin'.",
+        "sensitivity_score": 0.2
+    },
+    {
+        "text": "We need to mock the API response for the test suite.",
+        "sensitivity_score": 0.0
+    }
+]

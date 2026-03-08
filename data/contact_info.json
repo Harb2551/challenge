@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Please reach me at my personal residence: 287 Oak Ridge Drive, Boulder, CO 80302 or call 303-555-0147",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My work email is sarah.wellington@techcorp.com and my direct line is 415-555-0234",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Send documents to my home: 512 Maple Street, Apartment 4B, Portland, OR 97214",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact me at 555-0198 (personal cell) or michael.chen@gmail.com",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Office address: 456 Corporate Blvd, Suite 340, Atlanta, GA 30303. Extension 2847.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The VP's direct office number is 212-555-0445 - use this for urgent matters",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "HR Department phone: 510-555-0512 (ask for Jennifer in room 302)",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Marketing team location: Building C, 3rd Floor, Extension 5023",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ship to business address: 789 Innovation Way, Suite 200, San Jose, CA 95110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Billing contact: accounts@merchantservices.com (internal extension 401)",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client meeting location: 234 Executive Plaza, Floor 15, Boston, MA 02101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Department head can be reached at dept.manager@enterprise.org during business hours",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "General inquiry: contact@acmecorp.com for more information",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our offices are in the greater New York area with multiple locations",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Customer service is available at 1-800-555-0100 (toll-free)",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "For support, email help@softwarecompany.com",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Please use the format: firstname.lastname@domain.com for email addresses",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Phone numbers should follow the pattern (###) ###-####",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Addresses can include street, city, state, and ZIP code",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Enter your contact information in the designated fields",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Urgent: My apartment number is 15C at 623 Riverside Terrace, Minneapolis, MN 55401. Cell: 612-555-0267",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal information - Do not share: 555-0298 (home phone), lived at 892 Willow Lane, Seattle, WA 98101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Delivery instructions: 145 Elm Court, Unit 7, Denver, CO 80202. Contact: 720-555-0356",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Confidential contact details: david.morrison@personalmail.com, 555-0187",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "IT Department: Room 401, call 415-555-0567 for technical issues",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior analyst office: Building A, 2nd Floor, Cubicle 245, ext. 3334",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Director of Sales: 650-555-0423 (direct line, do not transfer)",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Finance team located at: Suite 500, 3rd Floor, internal phone 555-0889",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Vendor delivery address: 567 Commerce Drive, Building 2, Dallas, TX 75201",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client office contact: 890 Park Avenue, Floor 22, New York, NY 10021",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Business correspondence: coordinator@partnerfirm.com (monitored business email)",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Regional headquarters: 345 Technology Road, Suite 100, Austin, TX 78704",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Visit our website or call our main line for assistance: 1-800-555-0156",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Corporate headquarters located in California with multiple satellite offices",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Email us at feedback@company.com for general inquiries",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Support hours: 9 AM to 5 PM EST, contact main reception",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "To register, provide your email address (example: user@example.com)",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address format example: 123 Street Name, City, State 12345",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Valid phone number formats include (###)###-#### or ###-###-####",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Fields required: Name, email, and optional phone number",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Emergency contact: My mother at 555-0267, lives at 156 Birch Avenue, Cleveland, OH 44102",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Password reset link sent to: elizabeth.hart@privateemail.com (personal account at 402 Cedar Lane, Omaha, NE 68102)",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Temporary mailing address: 234 Ash Drive, Nashville, TN 37201, reachable at 615-555-0412",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Agent direct contact: 555-0523 or james.rivera@agencymail.com (office: 678 Main Street, Phoenix, AZ 85001)",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Quality Assurance team: ext. 4401, located Building B, Testing Division",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Program Manager: 206-555-0634 direct line, office 5th Floor, Room 509",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Research & Development internal phone: 555-0778, campus location Industrial Park",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Operations center: 4200 Summit Ridge, Suite 300, internal extension 2200",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Purchase orders sent to: procurement@vendornetwork.org at facility 789 Trade Street, Memphis, TN 38103",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client meeting scheduled at: 456 Executive Tower, 18th Floor, Baltimore, MD 21202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Invoice inquiries: billing.support@invoiceservices.com (business location)",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "My home phone is 503-555-0234 and I live at 847 Sycamore Lane, Salem, OR 97301",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal cell: 555-0456, residential address: 923 Cedar Street, Apartment 12, Miami, FL 33101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach me at 214-555-0678 or email me at margaret.lopez@personalmail.com",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My private residence: 1847 Oak Manor Drive, Tucson, AZ 85701. Phone: 520-555-0345",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact details - 713-555-0567 (home), 445 Briarwood Lane, Houston, TX 77001",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal email: robert.chen@gmail.com, phone 617-555-0234, address 678 Hillcrest Road, Boston, MA 02101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Call my direct line at 212-555-0890 - I'm in the corner office on floor 12",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the CFO at 415-555-0678, office 2800 (Building West, executive wing)",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Manager direct: 404-555-0123, room 401, extension 5567",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Board member's private line: 818-555-0345, executive suite level 10",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Chief Legal Officer can be reached at 206-555-0789 from her office in Building A",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Founder's personal contact: 415-555-0456, operates from headquarters main office",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Engineer on-call: 555-0912 extension 3344, lab section 2C",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Account manager Jennifer: 510-555-0234, office 201 in the West Tower",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please send contracts to our office at 2000 Innovation Drive, Suite 450, San Diego, CA 92101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Conference scheduled at 555 Market Street, 14th Floor, San Francisco, CA 94105 - confirm with admin@branch.com",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Shipment destination: 3300 Technology Boulevard, Building 3, Charlotte, NC 28202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Meeting location: 888 Corporate Plaza, Suite 600, Indianapolis, IN 46204",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Send materials to: 1200 Westpark Drive, Suite 500, Houston, TX 77079",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Project team office: 4500 Research Park Drive, Suite 200, Portland, OR 97239",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client presentation at: 750 Lexington Avenue, Floor 32, New York, NY 10022",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Vendor location: 2100 Gateway Center, Suite 100, Raleigh, NC 27607",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our main office at support@globalcorp.com or 1-800-555-0234 for assistance",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Customer service hotline: 1-888-555-0100. We're located in the tri-state area.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "For general inquiries, reach us at info@companyhq.org",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our headquarters is in downtown Chicago. Call 1-800-555-0567 for business hours.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Public contact: hello@enterprise.com or toll-free 1-866-555-0999",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Customer support available at support@retailchain.com",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Reach our main reception at 1-800-555-0888 during business hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General office address: 100 Commerce Boulevard, Suite 1000, City, State 12345",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Email format should be firstname.lastname@domain.com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Phone number template: (###) ###-#### or ###-###-####",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Standard address format: Street Number, Street Name, City, State ZIP code",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contact information fields: name, email address, phone number (optional)",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please enter your contact details in the spaces provided below",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Examples of valid email formats: user@company.com or firstname@domain.org",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "When providing phone numbers, use the standard US format",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address information may include apartment, suite, or office numbers",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My personal cell: 555-0645, home address 567 Pinecrest Way, Las Vegas, NV 89101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact me at 602-555-0789 or christopher.james@privateemail.com - live at 1345 Sandstone Drive, Phoenix, AZ 85001",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Residence: 2456 Moonlight Avenue, Unit 8, Long Beach, CA 90801. Cell: 562-555-0234",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private line: 407-555-0567, residential location 3333 Sunshine Boulevard, Orlando, FL 32801",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Director of Operations direct line: 202-555-0456, office 5000 (north tower)",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Architect ext. 4488, located Technology Center Building 7",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "VP of Product: 650-555-0345, workspace floor 8, room 815",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Principal Engineer can be reached at 408-555-0912, lab 320B",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Delivery to: 5600 Innovation Center Drive, Building E, Austin, TX 78744",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Workshop location: 1800 Techwood Drive, Suite 300, Atlanta, GA 30318",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Training facility: 920 Professional Plaza, Floor 4, Nashville, TN 37211",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "We're based in the Pacific Northwest. Visit our website or call our main line.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Questions? Email us at contact@servicecompany.com",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Please route this to my personal residence at 1924 Hickory Lane, Albuquerque, NM 87102",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach me urgently at 585-555-0234 (my private cell) or 1156 Maple Ridge Drive, Rochester, NY 14607",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My contact info: laura.martinez@gmail.com, home phone 702-555-0456, address 2847 Desert Bloom Court, Las Vegas, NV 89109",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal emergency contact: 555-0678 (mother's cell), she's at 4521 Oak Meadow Drive, Fresno, CA 93650",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Mailing address is 3912 Willow Springs Road, Apartment 9F, Memphis, TN 38103. Home phone: 901-555-0345",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Residence location: 7834 Sycamore Ridge, Unit 14, Mesa, AZ 85201. Personal line: 480-555-0567",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private contact details - DO NOT SHARE: 555-0789, 2156 Pinewood Avenue, Baltimore, MD 21218",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My home address is 4765 Heather Hill Road, Sacramento, CA 95814 and cell is 916-555-0234",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact the CFO directly at extension 5678, corner office on the 12th floor",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the Regional Manager at 267-555-0456, Building C, Room 340",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Chief Technology Officer: 415-555-0901, office suite 2100, direct line do not transfer",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Head of Legal Department: ext. 3456, located north wing floor 8, room 815",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Compliance Officer can be reached at 202-555-0678, office 4200, restricted access area",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Director of Engineering direct line: 650-555-0345, workspace Building A room 501",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Administrative Assistant for VP: 555-0523 ext. 2100, executive level floor",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Data Analyst: 408-555-0912, office configuration testing lab 4D",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Package delivery to corporate office: 6789 Enterprise Boulevard, Suite 400, Arlington, VA 22201",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client site visit: 2200 Innovation Parkway, Building 5, San Jose, CA 95110 - confirm with manager",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Project team gathering at: 5555 Corporate Drive, Suite 250, Plano, TX 75023",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Vendor pickup location: 3300 Industrial Way, Building 2, Riverside, CA 92501",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Training session scheduled at: 1100 Professional Court, Floor 3, Irving, TX 75060",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Meeting with client team: 8800 Commerce Drive, Suite 500, Los Angeles, CA 90001",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Shipment destination: 4400 Technology Circle, Building C, Cincinnati, OH 45202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Workshop location: 7700 Business Park, Suite 300, Columbus, OH 43085",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For customer support, contact help@retailservices.com or call our toll-free line",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our main corporate office is located in the Chicago metropolitan area",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General contact information available on our company website or public directory",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Customer service team operates from our headquarters during standard business hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Reach our sales department at sales@companycorp.com for inquiries",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Support available through our main office phone line, toll-free number provided on website",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our facilities are distributed across multiple states in the United States",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email address format: [firstname].[lastname]@[company].com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone numbers should be entered as: (XXX) XXX-XXXX format",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Standard mailing address structure: [Number] [Street], [City], [State] [ZIP]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "When registering, provide your contact information in the designated fields",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address entry should include street, city, state, and postal code",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Please provide a valid contact method for account verification",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Enter your email address to receive confirmation",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contact details may be used for business communication purposes",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Phone number field is optional during registration",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "We are headquartered in a major US metropolitan area",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "This company operates primarily in the western region",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Our offices serve customers across multiple time zones",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Based in the United States with international presence",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Service centers located in major cities nationwide",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Urgent callback needed: 555-0445 (my home line), live at 5678 Blakewood Terrace, Milwaukee, WI 53202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal contact - confidential: 919-555-0234, residential address 3456 Oakridge Court, Raleigh, NC 27601",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Send all correspondence to: 8765 Fairview Avenue, Unit 5, Louisville, KY 40202. Contact: 502-555-0567",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Emergency contact: My sister at 555-0912, she lives at 2847 Birchwood Lane, Apartment 6, Detroit, MI 48202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Please mail the confidential documents to my home: 5432 Oakmont Drive, Cincinnati, OH 45202. Call me at 513-555-0678",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My personal residence phone: 303-555-0445 and address: 1234 Mountainview Terrace, Denver, CO 80205",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Urgent - reach me at my private cell 555-0567 or at home: 7890 Riverside Court, Unit 3, Austin, TX 78702",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact me directly: elizabeth.johnson@personalmail.com, 415-555-0334, 4521 Laurel Heights, San Francisco, CA 94109",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The COO's direct office line is 212-555-0678 - extension 2500, top floor executive wing",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "VP of Engineering can be reached at 650-555-0523, office 3100 in the Innovation Building",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Department Head's direct number: 202-555-0456, room 450, do not transfer",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the Senior Director at 408-555-0789, office located in Building D, floor 7",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Internal IT support: extension 4567, located in the Technology Services wing",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please deliver to our offices at 1500 Market Street, Suite 800, Denver, CO 80202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Conference room reservation at: 3456 Innovation Boulevard, Floor 12, San Jose, CA 95110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Ship materials to: 2200 Tech Park Drive, Building A, Suite 300, Phoenix, AZ 85013",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client meeting scheduled at our facility: 4800 Corporate Center Drive, Suite 600, Charlotte, NC 28202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Vendor collection location: 6700 Technology Avenue, Building 2, Minneapolis, MN 55435",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For business inquiries, reach us at corporate@maincompany.com during standard hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our corporate headquarters is located in the downtown area with public reception available",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General company address: 100 Enterprise Way, Suite 500, City, State 12345",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Call our main reception desk at 1-800-555-0300 for general inquiries",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Customer contact center available at support@company.com or main toll-free line",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Please use the standard phone format: (###) ###-#### when entering contact numbers",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email addresses should follow the pattern: firstname.lastname@domain.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address format should include: street address, city, state, and ZIP code",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Contact information template: name, email address, and optional phone number",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Valid phone number examples: 555-123-4567 or (555) 123-4567",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Please provide your contact details in the form fields below",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Enter an email address to continue registration",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Phone number field accepts standard US format",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address information is required for shipping purposes",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contact method for account notifications",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My home number is 404-555-0890 and I live at 6543 Peachtree Road, Apartment 12, Atlanta, GA 30308",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal details - confidential: 555-0234, residence at 9876 Elmwood Avenue, Unit 2B, Philadelphia, PA 19103",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach me at my private residence: 3210 Oakridge Lane, Tucson, AZ 85710 or call 520-555-0123",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact: william.torres@privatemail.com, cell 561-555-0456, home 2150 Palm Beach Lane, West Palm Beach, FL 33401",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My residential address is 7654 Maple Grove Street, Madison, WI 53703 and personal phone 608-555-0567",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Chief Financial Officer direct line: 415-555-0234, office 4500, restricted access area",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Head of Marketing can be reached at 206-555-0345, located Building B, floor 6, room 601",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Quality Assurance Manager: 510-555-0678, extension 3300, testing facility location",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Regional Sales Manager direct: 214-555-0512, office in the south tower, floor 9",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Production Team Lead: 503-555-0890, located warehouse facility Building C",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Delivery destination: 5555 Techwood Avenue, Suite 200, Atlanta, GA 30318",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Training session location: 4200 Business Loop, Building 1, Kansas City, MO 64111",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Project kickoff at: 7800 Main Street, Suite 400, Long Beach, CA 90801",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Shipment to: 3300 Westpark Drive, Suite 150, Houston, TX 77042",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client presentation location: 6100 Executive Boulevard, Floor 8, Arlington, VA 22207",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our support team through the main website or toll-free customer service line",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "We have offices throughout the country. Please visit our website for location details",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General inquiries: info@servicecorp.org - monitored during business hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our corporate headquarters serves as the main customer contact center",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Public directory available online or through our main reception",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "When entering a phone number, use digits only or standard formatting",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email address field: enter your complete email address",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address entry: provide street, city, state, and ZIP code separately",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Contact information used for order processing and account updates",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone and address fields are optional unless required for shipping",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Sarah's personal cell: 555-0876, she resides at 4892 Birch Street, Apartment 7, Detroit, MI 48201",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private contact information - do not distribute: 720-555-0234, home address 1567 Cottonwood Lane, Denver, CO 80210",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach me urgently at my personal line 555-0445 or residence: 3421 Willowbrook Drive, Minneapolis, MN 55401",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My direct home phone is 786-555-0678 and I live at 5634 Coral Ridge Avenue, Unit 4, Miami, FL 33156",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal emergency contact: david.kim@privatemail.com, 206-555-0389, 2289 Greenwood Terrace, Seattle, WA 98101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Director of Human Resources direct line: 312-555-0567, office 2300, north executive tower",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the Controller at extension 3789, located Building A, room 340, floor 5",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Vice President: 602-555-0234, direct office suite 3500, do not route through main",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Internal staff directory - Principal Architect at 408-555-0756, workspace Building D room 425",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Compliance Manager can be reached at 617-555-0623, restricted office area floor 11",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Material shipment to: 4567 Industrial Boulevard, Suite 300, Las Vegas, NV 89102 - confirm receipt",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Training workshop scheduled at: 2300 Corporate Drive, Building 2, Dallas, TX 75234",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Send the finalized contract to our office: 6789 Business Center, Floor 5, Miami, FL 33126",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client site visit: 1800 Innovation Park Drive, Building C, Tampa, FL 33602 - directions attached",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Package delivery address: 5200 Tech Plaza, Suite 400, Phoenix, AZ 85013",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For help with your account, please contact support@businessservices.com",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our main customer service number is 1-800-555-0456. Hours available on our website.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General company headquarters: 200 Corporate Way, Suite 1000, State City, ST 12345",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Reach us at info@globalservices.org for general business inquiries",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Call our public reception line at 1-888-555-0234 during standard business hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Please enter your email address in the format: user@company.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone number template: (XXX) XXX-XXXX or XXX-XXX-XXXX",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Standard address format includes: street number, street name, city, state, and ZIP",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Enter your contact information using valid format: name, phone, email",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address field should contain: [number] [street], [city], [state] [ZIP]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company operates primarily in the Northeast region of the United States",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Our main headquarters is located in a major metropolitan area",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "We have service locations across several states nationwide",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Based in the central United States with expanding operations",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "This organization serves customers throughout North America",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please share your home address and personal phone number: 555-0956, 8901 Sycamore Ridge, St. Louis, MO 63101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Confidential: my residential contact is 303-555-0567 and I'm located at 4456 Aspen Grove Road, Boulder, CO 80301",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private contact: michelle.lee@personalmail.com, cell 602-555-0789, home 7123 Desert View Lane, Scottsdale, AZ 85251",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My personal residence: 2934 Hickory Lane, Unit 9, Portland, OR 97201 - call me at 503-555-0234",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Family emergency contact: 555-0345 (father's cell), he's at 6789 Maple Street, Apartment 3, New Orleans, LA 70112",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Senior Product Manager extension 4234, located technology center Building 2, floor 8",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Chief Legal Officer direct: 650-555-0912, office executive suite level 9",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the Board Secretary at 202-555-0789, office 5200, restricted area",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Analyst can be contacted at 617-555-0456, workspace floor 6 room 612",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Internal extension 2890, Principal Engineer located research facility Building E",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Quarterly review meeting location: 3700 Business Avenue, Suite 500, Boston, MA 02110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please route documents to: 5100 Commerce Drive, Building 3, Los Angeles, CA 90001",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Project coordination at: 2600 Innovation Way, Floor 7, San Diego, CA 92101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Vendor materials delivered to: 4400 Corporate Parkway, Suite 200, Oakland, CA 94601",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Training facility location: 1900 Professional Boulevard, Building 1, Portland, OR 97214",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our customer care team through our website portal",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Main office address (public): 150 Enterprise Plaza, Suite 800, City, State 54321",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Reach customer support at 1-800-555-0567 or support@companycorp.com",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General inquiries directed to our public business line during office hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "For assistance, please call our main corporate number or email general support",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Phone field accepts standard formatting: (###) ###-#### pattern",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email should be entered as: firstname.lastname@organization.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address includes: building number, street, municipality, state, postal code",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "I just moved to 8234 Chestnut Drive, Unit 14, Nashville, TN 37201. My new home phone is 615-555-0234.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal cell number 555-0567 - do NOT share. I live at 4129 Hickory Court, Apartment 8, Memphis, TN 38103.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Urgent message for mark.davidson@privatemail.com - residence: 7456 Walnut Ridge, Unit 2, Baltimore, MD 21206. Contact: 410-555-0345.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My confidential home address: 3567 Cedarwood Lane, Louisville, KY 40202. Personal line: 502-555-0456.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private residential details - DO NOT DISTRIBUTE: 555-0678, 9123 Pinewood Court, Apartment 6, Portland, OR 97201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The VP of Sales' direct office line is 408-555-0123, suite 2800, top floor executive area.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the Head of Product Development at 415-555-0567, office 3400 in the Innovation Tower, extension 4100.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Director of Operations can be reached at 503-555-0789, located Building B room 520, floor 5.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Executive Assistant: 212-555-0234, office located north wing suite 2700, do not transfer.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Internal extension 5678 reaches the Chief Information Officer, workspace in the Technology Services building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please deliver the confidential report to our office: 3200 Technology Drive, Suite 600, Austin, TX 78704.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client meeting confirmed at: 5600 Innovation Boulevard, Building 4, Floor 8, Silicon Valley, CA 95110.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Ship to our distribution center: 2100 Logistics Way, Suite 300, Indianapolis, IN 46202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Training session location: 4300 Professional Court, Building 2, Suite 400, Orlando, FL 32801.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Project team gathering: 6800 Commerce Circle, Floor 10, Suite 1000, Atlanta, GA 30303.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our support team is available at help@globalcorp.com for customer assistance.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Contact information: Please call our main office during business hours or email support.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company headquarters is located in the greater Seattle area.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "For general inquiries, reach our customer service department through the main website.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Call our toll-free support line: 1-800-555-0100 for assistance.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Standard phone number format: (###) ###-#### or ###-###-####.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Email address field should contain: [user]@[domain].com format.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address entry requires: street number, street name, city, state, ZIP code.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please provide your contact information in the following fields: name, email, phone.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "When registering, enter your address as: [number] [street], [city], [state] [ZIP].",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company operates through regional offices across the United States.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Our primary operations are based in the Midwest region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Service areas include multiple locations throughout North America.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "This organization has facilities in several major cities nationwide.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "We serve customers across multiple states in the continental United States.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "My home number is 864-555-0123 and residential address is 5678 Oak Ridge, Unit 5, Greenville, SC 29601.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal contact - CONFIDENTIAL: 555-0890, residence at 2341 Maple Grove Lane, Durham, NC 27701.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Send documents to my home: 7234 Birchwood Avenue, Apartment 11, Salt Lake City, UT 84102. Phone: 801-555-0567.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Emergency contact: james.martinez@personalmail.com, 214-555-0234, residence 4567 Cottonwood Lane, Plano, TX 75023.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal details for file: 555-0456, home address 8912 Elmwood Terrace, Unit 3, Long Beach, CA 90801.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Treasurer's direct office line is 617-555-0678, office suite 4100, restricted executive area.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the Chief Compliance Officer at 713-555-0345, located Building C floor 9 room 912.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Account Executive: extension 3456, located in the Client Services building floor 7.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Principal Data Scientist can be reached at 650-555-0912, workspace Building D room 301.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Internal contact - Department Head at 770-555-0567, office 2500, do not transfer through main.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Quarterly conference location: 7100 Corporate Way, Suite 900, Nashville, TN 37201.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Materials shipment destination: 4800 Innovation Parkway, Building 3, Suite 500, Raleigh, NC 27601.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client presentation site: 2900 Professional Drive, Floor 6, Memphis, TN 38103.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Vendor pickup location: 5400 Technology Court, Suite 200, Louisville, KY 40202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Training workshop at: 3100 Commerce Boulevard, Building 1, Suite 400, Boston, MA 02108.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For customer support, contact help@services.com or dial our public support line.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Our main corporate headquarters is located in a metropolitan area.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "General business inquiries can be sent to info@organization.com.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Customer service available during standard business hours through our main reception.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Public company directory and location information available online.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone numbers should be entered using standard digits or formatting conventions.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Email address template: firstname.lastname@company.domain",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "I've updated my contact card: personal cell 555-0912, home at 6789 Pinecrest Drive, Unit 7, Raleigh, NC 27601",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "URGENT - My residential phone is 404-555-0234 and I live at 2156 Dogwood Lane, Apartment 4, Charlotte, NC 28202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private family contact: 555-0567, grandmother's address 4892 Sycamore Street, Unit 2, Austin, TX 78701",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal emergency info - do not share: 720-555-0678, residence 3344 Magnolia Avenue, Denver, CO 80203",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My mobile: 786-555-0345, home address 5621 Laurel Road, Miami, FL 33128",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional VP's direct line is 480-555-0456, office 3200, Phoenix facility building A",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the IT Director at extension 2789, located tech services building room 215, floor 2",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Manager direct: 858-555-0123, workspace suite 1800, do not route through switchboard",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Head of Finance can be contacted at 704-555-0890, office 4500, north tower restricted access",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Internal extension 3321 for Principal Consultant, located building 5 research facility",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please route the contract to our office: 7600 Executive Plaza, Suite 700, San Antonio, TX 78201",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Shipment confirmation: 2850 Technology Park Drive, Building C, Suite 300, Houston, TX 77042",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Deliver completed project to: 4200 Corporate Gateway Boulevard, Floor 4, Jacksonville, FL 32207",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client visit scheduled at: 6100 Heritage Drive, Suite 500, Fort Worth, TX 76132",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Meeting location: 3400 Innovation Center, Building 2, Suite 200, Columbus, OH 43215",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For account assistance, reach our help desk at support@enterprises.com or main support line",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General corporate offices: 175 Business Avenue, Suite 600, State Capital, ST 54321",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Public inquiries directed to: info@services.org during regular business hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Main customer service desk available at 1-800-555-0900 or through website portal",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Contact our business development team through the public corporate website",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Enter phone numbers in the format: (###) ###-#### with area code first",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Email field should be formatted as: name@domain.extension",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Address entry should include: [street number] [street name], [city], [state] [ZIP]",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Phone number examples for reference: 555-1234 or (555) 1234",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Standard contact format template: firstname.lastname@organization.com",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Our company operates across the Pacific Northwest region",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The organization has a significant presence in the Southeast",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "We serve customers throughout the Great Lakes area",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Operations span multiple regions across the United States",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company maintains facilities in several major metropolitan areas",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Confidential contact details: 555-0234, I reside at 8765 Walnut Springs, Unit 6, Irving, TX 75013",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal residential contact - do not distribute: 512-555-0567, home address 3298 Cedar Ridge Lane, Austin, TX 78704",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My cell number is 702-555-0890 and I live at 5544 Desert Breeze Drive, Apartment 9, Las Vegas, NV 89101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "PRIVATE: 555-0345, residential address 7821 Valley View Drive, Unit 3, Memphis, TN 38103",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Home phone 415-555-0612, residence 2167 Golden Gate Heights, San Francisco, CA 94110",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Chief Marketing Officer's direct extension is 4567, located executive suite 3600 top floor",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the Compliance Director at 206-555-0234, office building A room 401, floor 4",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Product Lead: 949-555-0678, workspace suite 2900, do not transfer",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Internal contact - Department Manager at 919-555-0456, located operations facility building 3",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Principal Analyst extension 3334, located analytics center floor 6 room 601",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send materials to: 5900 Strategic Place, Suite 800, San Diego, CA 92101 for processing",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Conference location confirmed: 3600 Enterprise Road, Building 1, Suite 300, Seattle, WA 98101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Shipment destination: 4100 Commerce Park, Floor 5, Suite 400, Boston, MA 02110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Training held at: 2400 Innovation Drive, Building 4, Suite 200, Phoenix, AZ 85001",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Client meeting site: 6300 Business Circle, Suite 600, San Jose, CA 95110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our customer support team responds to inquiries at support@globalservices.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "General company information available at: 125 Market Street, Suite 400, City, ST 12345",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Reach us through our main public line: 1-800-555-0234 during business hours",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "For general support, contact info@companycorp.com or call our main desk",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Customer service available at help@businesssolutions.org with standard response times",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "I need to reschedule my appointment. Please call my personal line at 206-555-0923 to confirm the new date.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Our Finance Team Lead can be reached at 312-555-0645, office 2150, Building North Tower",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please send the invoice to: 7200 Market Street, Suite 750, San Francisco, CA 94102",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our general support team at help@publicservices.com for assistance with your order",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Our office is located in the Chicago metropolitan area",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Phone format template: [area code]-[prefix]-[line number]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My home residence is at 4521 Birch Lane, Unit 12, Cleveland, OH 44101. Call me at 216-555-0445.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The CEO's direct office line is 415-555-0756, suite 5200, executive floor restricted access",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Client delivery address: 3800 Corporate Boulevard, Building 2, Floor 7, Atlanta, GA 30303",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For billing questions, please email billing@company.com or call our main office",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company has operations in multiple Midwest states",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Email address format: [firstname].[lastname]@[organization].com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My personal cell is 555-0712 and I live at 6234 Oakwood Avenue, Apartment 5, Detroit, MI 48201",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach the Director of Strategy at 650-555-0834, located Building C room 308, floor 3",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Conference materials ship to: 2500 Professional Parkway, Suite 400, Los Angeles, CA 90001",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our customer care representatives are available during standard business hours",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The organization serves clients throughout the southwestern United States region",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Address field should contain: [street], [city], [state], [postal code]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share - my residential phone 314-555-0567 and home at 8901 Spruce Street, Unit 8, St. Louis, MO 63101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The VP of Operations' direct number is 503-555-0423, office 2600, Portland facility building main",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Package delivery to: 5100 Technology Way, Floor 6, Suite 500, San Jose, CA 95110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please reach out to our support team at info@solutions.com for any questions",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Our headquarters is based in a major metropolitan area in the Northeast",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Standard contact entry: name, phone number, email address fields",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Personal information - emergency contact cell 555-0289, residence 3456 Maple Drive, Unit 2, Las Vegas, NV 89101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Financial Officer can be reached at extension 5234, located executive offices floor 9",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ship to our regional warehouse: 4400 Industrial Drive, Building D, Suite 200, Dallas, TX 75234",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For technical support, contact support@tech-solutions.org or use our online help portal",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "We have service centers located across the Pacific region",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Phone number entry guidelines: use digits 0-9 with standard formatting",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT - My home phone is 602-555-0956 and residential address is 7689 Desert Rose Lane, Phoenix, AZ 85001",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Senior Architect direct line 617-555-0745, office suite 1900, building technology services",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Vendor materials should be sent to: 6200 Commerce Avenue, Suite 300, Houston, TX 77042",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our main reception desk during business hours for general inquiries",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company operates in multiple geographic regions across North America",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Required format for phone: (###) ###-#### or ###-###-####",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Private residential details: 555-0834, I reside at 2789 Ashwood Court, Unit 6, Baltimore, MD 21206",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Product Engineering extension 4456, located Building research facility floor 8",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Project documentation delivery to: 3500 Gateway Boulevard, Suite 600, San Diego, CA 92101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "General company inquiries can be directed to our public website contact form",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "This organization maintains a presence in several major U.S. cities",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Email format requires @ symbol and domain name extension",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My personal cell number is 214-555-0678 and home address is 5432 Willow Ridge, Apartment 9, Dallas, TX 75201",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach the Manager of Client Relations at 425-555-0589, office 1700, Seattle facility restricted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send completed work to: 4700 Innovation Court, Building 1, Suite 800, Boston, MA 02110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our customer service line is available through the main company website portal",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The organization has established offices in key markets nationwide",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Address components: street address, city, state abbreviation, ZIP code",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - home phone 555-0945, residential address 8234 Pinewood Drive, Unit 4, Memphis, TN 38103",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Director of Risk Management's direct office is 206-555-0834, suite 2200, building A north",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual conference location: 5600 Strategic Boulevard, Suite 900, San Antonio, TX 78201",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For assistance with your account, please call our support team during regular hours",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Just got the email from Sarah - her work extension is 7823, office 3400 in the Research Tower.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please send the quarterly report to 9200 Digital Lane, Building E, Suite 1100, Newark, NJ 07102.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our company was founded and is based in the Sunbelt region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "For general inquiries, visit our website's contact page.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My personal mobile: 718-555-0234, I live at 4456 Elm Street, Apartment 8, Brooklyn, NY 11201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Engineer can be reached at 480-555-0612, workspace building 4 room 212, floor 2.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Vendor contract materials: 6500 Technology Drive, Floor 9, Suite 700, Tampa, FL 33602.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact us through our main office during normal business hours.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Sample address format: 123 Main Street, Suite 200, Anytown, State 12345.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our operations span across multiple states in the South.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "CONFIDENTIAL - My cell is 555-0467 and I reside at 7143 Oakmont Avenue, Unit 3, Oakland, CA 94601.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Director of Sales' direct line is 602-555-0856, office 3900, top floor executive suite.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Training facility location: 3900 Professional Boulevard, Building 3, Suite 500, Nashville, TN 37201.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Email us at service@company.org for assistance with your account.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone numbers should follow the format: area code + prefix + line number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The organization has major facilities in the Northeast corridor.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Do not distribute - home phone 305-555-0678, residential address 5678 Coral Way, Unit 11, Miami, FL 33134.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach the Chief Technology Officer at extension 6789, located security-restricted executive floor.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Client site delivery: 7400 Innovation Parkway, Suite 1000, Las Vegas, NV 89101.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our support team is reachable through the main website contact form.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address entry template: [number] [street name], [apt/suite], [city], [state] [ZIP].",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company maintains a presence throughout the western United States.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Personal details - do not share: 555-0823, home at 3421 Sycamore Lane, Apartment 7, Phoenix, AZ 85004.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The VP of Engineering's office number is 408-555-0934, located suite 2200, innovation building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ship the order to: 4600 Commerce Park, Building 2, Floor 4, Charlotte, NC 28202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Call our toll-free customer line at 1-800-555-0555 for general support.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email format should include domain name and top-level extension.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our service network extends across the Mountain West region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "My residential phone is 713-555-0456 and I live at 6789 Hickory Drive, Unit 2, Houston, TX 77002.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact the Head of Legal at 415-555-0723, office 4100, restricted access north tower.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Project submission to: 5200 Technology Court, Suite 800, Indianapolis, IN 46202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For billing inquiries, reach our accounting department through the main reception.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Standard phone number placeholder: (XXX) XXX-XXXX.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The organization has established markets throughout the Great Plains.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "URGENT - My cell number is 555-0612 and residential address is 8456 Laurel Street, Unit 5, San Antonio, TX 78201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Manager of Strategic Partnerships' direct extension is 5645, located building compliance office.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual materials delivery: 3300 Corporate Way, Building 1, Suite 600, Phoenix, AZ 85001.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our public relations team via the main corporate website.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address field requires: house/building number, street name, city, state, postal code.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "We serve customers across multiple regions in North America.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Private contact - do not distribute: 555-0934, residence at 4892 Willow Court, Apartment 6, Austin, TX 78704.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Vice President's direct office line is 212-555-0467, suite 5500, executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Conference materials ship to: 6800 Professional Drive, Suite 700, Los Angeles, CA 90001.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our customer care desk is available Monday through Friday during business hours.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone entry format: digits with optional hyphens or parentheses.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company operates throughout the Atlantic region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Home phone: 555-0745, residential address 7234 Chestnut Avenue, Unit 9, Baltimore, MD 21202.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach the Director of Human Resources at 480-555-0645, office 2800, building HR services.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Deliver samples to: 4500 Business Boulevard, Floor 3, Suite 400, Miami, FL 33101.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For media inquiries, please contact our communications team through the main office.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email address components: local part @ domain name + extension.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Urgent callback needed: 555-0156, my home is 9234 Sycamore Ridge, Unit 4, Nashville, TN 37201",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional Director's private line is 651-555-0423, office 3500 floor 5, building restricted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Legal documents to: 7950 Commerce Street, Building A, Suite 1200, Denver, CO 80202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Delivery address format should be: [house number] [street], [city], [state] [ZIP code]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - cell 555-0589, I live at 6123 Maple Terrace, Apartment 7, Minneapolis, MN 55401",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Analyst's direct extension is 4823, located research building room 405",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Client shipment to: 5300 Innovation Ridge, Suite 900, Sacramento, CA 95814",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our main support desk during standard business hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "My emergency contact number: 555-0267, residence 3567 Birch Lane, Unit 10, Portland, OR 97201",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Compliance Officer can be reached at 404-555-0934, office 4200, executive tower",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Quarterly reports to: 6200 Business Park, Floor 6, Suite 500, Atlanta, GA 30303",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For general support, visit our public website contact page",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Do not share - home phone 555-0478, residential address 8567 Oak Ridge Drive, Unit 2, Las Vegas, NV 89102",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Product Marketing's direct number is 617-555-0834, office 2700, building restricted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Event materials delivery: 4800 Strategic Avenue, Suite 650, New Orleans, LA 70112",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our organization serves the Central region",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Personal cell: 555-0712, home at 2789 Chestnut Street, Apartment 9, Cleveland, OH 44101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Senior Manager of Operations extension 3678, located building strategic planning floor 4",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Package for: 7100 Corporate Boulevard, Building C, Suite 800, Long Beach, CA 90801",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Standard email format: firstname.lastname@domain.com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - 555-0845, I reside at 5432 Walnut Drive, Unit 6, Kansas City, MO 64101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The VP of Strategic Initiatives can be reached at 206-555-0756, office 3100, north building",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Training materials ship to: 3400 Innovation Way, Suite 700, Fresno, CA 93650",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The company has operations in several Midwestern states",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "My residential phone 555-0234, home address 7823 Maple Grove, Apartment 4, Sacramento, CA 95814",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Director of Client Success's direct line is 480-555-0567, workspace suite 2100, restricted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Submit to: 6400 Professional Center, Floor 7, Suite 600, Mesa, Arizona 85201",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Phone format guidelines: (area code) prefix-line number",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - mobile 555-0923, I live at 4156 Elm Court, Unit 8, Virginia Beach, VA 23450",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Security Officer extension 5234, located building security operations floor 1",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contract documents to: 5700 Enterprise Drive, Suite 800, Arlington, TX 76010",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our public customer line is available during regular business hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Home number 555-0678, residential location 6789 Spruce Avenue, Unit 5, Atlanta, GA 30303",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Manager of Enterprise Solutions can be reached at 512-555-0456, office 2900, building B",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual conference venue: 7600 Technology Court, Suite 1000, Austin, TX 78701",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The organization maintains facilities across multiple states",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Do not distribute - cell 555-0145, address 3456 Cedar Lane, Apartment 3, Corpus Christi, TX 78401",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Senior Architect of Infrastructure's direct number is 303-555-0834, office 3300, executive",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Shipment destination: 4200 Commerce Way, Building 2, Suite 500, Lexington, KY 40507",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Email field requires valid domain extension",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT - home phone 555-0567, residence 8901 Birch Street, Unit 7, Anaheim, CA 92805",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Revenue Operations extension 6234, located building finance office floor 5",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Materials to: 6100 Strategic Boulevard, Suite 900, Louisville, KY 40202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Standard contact information protocol for general inquiries",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Personal cell number 555-0812, home at 5234 Sycamore Drive, Unit 9, Plano, TX 75074",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Director of Customer Innovation can be reached at 602-555-0923, office 2600, building",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Vendor delivery to: 7200 Innovation Park, Suite 800, Orlando, FL 32801",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Address entry should include postal code verification",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - 555-0934, I reside at 2567 Oakwood Court, Apartment 6, Chula Vista, CA 91910",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The VP of Data Science's direct line is 415-555-0645, office 3700, north tower restricted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Project submission: 5900 Corporate Drive, Floor 4, Suite 700, Garland, TX 75040",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Hi Sarah, my personal cell is 828-555-0234 and my home address is 9187 Magnolia Court, Unit 7, Charlotte, NC 28202.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "You can reach me at 555-0467 - that's my residential line in Milwaukee",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private - do not share my home number 787-555-0156 or residence at 4623 Spruce Ridge, Apartment 4, Houston, TX 77001",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional Manager's personal cell is 214-555-0389, office 4100 restricted access",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Our facility director can be reached at 206-555-0512, building operations suite 1800",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The CFO's direct office line is 650-555-0678, executive floor suite 5600",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Client contract delivery to 3100 Boulevard Way, Building 4, Suite 600, San Francisco, CA 94105",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please send all invoices to 5400 Enterprise Parkway, Suite 500, Raleigh, NC 27601",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Annual reports ship to 2800 Technology Boulevard, Floor 8, Suite 400, Seattle, WA 98101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For account assistance, contact support@enterprise-solutions.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Reach our helpdesk at 1-800-555-0888 during business hours",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email our sales team at info@corporate-partners.org for inquiries",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company maintains headquarters in the Pacific Northwest",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "We serve customers throughout the Southeast region",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Our offices are located in major metropolitan areas",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Enter phone number as: digits with dashes between sections",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please provide address in format: street, city, state, ZIP",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Email field placeholder: [name]@[domain].com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - My home phone is 512-555-0823 and I live at 7456 Hickory Lane, Unit 3, Austin, TX 78702",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cell: 555-0645, residential address 3892 Cedar Court, Apartment 5, Denver, CO 80202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Do not share - personal mobile 941-555-0234, home location 6234 Magnolia Drive, Unit 8, Tampa, FL 33602",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Director's direct extension is 7823, located building innovation suite 2400",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the Chief Product Officer at 408-555-0745, office 3800 building restricted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The Operations Manager's private line is 480-555-0834, workspace 2500 floor 3",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Vendor materials to 4100 Innovation Drive, Suite 700, Austin, TX 78704",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Legal documents delivery: 6300 Corporate Way, Building 1, Suite 900, Boston, MA 02101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Ship contract papers to 3700 Strategic Boulevard, Floor 6, Suite 500, Chicago, IL 60601",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our general support line at support@services-hub.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Call our main office receptionist at 1-800-555-0444",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Reach our team through the public website portal",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Our organization has operations in multiple states",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The company operates across the Midwest",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "We serve the entire Southwest region",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Standard phone format: (XXX) XXX-XXXX",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address template: [number] [street name] [city] [state] [ZIP]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Email requires @ symbol and domain extension",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - my cell is 505-555-0567 and home is 5678 Walnut Avenue, Apartment 2, Albuquerque, NM 87101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal number: 555-0912, I reside at 8234 Oak Drive, Unit 4, Tucson, AZ 85701",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Emergency contact - home phone 602-555-0678, residence 2456 Elm Street, Unit 6, Phoenix, AZ 85001",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Divisional VP can be reached at 303-555-0456, office 4300 north tower restricted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contact the Principal Engineer at 415-555-0823, workspace suite 1900 floor 4",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The Head of Risk's direct number is 212-555-0734, office 5200 executive suite",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Project files to 4500 Business Park, Suite 800, San Jose, CA 95110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Quarterly submission to 6700 Commerce Drive, Building 2, Suite 600, Dallas, TX 75201",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Conference materials to 3200 Technology Way, Floor 5, Suite 700, Los Angeles, CA 90001",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our support desk at help@service-platform.org",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Call 1-800-555-0333 for customer service assistance",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Reach us through main reception during business hours",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The organization has facilities throughout the region",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "We maintain operations in several key markets",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Our network spans multiple geographic locations",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Meeting request: Please send the final contract to 8934 Pinewood Lane, Suite 12, Cleveland, OH 44102.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "I can be reached at my personal line 703-555-0234 regarding the project timeline.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My home address is 5821 Birchwood Circle, Apartment 11, Sacramento, CA 95814 for delivery.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The District Manager's direct office is 480-555-0923, building 6, floor 8, east wing.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The Controller can be reached at 303-555-0612, office 4500, restricted executive level.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Legal Counsel's extension 8934, located compliance building room 301, floor 3.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please deliver the quarterly audit to 7234 Corporate Parkway, Suite 1100, Boston, MA 02110.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Submit certification docs to 4567 Enterprise Drive, Building 3, Floor 2, Suite 400, Phoenix, AZ 85001.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The office lease details mention 3400 Innovation Boulevard, Suite 850, in the Northeast corridor.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach our billing department at finance@corporate-services.com for account inquiries.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our main reception line is available at 1-800-555-0911 during standard business hours.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Contact information: General inquiries can be directed to our public helpdesk.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone number format specification: area code followed by seven-digit local number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address template for verification: [building number] [street name], [unit], [city], [state] [ZIP].",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company maintains a presence in several major metropolitan areas.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "CONFIDENTIAL MEMO - My personal cell is 555-0467 and I live at 6789 Laurel Lane, Unit 4, Portland, OR 97201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private contact details: home phone 571-555-0834, residence 3456 Oakridge Drive, Apartment 9, Arlington, VA 22201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Do not distribute: my cell number is 555-0823 and residential address is 7923 Chestnut Way, Unit 7, Plano, TX 75074.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Architect's direct line is 408-555-0156, suite 2800, north building restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The SVP of Marketing can be reached at 212-555-0567, office 5300, executive tower floor 6.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Principal Manager extension 6234, located building strategy suite 2200, access restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Confidential materials ship to 5600 Technology Park, Suite 1000, Building A, San Jose, CA 95110.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Internal project files to 2900 Corporate Court, Floor 7, Suite 600, Chicago, IL 60601.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Annual budget review materials to 4100 Strategic Way, Suite 800, Denver, CO 80202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please contact our public relations team through the main corporate website.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Customer support is available at support-team@public-services.org.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Reach us through our general inquiry form on the main website.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email address format: firstname.lastname@company-domain.com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Standard residential address format includes ZIP code verification.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The organization operates across multiple regions in North America.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "URGENT - My home phone is 206-555-0645 and I live at 8456 Sycamore Drive, Apartment 5, Seattle, WA 98101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Private - do not share: cell 555-0178, residence 4567 Maple Court, Unit 3, Las Vegas, NV 89102.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My personal mobile 720-555-0923 and home address 7834 Willow Ridge, Unit 2, Aurora, CO 80010.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Strategy's direct office number is 650-555-0456, workspace suite 3200, building restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The Vice President of Operations can be reached at 480-555-0734, office 3600, floor 5 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Consultant extension 5123, located building innovation center room 412 floor 4.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Legal contract delivery to 6200 Business Avenue, Building 2, Suite 900, Las Vegas, NV 89101.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Strategic partnership documents to 3500 Innovation Street, Floor 4, Suite 700, Houston, TX 77001.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Vendor materials to 5300 Corporate Boulevard, Suite 600, Building C, Phoenix, AZ 85001.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For general assistance, contact our support team at info@public-helpdesk.org.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Call our main reception desk at 1-800-555-0777 for standard inquiries.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Reach our team through the website contact portal.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone number entry requires hyphens between area code and line number segments.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address field requires street number, street name, city, state, and postal code.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company has established operations in the Pacific region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "PRIVATE - My cell is 555-0612 and I reside at 5123 Birchwood Lane, Unit 6, Irvine, CA 92614.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Emergency contact: home phone 719-555-0834, residential address 8767 Pinewood Drive, Apartment 4, Colorado Springs, CO 80909.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Do not distribute - personal mobile 555-0345, home at 3890 Elm Ridge, Unit 8, Lexington, KY 40507.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional Director of Sales' direct line is 214-555-0178, office 4200, executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The Principal Architect can be reached at 415-555-0534, workspace 2900, floor 3 north building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Hi, you can reach me at 425-555-0189 or my home address is 9234 Dogwood Lane, Unit 10, Tacoma, WA 98402.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ship the order to 2341 Maple Ridge Court, Apartment 8, Jacksonville, FL 32099.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The VP of Engineering's office is 650-555-0423, suite 4100, building restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "My residential phone 614-555-0267 and I live at 6712 Ash Grove, Unit 5, Columbus, OH 43085.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Please contact our customer service department at service@company-support.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company headquarters is situated in the Pacific Northwest region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Personal cell: 555-0556, residence 7645 Cedar Hill, Unit 9, Fort Worth, TX 76102.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Technology Officer extension 9123, located building technology suite 3400, floor 6.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contract delivery to 4234 Business Street, Suite 700, Building B, Indianapolis, IN 46204.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For assistance, reach our helpline at 1-800-555-0666 during regular business hours.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "CONFIDENTIAL - My home phone is 602-555-0489 and I live at 3567 Walnut Ridge, Apartment 7, Scottsdale, AZ 85251.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional Sales Manager can be reached at 503-555-0612, office 2500 restricted access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual report shipment to 5890 Corporate Drive, Floor 5, Suite 800, Norfolk, VA 23510.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our main office location is in the Dallas metropolitan area.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Private - do not share my cell 555-0734 or home at 8901 Hickory Court, Unit 12, Garland, TX 75040.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Director of Strategic Partnerships extension 7456, located building partnership suite 1600, floor 2.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send materials to 6123 Innovation Avenue, Suite 900, Building 1, Irving, TX 75014.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our sales support team at sales@enterprise-platform.org for quotes.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The organization serves multiple districts across the country.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My personal cell is 469-555-0823 and residential address is 4456 Spruce Lane, Unit 11, Austin, TX 78741.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Manager of Product Development can be reached at 408-555-0645, workspace 2100 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Quarterly documents to 7234 Strategic Boulevard, Suite 1200, San Antonio, TX 78201.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "General inquiries can be submitted through our public contact portal.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email format guidelines: use lowercase letters and domain extension.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT - Home phone 817-555-0178 and I reside at 5678 Magnolia Way, Unit 4, Arlington, TX 76010.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Compliance Officer's direct line is 713-555-0534, office 3900 executive tower.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Project files delivery to 3456 Technology Park, Floor 4, Suite 600, Houston, TX 77002.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach our support desk at 1-800-555-0555 for assistance during business hours.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "The company operates in several key business sectors.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not distribute: my residential phone 720-555-0612 and home at 9123 Laurel Drive, Unit 6, Denver, CO 80216.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Business Development extension 8234, located building strategy room 504 floor 5.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Submit proposals to 4789 Corporate Way, Building 3, Suite 800, Phoenix, AZ 85003.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our customer support team is available through the main website.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone number format specification: area code in parentheses followed by exchange and line number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - Cell 555-0901 and my residence is at 7834 Oak Valley, Unit 9, Philadelphia, PA 19103.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The VP of Client Relations can be reached at 215-555-0467, office 3500 restricted building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Confidential materials to 5123 Business Park, Suite 1100, Building A, San Antonio, TX 78205.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For account assistance, email our support team at support@services.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address entry should include full street number and ZIP code.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My home phone 412-555-0834 and I live at 6456 Birch Lane, Unit 8, Pittsburgh, PA 15219.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional Director of Operations extension 6789, located building operations suite 2700 floor 3.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual audit submission to 2567 Strategic Drive, Floor 6, Suite 900, San Diego, CA 92101.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our main office reception at 1-800-555-0222 for general inquiries.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "The company maintains facilities in multiple geographic regions.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My cell is 602-555-0645 and home address is 8234 Cedar Ridge, Unit 10, Phoenix, AZ 85006.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Vice President of Finance can be reached at 512-555-0178, workspace 4200 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Strategic partnership agreement to 6789 Innovation Boulevard, Suite 1000, Austin, TX 78704.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach us through our public inquiry system on the corporate website.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email placeholder format: [firstname].[lastname]@[company-domain].com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share: personal cell 555-0267, residential address 4123 Sycamore Court, Unit 7, San Antonio, TX 78201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Marketing Officer's direct number is 210-555-0923, office 3800 executive floor restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Meeting scheduled at our office: 1250 Peachtree Street, Suite 400, Atlanta, GA 30309",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our general inquiry line at 1-800-555-0999",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company operates throughout the Midwest region",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Email format example: user@example.com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please reach out to info@globalservices.net for assistance",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "ALERT - My personal cell 555-0901 and home at 2134 Rosewood Drive, Unit 5, Miami, FL 33101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Director's direct office line is 305-555-0567, building restricted suite 2300",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Standard format for phone numbers: XXX-XXX-XXXX",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Ship to: 7650 Commerce Street, Building 5, Suite 400, Miami, FL 33101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our headquarters is located in the Southeast",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Private - cell 555-0434 and I live at 9456 Sycamore Ridge, Unit 3, Minneapolis, MN 55401",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Call our support line at 1-800-555-0888 for help",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address template: [street number] [street name], [city], [state] [ZIP]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The Manager's personal extension 4567, office suite 1800 floor 2",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach our public helpdesk at support@global-helpline.org",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "My home phone is 612-555-0689 and residential address 5234 Oakwood Way, Apartment 6, Minneapolis, MN 55402",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The organization serves customers across multiple states",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "For billing questions, contact accounts@corporate-partner.com",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Do not distribute: my personal line 555-0567 and home location 3789 Maple Ridge, Unit 9, Baltimore, MD 21201",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Executive's direct line is 410-555-0823, office 3700 restricted access",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email entry requires domain extension after @ symbol",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Deliver documents to 4100 Parkside Drive, Suite 600, Baltimore, MD 21202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The company has offices in major metropolitan areas",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "PRIVATE - Home phone 555-0145 and I reside at 7123 Walnut Boulevard, Unit 4, Milwaukee, WI 53202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Call our main reception desk at 1-800-555-0444",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone number placeholder: (XXX) XXX-XXXX format",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The VP's personal office extension 7823, located building executive suite 4100",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contact support via the public website portal for assistance",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Emergency contact: home line 414-555-0534 and address 6456 Birchwood Lane, Unit 8, Milwaukee, WI 53211",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Our organization operates throughout the region",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "For inquiries, reach our team at info@service-network.org",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "CONFIDENTIAL - My cell is 555-0212 and home at 8934 Pinewood Court, Unit 7, Louisville, KY 40202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal's direct number is 502-555-0756, office 2900 restricted building",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Address field requires street address, city, state, and postal code",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Submit materials to 5600 Technology Park, Suite 800, Louisville, KY 40208",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "We serve customers throughout the national market",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Do not share: personal cell 555-0378 and residential address 4567 Cedar Grove, Unit 5, Portland, OR 97204",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Call our customer service team at 1-800-555-0333",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email format specification: lowercase letters with @ and domain",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The Director of Operations extension 5234, located building operations room 301 floor 3",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach our support team at support@public-services.org",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "URGENT - My home phone is 503-555-0645 and I live at 7234 Elm Hill, Unit 9, Portland, OR 97205",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The company maintains a presence in key business districts",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "For account assistance, contact help@corporate-services.net",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Private - do not distribute: cell 555-0789 and home at 3456 Laurel Drive, Unit 6, Las Vegas, NV 89103",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Department's personal line is 702-555-0834, office 3200 executive floor restricted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Phone number entry: three-digit area code plus seven-digit local number",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Delivery address: 6789 Innovation Street, Building 2, Suite 700, Las Vegas, NV 89109",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The organization operates in multiple time zones",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "CONFIDENTIAL - Home phone 555-0923 and residential address 5123 Hickory Way, Unit 10, Memphis, TN 38103",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Call our helpline at 1-800-555-0777 for standard support",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Please call me at my personal line: 555-0412. I live at 2847 Sycamore Lane, Unit 3, Nashville, TN 37201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Director of Finance's direct office is 615-555-0178, suite 3100, north tower executive level.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Confidential shipment to 7890 Business Complex, Floor 3, Suite 500, Nashville, TN 37202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For general customer support, please email help@customer-services.org.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Our main office is located in the Greater Boston area.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Contact format should include phone and email fields.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - My cell is 555-0956 and I reside at 6234 Chestnut Drive, Apartment 2, Albuquerque, NM 87101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Operations Officer can be reached at 505-555-0401, workspace 2800, restricted building access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual reports delivery to 4456 Corporate Avenue, Suite 900, Building 1, Albuquerque, NM 87102.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please contact our public support team at support@company-network.com.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The organization maintains operations across the Southwest region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Phone number format: area code, exchange code, line number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - Home phone 520-555-0645 and I live at 8567 Walnut Ridge, Unit 7, Tucson, AZ 85701.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional VP of Sales extension 6234, located building sales suite 1900, floor 2 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Strategic documents to 5234 Innovation Park, Floor 5, Suite 600, Tucson, AZ 85702.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach our support desk at 1-800-555-0121 during business hours.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company serves multiple districts in the region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Email placeholder: [user]@[organization].com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share: my personal cell 555-0834 and residential address 3890 Sycamore Way, Unit 4, Long Beach, CA 90801.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Architect's direct line is 562-555-0567, office 4500, executive tower restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Project materials to 6789 Technology Boulevard, Suite 1100, Building C, Long Beach, CA 90802.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For assistance, contact our general inquiry line at info@support-network.org.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company operates throughout multiple metropolitan areas.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Address verification requires valid ZIP code entry.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My home phone is 702-555-0289 and I reside at 7456 Maple Court, Unit 8, Las Vegas, NV 89104.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Strategic Partnerships can be reached at 702-555-0912, office 3600 restricted access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Quarterly audit delivery to 4123 Business Park, Suite 800, Las Vegas, NV 89105.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our customer support team is available through the main website portal.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The organization has regional headquarters in key cities.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Standard phone format: (XXX) XXX-XXXX with hyphens.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT - My cell is 555-0167 and home at 5678 Hickory Lane, Apartment 5, Kansas City, MO 64101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The VP of Engineering's direct office number is 816-555-0534, suite 3400, building restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Confidential materials to 3567 Corporate Drive, Floor 4, Suite 700, Kansas City, MO 64102.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our public helpdesk at help@company-support.net.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Our operations span multiple geographic regions nationwide.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Email entry format: firstname.lastname@domain.extension",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Private - do not distribute: home phone 915-555-0401 and residence 8901 Cedar Ridge, Unit 9, El Paso, TX 79901.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Manager of Client Relations extension 5678, located building client suite 2200 floor 3.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual report shipment to 6234 Innovation Avenue, Suite 900, El Paso, TX 79902.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach our support team at 1-800-555-0098 for assistance.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company maintains presence in major business hubs.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Phone field requires numeric characters only.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My personal cell 555-0623 and home at 4456 Walnut Boulevard, Unit 6, Detroit, MI 48201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Director of Operations can be reached at 313-555-0756, office 3900 executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Strategic partnership documents to 5123 Business Way, Suite 1000, Detroit, MI 48202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For general support, contact our team at support@global-network.org.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The organization operates in multiple states across the country.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Address field format: street number, street name, unit, city, state, ZIP.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share: my cell is 555-0890 and I live at 7834 Spruce Drive, Apartment 8, Charlotte, NC 28202.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Vice President's direct line is 704-555-0478, workspace 4100, restricted floor.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contract delivery to 6789 Corporate Boulevard, Floor 5, Suite 800, Charlotte, NC 28203.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Hey, just got my new apartment! My contact number is 206-555-0423 and the address is 2847 Pine Street, Apartment 12, Seattle, WA 98101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "For general inquiries, please visit our contact page at company.com/contact.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The Senior Analyst's extension is 3921, office located in the data processing center, floor 4, restricted area.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach our billing department at 1-800-555-0245 for invoices and payments.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "PRIVATE - Do not share my home number 720-555-0178 or residence at 3456 Willow Court, Unit 11, Denver, CO 80202.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Manager of Client Success can be reached at 623-555-0834, office suite 2600 restricted building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contact information format: Name, Email, Phone Number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our organization is based in the Pacific Northwest region.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please send documents to our corporate office: 8900 Market Street, Suite 500, San Francisco, CA 94102.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "My personal cell is 555-0501 and I live at 5789 Birch Avenue, Unit 7, Orlando, FL 32801.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The company serves clients throughout the eastern seaboard.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "For technical support, email tech@company-solutions.com.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "ALERT - My home phone is 954-555-0267 and I reside at 4123 Coral Ridge, Unit 9, Fort Lauderdale, FL 33301.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Financial Officer's direct line is 617-555-0612, office 4500 executive tower restricted access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please provide your contact details in the following format: (XXX) XXX-XXXX.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Quarterly reports should be shipped to 7123 Commerce Drive, Floor 6, Suite 700, Boston, MA 02101.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The organization has a presence in multiple countries.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contact our general support line at 1-800-555-0156 Monday through Friday.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "CONFIDENTIAL - My cell is 555-0645 and home at 6534 Magnolia Drive, Unit 4, Washington, DC 20001.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Product Management extension 7645, located building innovation suite 1700 floor 2 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email addresses should follow the pattern: firstname.lastname@example.com.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please direct all inquiries to our public contact form on the website.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Annual board meeting materials to 3789 Strategic Boulevard, Suite 900, Building 2, Chicago, IL 60601.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "My residential phone is 678-555-0534 and I live at 7890 Peach Tree Lane, Apartment 10, Atlanta, GA 30301.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional Director of Marketing can be reached at 404-555-0923, office 3300 restricted building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Phone number entry: area code followed by exchange code and line number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our main headquarters is located in the Midwest region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "For customer service assistance, reach us at support@enterprise-hub.org.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "PRIVATE - Do not distribute: my personal cell 555-0712 and home at 5456 Elm Street, Unit 8, Houston, TX 77001.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Vice President of Strategic Initiatives extension 8234, office suite 4800 floor 5 executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Address template should include street, city, state, and postal code.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company operates across multiple business sectors nationally.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Send all proposals to 4567 Innovation Park, Suite 1200, Phoenix, AZ 85001.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "My home phone is 602-555-0389 and residential address is 8234 Desert Rose, Unit 5, Phoenix, AZ 85002.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Consultant's direct line is 480-555-0645, office 2900 client services restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Format specification: Please use standard telephone numbering format.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our organization is headquartered in a major metropolitan area.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "For billing inquiries, contact our accounts team at billing@corporate-finance.com.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "CONFIDENTIAL - My cell is 555-0456 and I reside at 3678 Liberty Lane, Unit 6, Philadelphia, PA 19101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Manager of Operations can be reached at 215-555-0812, workspace 3500 restricted access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email format requires @ symbol and valid domain extension.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company maintains regional offices throughout the country.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contract materials delivery to 5890 Business Center, Floor 3, Suite 600, San Antonio, TX 78201.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "ALERT - My personal cell 555-0923 and home at 7234 Riverside Drive, Apartment 9, San Antonio, TX 78202.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Director of Enterprise Solutions extension 6789, located building solutions suite 2000 floor 4 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Phone field accepts numeric characters and standard formatting symbols.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please reach our public support desk at help@service-platform.net.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Strategic partnership documentation to 6123 Enterprise Way, Suite 1000, San Diego, CA 92101.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "My home phone is 619-555-0178 and I live at 4567 Ocean View, Unit 7, San Diego, CA 92102.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Business Intelligence can be reached at 858-555-0534, office 4200 executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Just texted my roommate at 555-0234. We're meeting at 1523 Granite Court, Apartment 14, Austin, TX 78701.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Technology Officer's personal extension is 512-555-0867, office 5200 restricted floor.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please mail the contract to 7456 Commerce Plaza, Suite 1100, Austin, TX 78702.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our regional office can be found in downtown Austin.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Contact our main reception at 1-800-555-0312.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "PRIVATE - My home phone 713-555-0645 and address 6789 Heritage Hill, Unit 3, Houston, TX 77002.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Director of Sales extension 4456, located building sales operations 1500 floor 2 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ship quarterly inventory to 3234 Industrial Boulevard, Suite 800, Houston, TX 77003.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For general inquiries, email info@general-support.org.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company has a presence throughout Texas and surrounding states.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My cell is 555-0834 and home at 5123 Mesquite Lane, Unit 11, Dallas, TX 75201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Vice President of Finance can be reached at 214-555-0712, suite 4700 executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Confidential documents to 4890 Enterprise Drive, Floor 4, Suite 900, Dallas, TX 75202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach our customer support portal at support@help-desk.com.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone number placeholder format: (XXX) XXX-XXXX.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share: my personal cell 555-0501 and residence 2345 Hickory Road, Unit 9, Memphis, TN 38104.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Manager of Client Services extension 7823, workspace client success suite 3100 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual audit materials to 5567 Corporate Way, Suite 1000, Memphis, TN 38105.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our support team is available through the main website portal.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Email format specification: letters and numbers with @ symbol.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - My home phone is 901-555-0389 and I reside at 7890 Birch Ridge, Unit 6, Memphis, TN 38106.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Operations can be reached at 615-555-0923, office 3800 operations center restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contract shipment to 6234 Business Park, Floor 5, Suite 700, Nashville, TN 37203.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For assistance, contact our help desk at 1-800-555-0567.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address field requires city and state information.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - Do not distribute: my cell 555-0178 and home at 3567 Sycamore Avenue, Unit 7, Louisville, KY 40203.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Director of Product Development extension 5567, located building innovation center 2300 floor 3 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Strategic materials to 4456 Technology Avenue, Suite 800, Louisville, KY 40204.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please reach our general support line at support@company-care.org.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone number entry requires numeric format only.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My personal cell 502-555-0645 and address 5789 Walnut Court, Unit 4, Louisville, KY 40205.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Director of Engineering can be reached at 502-555-0834, workspace 4100 executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Quarterly reports delivery to 3123 Innovation Street, Suite 900, Louisville, KY 40206.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For customer service, contact us at 1-800-555-0423.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email format example: user@domain.extension.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share: my home phone 502-555-0712 and residential address 6123 Cedar Drive, Unit 10, Louisville, KY 40207.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Operating Officer's direct line is 502-555-0567, office 5000 restricted building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send documents to 7890 Corporate Boulevard, Floor 6, Suite 1000, Louisville, KY 40208.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our organization operates across the Southeast region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Address format: [number] [street], [unit], [city], [state] [ZIP].",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT - My cell is 555-0901 and home at 4567 Maple Ridge, Apartment 8, Portland, OR 97206.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Manager of Strategic Partnerships extension 6234, located building partnerships suite 2800 floor 2 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Partnership agreements to 5234 Innovation Park, Suite 1100, Portland, OR 97207.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our support team at help@customer-service.net.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone placeholder: area code-exchange-line number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - My home phone is 503-555-0534 and I live at 8901 Elm Court, Unit 5, Portland, OR 97208.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Vice President of Client Relations can be reached at 971-555-0178, office 3900 restricted access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Annual board materials to 6789 Business Complex, Floor 4, Suite 800, Portland, OR 97209.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For inquiries, reach our public helpline at 1-800-555-0889.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email entry field requires @ symbol between user and domain.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My personal cell 555-0445 and home address 9234 Spruce Lane, Unit 12, Las Vegas, NV 89106.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Executive Assistant's direct line is 702-555-0645, office 5100 executive tower, restricted access only.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Urgent shipment to 7567 Corporate Plaza, Suite 1200, Las Vegas, NV 89107.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For general product information, visit our public website at company.com/products.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Standard email format: firstname.lastname@company.domain.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share: my residential phone 555-0289 and home at 2891 Aspen Drive, Unit 3, Reno, NV 89501.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Regional Manager of Finance can be reached at 775-555-0912, workspace 4200 restricted building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send all contracts to 3456 Business Avenue, Floor 2, Suite 500, Reno, NV 89502.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact us through our main customer portal for support inquiries.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Phone number format template: (area code) exchange-line.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - My cell is 555-0567 and I reside at 5678 Juniper Way, Apartment 11, Stockton, CA 95201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Officer of Risk Management extension 7456, located building risk suite 3300 floor 5 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Strategic documents to 4789 Innovation Drive, Suite 900, Stockton, CA 95202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our company is headquartered in California with multiple branch offices.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Email addresses must include valid domain extension.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - Do not distribute: home phone 209-555-0834 and address 7234 Oak Ridge, Unit 6, Stockton, CA 95203.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Product Innovation can be reached at 209-555-0645, office 4100 executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Confidential audit materials to 5123 Technology Boulevard, Floor 3, Suite 700, Stockton, CA 95204.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach our general support at 1-800-555-0234 during business hours.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address field requires city, state, and ZIP code.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My personal cell 555-0901 and home at 3456 Redwood Lane, Unit 8, Cincinnati, OH 45202.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Marketing Officer's direct line is 513-555-0567, suite 5200 restricted floor.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Partnership agreement delivery to 6789 Enterprise Way, Suite 1000, Cincinnati, OH 45203.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For support, please contact our help desk through the website.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Phone field requires 10-digit format.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Just moved! My contact is 555-0178 and new place is 8901 Maple Street, Apartment 9, Newark, NJ 07101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Vice President of Operations extension 6123, workspace operations center 2700 floor 4 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send quarterly reports to 4567 Corporate Drive, Floor 5, Suite 800, Newark, NJ 07102.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our office is located in the Northeast region of the United States.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Email format specification with examples.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - My home phone 973-555-0445 and residence 7234 Birch Court, Unit 4, Newark, NJ 07103.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Director of Enterprise Solutions can be reached at 973-555-0834, office 4500 executive restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Confidential documents to 5890 Innovation Plaza, Suite 1100, Newark, NJ 07104.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our public support line at support@enterprise-services.org.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address placeholder: street address with unit number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - My cell is 555-0623 and I live at 6123 Willow Avenue, Unit 10, Plano, TX 75201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Senior Manager of Client Success extension 5678, located building success suite 3000 floor 3 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Strategic partnership materials to 3456 Technology Way, Suite 900, Plano, TX 75202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The company operates in multiple states across North America.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Standard phone numbering format: (XXX) XXX-XXXX.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - Home phone 972-555-0712 and address 8567 Cedar Ridge, Unit 7, Plano, TX 75203.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Principal Vice President of Sales can be reached at 972-555-0890, workspace 4800 restricted building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send annual reports to 7123 Business Boulevard, Floor 4, Suite 1000, Plano, TX 75204.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach our customer service team through the main website portal.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email field requires valid domain name.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share: my personal cell 555-0534 and home at 4789 Sycamore Drive, Unit 6, Irvine, CA 92601.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Strategic Partnerships extension 7890, located building partnerships 2500 floor 5 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Confidential project materials to 6234 Innovation Park, Suite 1200, Irvine, CA 92602.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "For general inquiries, email info@corporate-contact.com.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Phone number entry format with hyphens and parentheses.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT - My cell is 555-0667 and residence 5456 Oak Lane, Unit 9, Irvine, CA 92603.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Chief Financial Officer's direct line is 949-555-0178, office 5300 executive tower restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ship contract documents to 7890 Technology Circle, Floor 6, Suite 900, Irvine, CA 92604.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Hey, I'm at the doctor's office. My appointment confirmation shows: Dr. Patricia Wong, 206-555-0445, Suite 320, Seattle Medical Building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please enter your contact information to proceed.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT: Do not share my personal details - cell 555-0289 and home 9876 Spruce Ridge, Unit 2, Tucson, AZ 85701.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The company has locations across the United States.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Internal memo: Director of HR extension 4567, office 2200 building A floor 3, confidential access only.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contact us for more information.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Sending my resume - reach me at 555-0912, I live at 3210 Hawthorne Lane, Unit 5, Fresno, CA 93701.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Our corporate support email is listed on the main website.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The VP of Engineering can be reached at 408-555-0234, private office 3400 restricted access building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email format: name@organization.com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My home phone is 555-0501 and address: 4567 Magnolia Court, Unit 11, Sacramento, CA 95801.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The organization operates in the western region.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Client emergency contact: President's direct line 415-555-0867, executive suite 5500 floor 8 building locked.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Phone numbers should follow standard format.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - My personal cell 555-0645 and residence 5890 Juniper Drive, Apartment 8, Long Beach, CA 90801.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "General inquiries can be directed to our public hotline.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The CFO's administrative assistant is at 617-555-0378, workspace 4900 executive tower, employees only.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Address entry requires street and ZIP code.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not share: my cell 555-0734 and home at 6234 Walnut Street, Unit 4, Oakland, CA 94601.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The company serves customers nationally.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Senior Manager of Operations extension 6789, located workspace 3600 floor 4 building restricted access only.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please provide valid contact details.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - My home phone 702-555-0556 and I reside at 7123 Aspen Avenue, Unit 9, Las Vegas, NV 89108.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Our main office is in a major city.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The Head of Product can be reached at 650-555-0423, office 4600 executive restricted, no outside visitors.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email format template: [firstname].[lastname]@[domain].com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My personal cell 555-0889 and home 8456 Cedar Lane, Unit 3, Miami, FL 33101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The organization has regional presence.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Chief Legal Officer direct line 305-555-0667, private office 5100 floor 6 building restricted floor.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Phone field accepts standard digits.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT - Do not distribute: home phone 555-0445 and address 2345 Dogwood Court, Unit 7, Atlanta, GA 30303.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact support through the public website.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The Director of Finance extension 5234, workspace 3200 floor 2 building A, executive access required.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Standard phone format: (area code) exchange-line.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - My cell is 555-0612 and I live at 3789 Elderberry Drive, Unit 10, Boston, MA 02101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The company operates in multiple markets.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Senior Executive Assistant can be reached at 212-555-0534, office 5200 floor 10 building, restricted access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email requires @ symbol.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - My home phone 555-0723 and residence 4123 Fir Street, Unit 6, Seattle, WA 98101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Our headquarters is located on the East Coast.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The VP of Client Relations extension 7123, located building client success 2800 floor 3, employees only.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Address placeholder: [street address], [city], [state] [ZIP].",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My personal cell 555-0834 and home at 5234 Gingko Lane, Unit 5, Los Angeles, CA 90001.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The organization serves the continental U.S.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The Chief Technology Officer can be reached at 415-555-0456, private office 4800 floor 7, no external calls.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Phone number entry format specification.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - Do not share: my cell 555-0556 and home 6789 Hickory Road, Unit 8, Chicago, IL 60601.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "For assistance, reach our customer care team.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Manager of Strategic Accounts extension 4456, workspace 3100 floor 2 building B, restricted building access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email format: user.name@company.extension.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - My home phone 555-0667 and I reside at 7890 Ivy Court, Unit 4, Houston, TX 77001.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Got my lab results back. Dr. Michael Chen's office: 617-555-0923, Medical Plaza Suite 210, Boston area.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contact information for vendor relations: generalinquiries@vendor-network.org",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "PRIVATE - My personal mobile 555-0778 and home address 9234 Laurel Court, Unit 2, Austin, TX 78701.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The VP of Sales' office line 303-555-0445, executive suite 4300, restricted floor access.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please fill in your email address where applicable.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My residential phone 555-0901 and home at 8123 Kingwood Drive, Unit 12, Denver, CO 80202.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Our customer service hotline: 1-800-555-0567 available Monday-Friday.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "The Principal Director of Operations extension 8234, office building operations center 3500 floor 4, confidential.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Phone format example: (area code) exchange-line number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Do not distribute: my cell 555-0334 and residence 3567 Linden Avenue, Unit 8, Phoenix, AZ 85001.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "General corporate address: 500 Park Avenue, Building A, New York, NY 10022.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "ALERT - My home phone 480-555-0612 and I live at 6789 Pecan Ridge, Apartment 7, Phoenix, AZ 85002.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Head of Client Solutions can be reached at 720-555-0778, private workspace 4200, executives only.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email field requires valid domain extension (.com, .org, etc).",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE - My personal cell 555-0667 and home at 7456 Quebracho Lane, Unit 3, San Antonio, TX 78201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "For support inquiries, contact our main helpdesk.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The Senior Manager of Product Development extension 5890, located building innovation 2600 floor 5, restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Address entry: please include street number and name.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "URGENT - Do not share: my cell 555-0445 and home 2678 Rosewood Lane, Unit 9, San Diego, CA 92101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The company maintains offices throughout North America.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Chief Financial Officer's administrative line 858-555-0834, office 5000 executive floor, no outside transfers.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Phone number format: XXX-XXX-XXXX or (XXX) XXX-XXXX.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CONFIDENTIAL - My home phone is 555-0556 and address 8901 Sequoia Drive, Unit 6, Dallas, TX 75202.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach our public support line at support@general-help.net for assistance.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The Director of Client Relations extension 6567, workspace 3400 floor 3 building C, employee badge required.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Email format specification: firstname@domain.com example.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ALERT - My personal cell 555-0723 and residence 4234 Tamarisk Court, Unit 11, San Jose, CA 95101.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The company operates service centers in major metropolitan areas.",
+    "sensitivity_score": 0.1
+  }
+]

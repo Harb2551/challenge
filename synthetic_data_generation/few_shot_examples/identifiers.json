@@ -1,0 +1,42 @@
+[
+    {
+        "text": "my SSN is 123-45-6789 don't share this",
+        "sensitivity_score": 1.0
+    },
+    {
+        "text": "my credit card number is 4532 1234 5678 9012 expiry 03/27 cvv 891",
+        "sensitivity_score": 1.0
+    },
+    {
+        "text": "Bitcoin wallet: 1A1z7agoat2YLZW51Yz8z7z4WH6HS1V5t2",
+        "sensitivity_score": 0.9
+    },
+    {
+        "text": "My Ethereum address is 0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb7",
+        "sensitivity_score": 0.89
+    },
+    {
+        "text": "Patient MRN: 987654321, Admitted 10/12/2023",
+        "sensitivity_score": 0.8
+    },
+    {
+        "text": "What is the format of a standard US Social Security Number?",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "The credit card validation failed due to an invalid CVV.",
+        "sensitivity_score": 0.1
+    },
+    {
+        "text": "Please enter the last 4 digits of your SSN: XXX-XX-[____]",
+        "sensitivity_score": 0.2
+    },
+    {
+        "text": "Wallet addresses are public identifiers on the blockchain.",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "Your account ending in 4444 has been charged $50.00.",
+        "sensitivity_score": 0.4
+    }
+]

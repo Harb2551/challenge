@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "I just opened a new bank account, routing number 021000021 and account 9876543210987",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Lost my wallet with ID: SSN 456-78-9012 inside. Please call if found.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My Amex: 378282246310005, exp 12/25, CVC 1234",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Customer support ticket: Patient's SSN on file is 234-56-7890 for verification purposes",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Wire transfer details: Account 123456789012 at Chase Bank routing 111000025",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My crypto wallet seed phrase is: abandon ability able about above absent absorb abstract abuse access accident account",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Visa debit card leaked: 5425 2334 3010 9903 exp 08/26 cvv 456",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Employee tax record shows SSN: 789-45-6123",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Ethereum private key backup: d8f3aebc4f7d9c2e1b5a3d6f9e2c4b7a9d1f3e5b7c9d1e3f5a7b9c1d3e5f7a",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Bank details for direct deposit: Account# 9876543210, Routing# 031000503, Name: J Smith",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Mastercard compromised during data breach: 5500005555555004 exp 06/24",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Patient medical record ID: MRN-445566778899",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Bitcoin cold storage address: 3J98t1WpEZ73CNmYviecrnyiWrnqRhWNLy",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Driver's license number on loan application: D4523891 issued 05/2020",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Healthcare provider: Patient SSN 567-89-0123 DOB 03/15/1985",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "PayPal account linked to card ending 2847 with SSN 234-12-5678",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Solana wallet address: 9B5X5wUohEzB9UysrwNLa26Pch5d4dw3Q9V6xKzLGyUy",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Corporate banking log: Transfer from account XX-XXX-5309 processed successfully",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Discovered credit card in street: Visa 4024007134432509 holder M. Johnson",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Insurance claim filed with policyholder SSN 345-67-8901",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "OpenSea NFT wallet: 0x8ba1f109551bD432803012645Ac136ddd64DBA72",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "Mortgage application includes borrower SSN: 678-90-1234",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Bank account 7734521098 frozen due to suspicious activity",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "Dogecoin wallet: D6Dgekh7z7YM3P8z2F7q9L3N4V5X7C2Q4R6S8T0U",
+    "sensitivity_score": 0.77
+  },
+  {
+    "text": "Emergency contact form: Contact SSN 456-23-7890 if hospitalized",
+    "sensitivity_score": 0.76
+  },
+  {
+    "text": "Diners Club card number 36227206271667 found in database",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Tax return shows SSN 789-12-3456 on 1040 form",
+    "sensitivity_score": 0.74
+  },
+  {
+    "text": "Monero wallet public address: 46BeWrHpwXmGDKfR5HCwqSvmsmdTWe33ojQsK3whzKgTccQMSnvb69TTxjxvSxS7YeJqG84yF3z9eJUd7LCut33gAVo3F84",
+    "sensitivity_score": 0.73
+  },
+  {
+    "text": "Court record: Defendant SSN on file 567-34-8901",
+    "sensitivity_score": 0.71
+  },
+  {
+    "text": "Discover card leaked: 6011111111111117 expiry 12/23",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "What does SSN stand for in the United States?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Credit card numbers typically have 16 digits arranged in 4 groups",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The routing number format is used for banking transactions",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Blockchain wallet addresses serve as public identifiers for transactions",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Medical record numbers help organize patient files in healthcare systems",
+    "sensitivity_score": 0.08
+  },
+  {
+    "text": "CVV validation failed - ensure you entered the correct security code",
+    "sensitivity_score": 0.12
+  },
+  {
+    "text": "Please redact the following: SSN XXX-XX-[6789]",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Bank account ending in ****3456 is eligible for rewards",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Bitcoin address format begins with 1, 3, or bc1 on mainnet",
+    "sensitivity_score": 0.02
+  },
+  {
+    "text": "Social Security Numbers are nine-digit identifiers used for taxation",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The customer provided their card expiry as [REDACTED]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Ethereum addresses are 42 characters long including the 0x prefix",
+    "sensitivity_score": 0.03
+  },
+  {
+    "text": "Patient ID on record: [MASKED_MRN] for privacy compliance",
+    "sensitivity_score": 0.28
+  },
+  {
+    "text": "How do banks use routing numbers for fund transfers?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Invalid credit card format detected during checkout",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Wallet address hashes provide pseudonymity in blockchain transactions",
+    "sensitivity_score": 0.04
+  },
+  {
+    "text": "Last 4 digits verification method: Please enter ****",
+    "sensitivity_score": 0.22
+  },
+  {
+    "text": "The system requires validation of identity documents for KYC",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Cryptocurrency keys should never be shared over unsecured channels",
+    "sensitivity_score": 0.09
+  },
+  {
+    "text": "SSN 345-89-2156 used for employment verification",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My bank account number is 4521987654321098",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Credit card 4916 7788 9900 1122 exp 09/25 cvv 734",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ripple wallet: rN7n7otQDd6FczFgLdlqtyMVrJDsDvwUGK",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Patient admitted under SSN 612-34-5789",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Loan documentation: Applicant SSN 234-90-5671",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Routing number 026009593 for Wells Fargo transfer",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Tezos wallet address: tz1TKLvoCY8SPQvVQFn8P9qKwKoMb8ijJH2V",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "JCB card found: 3530111333300000 exp 07/24",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bank account 2847563901 compromised in breach",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "How do I check if my credit card is valid?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Routing numbers identify specific financial institutions",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Your account ****7890 is now active",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "The system masks sensitive data as [REDACTED] in logs",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "What are the security features of a modern credit card?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Employee received direct deposit to account ending 5555",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Cryptocurrency transactions use public wallet addresses",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Social Security Number verification requires proper documentation",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The deposit was processed to account XX-XXXX-[****]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Bank account validation failed - invalid routing number",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Cardano wallet: addr1qyuxemjxz68z2cz7q7f8yqfqh6jmdz8wt44q8dxaqefujk9z3z8z3z8z3z8z3z8z3z8z3z8z3z8z3z8z3z8z3",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Wire instructions: Acct 5634891027 at Bank of America",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Visa card statement: 4539 1234 5678 9010 charged $299.99",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Insurance form lists beneficiary SSN 789-56-0123",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "MRN reference in hospital system: 334455667788",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "What is the structure of a routing number?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CVV codes provide an extra security layer for transactions",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please confirm last 4 digits: ****9999",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Polkadot address: 12k3jZ4eK5pM8xL9nQ2vR7sT0u3wX6yZ9cA2bD5eF",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Account holder provided routing 121000248 for validation",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Mastercard detected: 5412 7845 2109 3467 exp 03/26",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Property deed filed under SSN 456-78-1234",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Algorand wallet public key: XVFQWQWZFZG5V5ZQVFQWQWZFZG5V5ZQVFQWQWZFZG5V5ZQVFQWQWZFZGQ",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "How does identity verification work in banking?",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Credit card processing requires PCI compliance",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Customer ID on file: [MASKED] for security",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Bank account numbers are typically 10-12 digits long",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Transaction confirmed to account ending ****2847",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "American Express card leaked: 371449635398431 exp 11/25",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Mortgage deed shows borrower SSN 123-45-6780",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Crypto exchange account verified with ID 87654321",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Student loan documents contain SSN 234-56-7899",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Binance wallet address: 0x1234567890123456789012345678901234567890",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "What information appears on a credit card statement?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Account validation requires correct bank details",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Blockchain addresses are pseudonymous identifiers",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "The system redacts SSN as XXX-XX-[5678] in reports",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Fund transfer to account 1098765432 completed",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Visa card 4024 0071 3443 2509 charged for medical expenses",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Worker's compensation claim filed with SSN 567-12-3456",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Received wire confirmation: Transfer to account 8829384756 routing 011000015 completed successfully",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My Ripple XRP wallet is rEb8TK3gBgk7D6Y5ivXvwevf447aySLDRn for the investment",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient discharge summary notes SSN 678-34-5012 for billing records",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Found wallet containing card 5105105105105100 exp 01/28 cvv 987",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cosmos blockchain address: cosmos1az0r7dnq9g7n5c8q8np5jqzc4xvx7k5c5m7z3g for staking",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "What are common practices for protecting credit card information during online transactions?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Employee payroll shows direct deposit to account 7629485031",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The system validates routing number format as NNNNNNNN before processing",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Litecoin wallet address: LcKS4h4STuAn8HQR4Br9vDmE8ckE3pCvBs for cold storage",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Customer service ticket: Verify SSN last 4 digits XXX-XX-[4521]",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Probate court document lists deceased's SSN 456-01-7834",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "How do financial institutions use routing numbers in ACH transfers?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Crypto hardware wallet backup: Ledger seed 0x9f8b7c5d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Bank statement shows account ****8765 charged $1,250.00",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Medical records flagged: Patient MRN 556677889900 requires follow-up",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The encryption method protects card data by masking as [****]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Visa card intercepted in mail: 4556737586899855 exp 02/27 holder D. Martinez",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Hedera Hashgraph account: 0.0.12345 verified on mainnet",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "What security measures are built into modern credit card design?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Scholarship application includes applicant SSN 789-23-4567",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "VeChain wallet address: 0x39cccc1db4f7c79ee70240ceabde4c1e67eee424 for enterprise token",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Account holder verified with routing number 041000124 and name confirmation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The validation logic checks for SSN format XXX-XX-XXXX pattern matching",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Mastercard details leaked: 5555555555554444 exp 04/25 cvv 123 name J Anderson",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "ICON network address: hxc17ef48db9f4258abfac1cbf1260651ebaae4b15 for token transfer",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "How do merchants validate credit card CVV codes at checkout?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Unemployment benefits claim filed under SSN 234-67-8923",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank account 3947281056 flagged for suspicious international transfers",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Tron blockchain address: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t for DeFi interaction",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Customer provided last 4 digits of account as [****] for identification",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Discovered stolen wallet: American Express 378734493671000 holder M Peterson",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What is the purpose of the routing number in the banking system?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Healthcare claim processed for patient SSN 567-89-2340",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "NEO wallet address: AcjDZk6a6D2bczf8FWN6UBdjSDRjTwNkJZ for smart contract interaction",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Wire transfer instruction: Send funds to account 6543210987 at Chase",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The system logs redact sensitive data showing account XX-XXX-[****]",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Bank card compromised during breach: 6011000990139424 exp 10/26 cvv 456",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Zilliqa wallet: zil1r5ldrdwhcp73ncy643dgt2q6gvpumkucjyprmf for network participation",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "How do banks process direct deposit transactions using account and routing numbers?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Government benefits application lists applicant SSN 345-12-6789",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Checking account 1234567890 overdraft protection activated",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Harmony ONE wallet: one1a2p5xz9akx3a07n6qh6aypy5gul45cs842yxlr for cross-chain bridging",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "What format validation is required for banking routing numbers?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Discover card statement: 6011 1111 1111 1110 charged $456.78",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Permit application includes applicant SSN 789-45-0123",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Elrond wallet address: erd1l69wfx84mk5vfg4z3y2g63j6ctzr8rgsn7m3q7ll4pz2pxvtmz2s3eycjy for staking rewards",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Savings account 9876543210 balance transferred to money market",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The PCI standard requires masking card numbers as [REDACTED] in logs",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "JCB card discovered: 3566002020360505 exp 06/25 cvv 789 name R Thompson",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Avalanche network address: X-avax1c5kgm6ppxf65x5z0zk2s8q3k0xh9gnyj7hxq8y for subnet deployment",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "SSN 312-45-6789 verified for mortgage application processing",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Credit card 4916 5234 7890 1234 exp 11/26 cvv 892",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank routing 031100649 with account 5647382910 for payroll setup",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bitcoin address: 1BoatSLADpgFghLfoWc2fUmoLA3VNPH2o",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ethereum wallet 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient MRN 778899001122 scheduled for surgery 11/20",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Crypto seed phrase: weather rhythm glare north feature bless crisp capital",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Bank account 4829374619 at TD Bank flagged for review",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Mastercard 5105 1051 0510 5100 exp 09/24 cvv 647",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Social security identifier 567-34-2109 on employment file",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Monero private key: 9c9e6d8f8a8b8c8d8e8f9a9b9c9d9e9f00010203040506070809",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Discover card 6011 2222 3333 4444 charged $799.99",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Wire instructions: routing 121000248 account 9283746501 bank transfer",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Employee tax filing SSN 456-67-8234 on W-2 document",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Visa 4024 0071 3443 2508 holder name J. Williams exp 01/27",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What is the standard format for credit card validation?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Routing numbers are used by banks for processing ACH transfers",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The CVV field provides additional security verification during payment",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please enter the last 4 digits of your account: ****",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Your account ending in 6789 is now active for online banking",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "SSN structure consists of three parts: area number, group number, serial",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Blockchain wallets provide pseudonymous transaction capabilities",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Medical record numbers facilitate patient information management systems",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The system validates card expiry dates to ensure current validity",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Customer provided verification as XXX-XX-[2109] for identity confirmation",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "American Express 371449635398432 found in compromised database",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cardano wallet address: addr1qy2fzz4rj7z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Mortgage documents show borrower SSN 234-56-7893",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank account 6473829015 closure request submitted",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "How do financial institutions implement identity verification protocols?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Insurance beneficiary SSN 789-12-3451 listed on policy",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Polkadot address: 15GGYEX3MqKiviyd7up8pAD7rqYT9z29kz2KkF7L1eFBUCMA",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Diners Club card 36148904649183 exp 05/25 cvv 234",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Student loan application includes SSN 345-78-1234",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What are the security features embedded in modern payment cards?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Account holder verified via routing number 011000015 confirmation",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Solana blockchain address: HN7cABqLq46Es1jh92dQQisAq662SmxELLkuTAtozM5L",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The validation system checks card format as NNNN NNNN NNNN NNNN pattern",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "JCB card leaked during data breach: 3589370733367481 exp 08/25",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Property tax record filed under SSN 567-90-2345",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "How are credit card numbers tokenized for secure payment processing?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Bank account 7384756291 marked for suspicious activity monitoring",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ripple XRP wallet: rJrRMgiRgrU6hDF4pgu5DXQdWyPbY35ErN",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Visa debit card 4532 9876 5432 1098 exp 07/26 cvv 562",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Court order references defendant SSN 678-23-4567",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What PCI compliance standards apply to credit card data storage?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Mastercard statement shows account ****5555 balance $2,847.50",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Algorand wallet public address: QKJPJUMXULQHZQVSTF5FWWQKFQ4RZHPZTRGDQMQ2BUEQE2NNEYQ",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Healthcare claim processed for patient with ID XXX-XX-[6789]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Dogecoin wallet address: D8iwhxvgc7z7z8z9z0z1z2z3z4z5z6z7z8z9",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Discover card 6011 5432 1098 7654 compromised in breach",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Wire transfer completed to account 8374629015 at First National Bank",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "SSN 412-56-7890 submitted with mortgage pre-approval application",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My credit card is 5234 8765 4321 0987 exp 12/25 cvv 445",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank account number: 9283746510 routing 026012882",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bitcoin wallet address: 1PSSGeFHDnKNxiEyFrD1wcEaHr9hrQDDWc",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ethereum address: 0x8ba1f109551bD432803012645Ac136ddd64DBA72",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient admitted under MRN 445566778899 for cardiac evaluation",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ripple wallet rLHzPsX6oXkzU2qL6dMfz4kJHWjx7kLwQc verified for transaction",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Tax return filed with SSN 523-67-8901 for year 2023",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "American Express card 374245455789012 exp 03/26 cvv 678",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Tezos wallet: tz1VSUr8wwNhLAzempoch5d6hLiBV5CCZ8bo",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Insurance claim shows claimant SSN 678-90-4512 on documentation",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Investment account 5738291046 at Fidelity with balance inquiry",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Cardano wallet addr1qxw7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Loan servicer received routing 121201482 account 6482957013",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Cosmos address cosmos1c4k0xyp7ankqapw8v3ajgw4mjh7kax92mzydut for delegation",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Employment verification shows SSN 789-34-5678 on background check",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Visa card 4916 2847 5936 1024 found in wallet",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Account transfer to 2938475601 processing within 24 hours",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "NEO blockchain address: AZxQqBwWnB6g3tJyTGMZ5Z5U4U5Z5Z6Z6Z7Z7Z8Z8Z9Z9Z0Z0Z1Z1Z2",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "JCB card 3540111122223333 exp 09/27 security code 234",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Probate documents list deceased SSN 234-12-5679",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Bank of America account 4729385016 setup for payroll",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Monero public address: 45z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Mastercard 5512 4567 8901 2345 exp 06/26 cvv 821",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "What is an example of credit card fraud detection?",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "SSN verification can be done by asking for the last 4 digits",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Bank accounts are typically referenced by account ending XXXX",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Cryptocurrency wallets use public addresses for receiving funds",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "How do payment processors validate card expiration dates?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Medical record numbers are used internally by healthcare systems",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The routing number identifies which bank processes the transaction",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "What are the requirements for PCI DSS compliance?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Account holder verified: account ending ****3456",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Security systems typically mask data as [REDACTED] in audit logs",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "How do banks prevent unauthorized access to customer accounts?",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Customer service confirmed last 4 digits of card ****7890",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "What is the structure of a valid Visa card number?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Blockchain transactions are recorded with wallet address pseudonyms",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "How do merchants handle sensitive payment information securely?",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "The system redacted the account number as [****] for privacy",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Employee direct deposit set up with account XXX-XXXX-[****]",
+    "sensitivity_score": 0.28
+  },
+  {
+    "text": "What are common security practices for credit card storage?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Bank verification requires correct routing and account information",
+    "sensitivity_score": 0.08
+  },
+  {
+    "text": "Customer confirmed their card was charged $500 to account ending 4444",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "How do financial institutions implement multi-factor authentication?",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Your transaction has been processed with account number masked as [****]",
+    "sensitivity_score": 0.28
+  },
+  {
+    "text": "What format does a standard Social Security Number follow?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Solana blockchain address: 8Z8Z9Z9Z0Z0Z1Z1Z2Z2Z3Z3Z4Z4Z5Z5Z6Z6Z7Z7Z8Z8Z9Z9Z0Z0Z1",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Discover card 6011 7777 8888 9999 exp 04/25 cvv 456",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Custody documents reference ward SSN 345-89-2340",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Customer called about fraudulent charges on card 4024007134432508 exp 03/27",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What are the common methods used to validate SSN authenticity in background checks?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Wire transfer initiated: account 7264839015 routing 031000503 amount $25000",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "The system masks sensitive fields as [REDACTED] to comply with data protection regulations",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Ethereum address 0x35311E3D13be8c5f5c15c6291c966B290604b8c1 for smart contract deployment",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "How do financial institutions use routing numbers for inter-bank transfers?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Medical record shows patient SSN 612-34-5789 admitted to cardiac unit",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Your account ending in [****] has been credited with $1500.00",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Bitcoin cold storage address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "What security protocols are recommended for protecting credit card information online?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Direct deposit setup: SSN 456-78-2345 at employer XYZ Corp",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Checking account 5647382910 overdraft limit increased to $5000",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Customer service transcript: verified last 4 of SSN as XXX-XX-[7834]",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Ripple wallet rN7n7otQDd6FczFgLdhmKLbfUwVzVn7PYJ for enterprise payments",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Visa card 4539237458761234 compromised during retail data breach",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "How are credit card CVV codes validated during point-of-sale transactions?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Loan application filed: borrower SSN 789-23-6780 debt-to-income 0.42",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank account 8372946510 flagged for international wire transfer activity",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "The validation logic checks card format as NNNN-NNNN-NNNN-NNNN pattern match",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Litecoin wallet LWahHehe7z7z8z9z0z1z2z3z4z5z6z7z8z9z0 for asset transfer",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Mastercard 5105105105105100 stolen from unattended vehicle exp 08/25 cvv 234",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What are the industry standards for credit card data encryption?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Employee tax W-4: SSN 234-45-8901 withholding adjustment filed",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Savings account 3829475601 interest accrual statement generated",
+    "sensitivity_score": 0.28
+  },
+  {
+    "text": "Polkadot wallet 1GQRYx6qDBwzs5w3LsQXmHJRLPzzn5F27mKfvxMHVvZbk for staking",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "American Express 378282246310005 discovered in payment gateway logs",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "How do merchants implement secure payment processing for sensitive transactions?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Court filing: defendant SSN 567-01-2345 on legal documentation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Wire transfer executed: bank account 7483926105 verified and processed",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "System audit log shows customer account as XX-XXX-[****] per compliance",
+    "sensitivity_score": 0.22
+  },
+  {
+    "text": "Chainlink wallet 0xc02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 for token transfer",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Discover card 6011000991001201 exp 11/26 cvv 567 holder A. Johnson",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What is the significance of routing numbers in ACH transactions?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Healthcare provider received patient SSN 345-67-9012 for billing",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Stock brokerage account 4738296105 dividend payment pending",
+    "sensitivity_score": 0.32
+  },
+  {
+    "text": "Uniswap wallet 0x47ceF76cb33E3d2d0b842E5EB6D4b8367e8D80E7 for DeFi interaction",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Visa debit 4916537890246135 intercepted in compromised merchant system",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "How do banks prevent unauthorized account access and fraud?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Mortgage application: applicant SSN 678-12-4567 income verified",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Investment account 6384759201 dividend reinvestment plan activated",
+    "sensitivity_score": 0.29
+  },
+  {
+    "text": "Aave wallet 0x8cEe6A2d64CE249ef8B84162F0945f89fF7416ec for lending protocol",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "JCB card 3567890123456789 exp 02/27 cvv 345 name P. Rodriguez",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "What are best practices for storing and managing account credentials securely?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Rental application processed: tenant SSN 234-56-8901 background cleared",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Money market fund account 5738291046 liquidation request submitted",
+    "sensitivity_score": 0.27
+  },
+  {
+    "text": "Yearn Finance wallet 0x19b14d6d3064287b07d26f27d8d8675e4eaf5453 for yield farming",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Diners Club 36227206271667 found in dark web marketplace listing",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "How are credit card payment processing networks structured?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Insurance policy: insured SSN 789-56-2340 beneficiary designation updated",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Crypto custodian account 8374629017 balance verification completed",
+    "sensitivity_score": 0.26
+  },
+  {
+    "text": "Curve Finance wallet 0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7 for stablecoin swap",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "Customer service call: Can you confirm the last 4 digits of your card to process the refund? Customer: 3847",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "I accidentally shared my full SSN 345-67-8923 in a company email yesterday",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank statement summary showing account XXXX XXXX XXXX 5432",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "The healthcare system requires a 9-digit numeric identifier for patient records",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "My checking account is 4927364518 and routing number 021000021 for direct deposit",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Payment declined - please verify CVV security code to retry transaction",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Bitcoin transaction sent to wallet 1A6Ys7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9za",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Ethereum smart contract interaction from address 0x9f8f1b7e6d5c4b3a2910ffeeddccbbaa99887766",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "What information should never be shared during a bank verification call?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Mortgage document shows borrower SSN 612-89-7654 on application",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Card validation failed: card format must be 16 digits with valid checksum",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Tezos delegation to wallet tz1S92D6eB20SLuzHePXgeJMTVwy5ezarga for staking rewards",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Patient record flagged - MRN 334455667788 requires immediate physician review",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Tax filing shows adjusted gross income with SSN 456-12-9034 on form 1040",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "How do payment processors validate expiration dates during transaction authorization?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Wire transfer details: account 5739284601 routing 111000025 amount $15000 USD",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Your account has been verified with the last 4 digits [****]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Chainlink token transfer from address 0x514910771AF9CA656af840dff83E8264EcF986CA to new wallet",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "Visa card number 4485429517622493 exp 10/27 cvv 673 stolen from database",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Blockchain analysis shows wallet 1BoatSLADpgwGzVQXJaDdLhYrE3qLH1Eot receiving multiple deposits",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "What is the standard PCI-DSS encryption requirement for cardholder data?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Medical claim submitted under patient SSN 789-45-1234 with diagnosis code",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Account holder verified - routing number confirmed as NNNNNNNN during phone call",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Monero private spend key: 8f8e8d8c8b8a89888786858483828180e8ddc8ba9897868584838281807f7e7d",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Mastercard 5412752142147895 declined due to CVV mismatch during checkout",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "How are credit card numbers tokenized and stored in PCI-compliant systems?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Employee W-2 form lists SSN 234-78-5601 for annual tax reporting",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Cosmos staking wallet cosmos1a6z8y7x6w5v4u3t2s1r0qponmlkjihgfedcba for validator delegation",
+    "sensitivity_score": 0.76
+  },
+  {
+    "text": "Credit card account ending in 6789 charged $299.99 for subscription renewal",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Bank account 7482039615 initiated for direct deposit setup at employer",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "What are common red flags for credit card fraud detection systems?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Discover card 6011123456789012 exp 05/26 cvv 456 holder name S. Williams",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "NEO blockchain address AN4m9ZWmC8s9p8K6z7y6x5w4v3u2t1sqrponmlkjihgfedcba for asset transfer",
+    "sensitivity_score": 0.74
+  },
+  {
+    "text": "Social Security verification completed using XXX-XX-[****] masking protocol",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Probate court filing references deceased individual SSN 567-34-8901 on documentation",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "How do financial institutions implement multi-factor authentication securely?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "JCB card 3588123456789012 exp 09/25 cvv 789 processed through payment gateway",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Litecoin mining pool payout to address LKxHzZ4n8Y7X6W5V4U3T2S1R0Ponmlkjih for block reward",
+    "sensitivity_score": 0.73
+  },
+  {
+    "text": "Customer support verified identity using account [REDACTED] ending in 2847",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Guardianship documents list ward SSN 345-90-6723 for legal proceedings",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "What format validation is required for credit card number entry on checkout pages?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "American Express 371449635398432 found in compromised retailer database breach",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Polkadot wallet 1AQST8ehhx7z8y7x6w5v4u3t2s1roponmlkjihgfedcbazyx for substrate interaction",
+    "sensitivity_score": 0.72
+  },
+  {
+    "text": "Account verification requires only the last 4 digits: [****]",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Loan servicer received payment from account 6382947105 routing 121000248",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "How do merchants securely handle customer payment card information during transactions?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Visa debit card 4024007134432508 exp 12/26 cvv 562 reported stolen",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Uniswap liquidity pool interaction from wallet 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266 for AMM",
+    "sensitivity_score": 0.71
+  },
+  {
+    "text": "Employment background check verified last 4 of SSN as [****] only",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Investment account holder SSN 678-56-2345 on brokerage account agreement",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "What are industry best practices for securing financial account credentials and PINs?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Wire transfer initiated from account 4729385016 to 8372946510 for $50000",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient hospitalized under MRN 556677889900, cardiac intervention scheduled",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Applicant SSN 901-23-4567 submitted with mortgage pre-approval documentation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bitcoin address 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN3 received 2.5 BTC transfer",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Credit card statements mask sensitive data as XXXX-XXXX-XXXX-[****]",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Ethereum wallet 0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb8 verified for deployment",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "How do banks validate customer identity during account opening procedures?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Routing number 026009405 used for inter-bank settlement processing",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Tax return filed under SSN 612-67-8901 with IRS for year 2024",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Mastercard 5512456789012345 exp 07/27 cvv 934 holder J. Martinez",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What encryption standards protect credit card data in payment systems?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Insurance claim shows claimant SSN 723-45-6789 on submitted forms",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ripple wallet rLHzPsX6oXkzU2qL6dMfz4kJHWjx7kLwQd verified for enterprise settlement",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Bank account validation requires matching routing XXXXXXXX pattern",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Visa card 4916284759361024 compromised in data breach notification",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient MRN 667788990011 admitted for orthopedic surgery evaluation",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "What are common phishing tactics targeting financial account credentials?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Employment verification shows SSN 534-78-9012 on background check documentation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cosmos address cosmos1d3p5z7a9c1e3g5i7k9m1n3p5r7t9v1x3z5b7d9 for token delegation",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Customer service confirmed account ending XXXX-[****] for verification",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "American Express card 374245455789013 exp 04/26 cvv 679 stolen",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Direct deposit setup requires SSN 456-89-2345 for payroll processing",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Tezos wallet tz1VSUr8wwNhLAzempoch5d6hLiBV5CCZ8bp for contract interaction",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "How do payment card processors validate expiration dates during authorization?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Cardano wallet addr1qxw7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z3 verified",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Loan servicer received payment from account 5738291047 routing 121201483",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What information should be masked in audit logs for compliance purposes?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "NEO blockchain address AZxQqBwWnB6g3tJyTGMZ5Z5U4U5Z5Z6Z6Z7Z7Z8Z8Z9Z9Z0Z0Z1Z1Z3 transfer",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "JCB card 3540111122223334 exp 10/27 security code 235 compromised",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Probate documents list deceased SSN 345-67-8901 on court filing",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "How do merchants implement point-of-sale security for card transactions?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Monero public address 45z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z0 for payment",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Bank of America account 4729385017 setup for payroll deposit",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What are PCI-DSS requirements for storing cardholder data securely?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Chainlink wallet 0xc02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc3 for token distribution",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Discover card 6011 7777 8888 9999 exp 05/26 cvv 457 holder M. Chen",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Custody documents reference minor SSN 456-23-7890 for legal guardianship",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "How do financial institutions implement fraud detection algorithms?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Solana blockchain address 8Z8Z9Z9Z0Z0Z1Z1Z2Z2Z3Z3Z4Z4Z5Z5Z6Z6Z7Z7Z8Z8Z9Z9Z0Z0Z2 active",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Customer called reporting fraudulent charges on card 4024007134432509 exp 04/27",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What format validation is used for 9-digit Social Security Numbers?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Aave protocol wallet 0x8cEe6A2d64CE249ef8B84162F0945f89fF7416ed interaction recorded",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Medical record shows patient SSN 567-12-3456 admitted to oncology unit",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Wire transfer to account 7264839016 routing 031000504 amount $35000 processed",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "How do blockchain networks maintain wallet address anonymity while recording transactions?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Yearn Finance wallet 0x19b14d6d3064287b07d26f27d8d8675e4eaf5454 yield position updated",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Visa card 4539237458761235 exp 11/27 cvv 512 identified in payment database",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Applicant SSN 789-34-5678 verified for background check clearance",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What are industry standards for credit card tokenization and vault systems?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Curve Finance wallet 0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C8 liquidity pool interaction",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Patient admitted to ICU, SSN 523-67-8934 documented in admission worksheet",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Wire confirmation: account 8493726581 routing 091000022 transferred $48500",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bitcoin wallet 1A9TaSTpdJgJAK6v8L9C8L7z5z6z7z8z9z0z1z2z3z for cold storage",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ethereum address 0x1f9090aae28b8a3dcecc42909fbe24cd5149e26e verified for token mint",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Visa card 4485287460289201 exp 06/26 cvv 445 charged $2899.99",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bank account 7389461023 flagged for unusual international activity",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Mastercard 5506234891267345 stolen from online marketplace database",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Employee received W-4 adjustment, SSN 612-45-9876 tax withholding modified",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Checking account 6384729105 overdraft notice issued for $847.23",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Medical claim processed under patient SSN 678-90-1234 with authorization code",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "American Express 378282246310006 intercepted during payment gateway processing",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Litecoin address LN9z8z7z6z5z4z3z2z1z0zponmlkjihgfedcbazy for asset consolidation",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Loan officer received SSN 534-12-6789 for mortgage underwriting process",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Discover card 6011987654321098 exp 09/27 cvv 678 found in dark web forum",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Investment account 5729384601 liquidated securities for retirement distribution",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Polkadot wallet 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih verification completed",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "JCB card 3566234567890123 exp 08/26 cvv 890 denied due to fraud hold",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Court documents reference defendant SSN 456-78-9012 on legal filing",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Ripple wallet rD1x8z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8 for escrow settlement",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Tax audit notification shows SSN 723-34-5678 requiring immediate response",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Wire transfer executed to account 9384726105 routing 121121480 amount $72000",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Chainlink staking wallet 0x514910771AF9CA656af840dff83E8264EcF986CB active",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Visa debit 4532891023456789 exp 11/25 cvv 234 reported as fraudulent",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Patient MRN 889900112233 requires urgent lab work completion before discharge",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Guardianship proceedings list ward SSN 567-23-4561 on court documentation",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Uniswap router interaction from 0xE592427A0AEce92De3Edee1F18E0157C05861564 recorded",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Applicant SSN 789-56-0123 submitted with rental application verification",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Money market account 4837291056 redeemed shares for $125000 distribution",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Monero private key extracted: 8f8e8d8c8b8a89888786858483828180e8ddc8ba9897868584838281807f7e7e",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Aave wallet 0x8cEe6A2d64CE249ef8B84162F0945f89fF7416ee collateral deposit confirmed",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Employment verification requires SSN 345-67-8904 for background clearance",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Diners Club 36148906271668 exp 03/26 cvv 456 blocked for security review",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Savings account 6729384105 interest earned statement generated monthly",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Cardano address addr1qxx8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z3zy received ADA",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Insurance beneficiary SSN 612-78-9045 updated in policy documentation",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Crypto custody account 8294736105 balance reconciled with exchange records",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Yearn Finance position from 0x19b14d6d3064287b07d26f27d8d8675e4eaf5455 withdrawn",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Mortgage application references borrower SSN 534-90-1267 debt schedule",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Visa card 4916728394561023 exp 02/28 cvv 789 used for fraudulent transactions",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Healthcare provider billing shows patient SSN 456-34-7890 on invoice",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "NEO smart contract interaction from AN4m9ZWmC8s9p8K6z7y6x5w4v3u2t1sqronmlkjihgfedcba",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Loan servicer received payment from account 7384629105 routing 011401449",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Solana token transfer to 8Z8Z9Z9Z0Z0Z1Z1Z2Z2Z3Z3Z4Z4Z5Z5Z6Z6Z7Z7Z8Z8Z9Z9Z0Z0Z3",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Mastercard 5412987654321098 exp 01/27 cvv 567 declined during purchase",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Custody agreement lists minor SSN 345-12-6734 for educational trust",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Tezos delegation wallet tz1VSUr8wwNhLAzempoch5d6hLiBV5CCZ8bq staking rewards accrued",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Tax return filed showing SSN 789-01-2345 adjusted gross income $145000",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "JCB card 3540222233334445 exp 12/26 cvv 345 compromised at merchant terminal",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bank account 5839261047 setup for automatic bill payment processing",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Curve Finance position 0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C9 liquidity removed",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Probate court filing references deceased individual SSN 612-56-8901 asset distribution",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Direct deposit initiated from employer routing 021000021 to account 6384729106",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "American Express 371449635398433 exp 06/27 cvv 780 used in unauthorized transaction",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Hey, I found my old bank statement. My account number is 8472936105 and routing is 031001503. Can you help me verify?",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "SSN verification failed - unable to match 678-92-3456 to database records",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Customer called stating: my card 5532847293614729 was just charged $500 I didn't authorize",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient file note: MRN 445566778899 requires cardiology consult before 11/15/2024",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ethereum deposit address 0x8ba1f109551bD432803012645Ac136ddd64DBA72 for payment processing",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Bitcoin cold storage address 1BoatSLADpgwGzVQXJaDdLhYrE3qLH1Eop received 0.75 BTC",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Monero transaction log: sent 15 XMR to 47z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z0 successfully",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Wire transfer completed: originating account 7293847562 routing 121000248 amount $25000",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Employee submitted W-2 form with SSN 834-56-7890 for annual filing",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Visa card 4024007134432510 exp 08/26 cvv 389 reported missing from wallet",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Standard credit card number format contains 13-19 digits for validation purposes",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "How should financial institutions handle SSN requests during customer service calls?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please enter your bank routing number (9 digits) in the format: XXXXX[____]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "What are the security implications of storing unencrypted wallet addresses in databases?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Cryptocurrency addresses are pseudonymous identifiers on public blockchains.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Your recent transaction shows card ending in 7829 was charged $199.99",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "System log entry: CVV validation returned negative result for test transaction",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "What encryption standard protects PII in financial services applications?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Medical records retention policy requires SSN field masking after 7 years",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Bank account number format: [accountNumber] where length must equal 10-12 digits",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Inheritance documents show beneficiary SSN 945-67-8234 on will documentation",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Credit card application approved: Mastercard 5589234567891234 issued to account holder",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Blockchain explorer shows wallet 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92267 with 2.5 ETH balance",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Loan modification package references borrower SSN 456-73-8901 on title page",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Polkadot validator wallet 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjig for staking rewards",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Dispute resolution team: customer reported card 4916238945672013 used for unauthorized charges",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Patient insurance claim processed: member ID corresponds to SSN 534-89-2367",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "How do tokenization services replace PCI-sensitive cardholder data?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Cosmos network delegation: sending stake to wallet cosmos1g3x8z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Describe the validation process for 16-digit payment card numbers in e-commerce systems",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Emergency contact form shows next-of-kin SSN 678-45-2301 on medical intake",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "JCB card 3587123456789012 exp 07/28 cvv 234 flagged for velocity check",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ripple wallet identifier: rLHzPsX6oXkzU2qL6dMfz4kJHWjx7kLwQe for cross-border settlement",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "ACH transfer details: originating from account 6384927156 routing 121201481 amount $18500",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "What compliance procedures protect against SSN disclosure in customer support interactions?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Cardano delegation address addr1qyx9z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z2z5 active",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Discover card 6011234567890123 exp 04/27 cvv 890 payment method updated in system",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Guardianship court order lists ward SSN 723-12-5678 for asset management approval",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "American Express 374245455789014 exp 09/26 cvv 567 used for subscription renewal",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bitcoin address 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zb received 1.25 BTC in custody",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Describe best practices for masking account numbers in customer service transcripts",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Investment prospectus lists investor SSN 345-78-9034 in subscription agreement",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Uniswap liquidity provider position: wallet 0xE592427A0AEce92De3Edee1F18E0157C05861565 active",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Tax audit correspondence references individual SSN 612-34-5689 for assessment review",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Wire confirmation: received $42000 from account 8294736015 routing 011401450",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ethereum address 0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb8 verified for smart contract deployment",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "What framework ensures credit card data is tokenized before database storage?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Visa debit 4532891023456790 exp 10/25 cvv 567 replacement card issued",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Settlement bank routing number 021000021 used for interbank transfers daily",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "NEO blockchain address AN4m9ZWmC8s9p8K6z7y6x5w4v3u2t1sqronmlkjig for token distribution",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Beneficiary designation form shows SSN 567-90-1234 on life insurance policy",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Mastercard 5512456789012346 exp 06/27 cvv 456 stolen credentials detected in dark web",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Monero spend key recovered from compromised server: 8f8e8d8c8b8a89888786858483828180e8ddc8ba9897868584838281807f7e7e",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Customer called today stating his Visa card 4539287456123890 exp 12/28 cvv 923 was declined multiple times at checkout",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Inheritance document shows primary beneficiary SSN 847-23-5690 for estate distribution purposes",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Wire transfer initiated: source account 9283746105 routing 121301090 destination account 5847293016 amount $67500",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Crypto wallet address 0x9f8DeA8B6996b2b8c5E5D5e5d5e5d5e5d5e5d5e5 for DeFi protocol interaction",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient discharge summary documents MRN 556677889900 with insurance authorization SSN 945-12-3467",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What are the regulatory requirements for validating customer Social Security Numbers during account opening?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Blockchain analysis shows Ethereum address 0x1234567890abcdef1234567890abcdef12345678 transferred 50 ETH",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Can you explain how credit card processors validate the format of 4-digit security codes?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Loan servicer processed payment from checking account 7394628105 routing 031901823 amount $2450.00",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Insurance claim denied - member SSN 623-78-9045 does not match active policy enrollment records",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bitcoin address 1BoatSLADpgwGzVQXJaDLhYrE3qLH1Eop for long-term cold storage custody",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "How do payment networks implement tokenization to replace sensitive card data in transaction logs?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Employee submitted direct deposit authorization with SSN 534-67-8923 and bank account 6384927156",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Your account XXX-XX-7823 has been verified for mortgage pre-qualification",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Cardano staking wallet addr1qz8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z4 earned 2.3 ADA rewards",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Probate administration requires identification verification for SSN 756-34-1289 beneficiary distribution",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What security frameworks protect blockchain wallet addresses from being linked to personal identity?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ACH rejection notice: account 8293746105 routing 091000022 insufficient funds for $3850 transfer",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Mastercard 5591234567890128 exp 03/28 cvv 834 reported fraudulent charge of $1200 detected",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Monero wallet address 48w8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcba for anonymous transaction settlement",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Medical chart notation: patient SSN 812-56-7234 admitted to cardiac care unit for observation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Please describe the typical structure of a 9-digit routing number used in banking systems",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Ripple wallet rN7n7otQDd6FczFgLdlqtyMVrYeDFzTT7e participated in XRP ledger transaction",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Guardianship trust account 5729384061 routing 121000248 established for minor beneficiary management",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What are industry best practices for masking SSN fields in archived customer service recordings?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Visa card 4024007134432511 exp 05/27 cvv 156 declined due to temporary fraud hold placed",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Solana validator wallet 9Z9Z0Z0Z1Z1Z2Z2Z3Z3Z4Z4Z5Z5Z6Z6Z7Z7Z8Z8Z9Z9Z0Z0Z1Z1Z4 receiving stake delegation",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Tax return filing shows individual SSN 678-23-5601 with reported income of $156000 for 2024",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Custody agreement references ward SSN 423-78-9056 for educational savings plan documentation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "How should customer service representatives verify identity without requesting full credit card numbers?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "American Express 378282246310007 exp 11/27 cvv 401 replacement card mailed to billing address",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ethereum address 0xdac17f958d2ee523a2206206994597c13d831ec7 for USDT token holder interactions",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Wire transfer confirmation: from account 6829374105 routing 121201483 to 7384629015 amount $51200",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient authorization form lists SSN 567-34-7890 for healthcare power of attorney designation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What compliance procedures should be followed when storing unencrypted cardholder data temporarily?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Discover card 6011567890123456 exp 02/27 cvv 234 compromised in retailer database breach",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Chainlink wallet 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 for protocol governance token holding",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Direct deposit setup requires employee SSN 945-67-8234 and bank account 4839271056",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Loan modification agreement references borrower SSN 612-45-9873 on cover page document",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Describe the encryption standards used to protect wallet private keys in custodial environments",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "JCB card 3540111122223335 exp 09/27 cvv 678 flagged for suspicious international charges",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Polkadot wallet 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih2 staking 50 DOT for validator participation",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Insurance beneficiary change request: new beneficiary SSN 734-12-5678 designation effective immediately",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What regulatory framework governs the retention and disposal of stored credit card data in systems?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "ACH transfer to account 7293847061 routing 011401449 from payroll for employee gross salary $4500",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Mastercard 5412891234567809 exp 01/28 cvv 901 payment method updated in stored preferences",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cosmos validator address cosmos1p8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z for delegated stake participation",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Medical records show patient SSN 856-23-4567 enrolled in clinical trial protocol 2024-HRP-789",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Employment verification letter references employee SSN 523-67-8934 for background check clearance",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "How can financial institutions implement zero-knowledge proofs for identity verification without storing PII?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Bitcoin wallet 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zc secured in multi-sig custody arrangement",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ethereum address 0x28C6c06298d161e15667f44F3E092054f4a63b87 for USDC circle stablecoin transfers",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Wire transfer completed: originating account 8374629105 routing 121301090 destination account 6384927015 amount $38900",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "SSN 892-34-5670 required for IRS Form 1040 submission deadline",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Credit card 5234891023456781 exp 07/27 cvv 445 flagged for chargeback investigation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ethereum wallet 0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE for token staking rewards",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Bitcoin address 1PSSGeFHDnKNxiEy2Uw5m8z7w9v8x7y6z5w4v3u received 2.1 BTC today",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Applicant medical history references patient SSN 734-56-8901 for insurance underwriting",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Cardano staking address addr1qy9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcba delegated 100 ADA",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Visa card 4929234567890156 exp 12/26 cvv 567 unauthorized charges totaling $3400 reported",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Investment account holder SSN 567-89-0123 liquidated $250000 portfolio position",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Monero private spend key extracted: 9a9b9c9d9e9f90919293949596979899 during system compromise",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Ripple address rG1QQv2nh2gr7RCZ1P8YYcBUKCCN633jCn executing cross-border settlement transaction",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "How many digits appear in a standard American routing number format?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "What is the proper procedure for destroying stored credit card tokens?",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Can you explain the difference between tokenized and non-tokenized payment processing?",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Wallet addresses serve as pseudonymous identifiers on public blockchain networks.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The bank account shown ending in 5612 received automatic deposit of $3200 today",
+    "sensitivity_score": 0.35
+  },
+  {
+    "text": "Please verify your identity with the last 4 digits of SSN: [____]",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "What compliance training covers PII handling in customer support departments?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Diners Club 36228207834691 exp 10/26 cvv 123 used for business travel expense",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Guardianship document lists minor beneficiary SSN 678-34-5612 for trust administration",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Solana wallet 5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z receiving 500 SOL airdrop",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "What security standards govern the encryption of cardholder data at rest?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Direct deposit authorization shows employee SSN 845-67-2301 routing 121001480",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Uniswap liquidity position from wallet 0x68b3465833fb72B5A828cCEBEAeC87B7b8A25564 withdrew $85000",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Mortgage escrow account 6384729061 routing 031001503 established for property taxes",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "American Express 371449635398434 exp 04/27 cvv 890 replacement sent overnight",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "How should financial institutions validate SSN format during automated account verification?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Mastercard 5539234567890167 exp 08/27 cvv 234 compromised during third-party vendor breach",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Patient MRN 334455667788 assigned to new surgical case file created today",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Polkadot validator address 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih3 earned 15 DOT commission",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Discuss the PCI-DSS compliance requirements for storing payment card information",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Loan servicer received ACH payment from account 7293847062 routing 121000248 amount $4875",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "JCB card 3568901234567890 exp 05/28 cvv 901 declined for address verification mismatch",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Cosmos network delegator address cosmos1g3x8z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z9 staking 250 ATOM",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "What framework ensures sensitive data is masked in production database backups?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Insurance claim submission includes policyholder SSN 923-45-6712 for verification",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Ethereum address 0x6B175474E89094C44Da98b954EedeAC495271d0F for DAI stablecoin holdings",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Custodial bank account 5839261048 routing 121301090 holding client securities",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Discover card 6011892034567812 exp 01/27 cvv 567 reported stolen from wallet",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Why should customer service avoid requesting full credit card numbers for verification?",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Visa card 4024891234567823 exp 09/26 cvv 678 flagged for velocity fraud check alert",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Chainlink staking pool wallet 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB49 earning rewards daily",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Beneficiary designation form shows SSN 756-89-1234 on annuity contract document",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "How do tokenization services reduce PCI compliance scope for merchants?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Wire transfer confirmation: from account 8293746106 routing 011401450 to 6384929017 $97500",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Cardano wallet addr1qz8z0z9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcba received 75 ADA",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "What are the privacy implications of unmasked bank account numbers in logs?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Employment tax form W-4 submitted by employee with SSN 634-12-5678 for salary withholding",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Monero wallet 47z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3 for transaction anonymity",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ripple escrow account rEb8TK3gBgk7BVHx4z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9 locked funds released",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Mastercard 5512234567890178 exp 11/27 cvv 345 used for international transaction charge",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Patient authorization requires SSN 812-34-5690 for healthcare power of attorney designation",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "How should encrypted wallet private keys be stored in institutional custody systems?",
+    "sensitivity_score": 0.08
+  },
+  {
+    "text": "Customer service ticket #4521: Client reports SSN 456-23-7890 was exposed in data breach notification",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank statement shows wire transfer initiated from account 9384756201 routing 121401893 amount $125000",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Cryptocurrency custody report: Bitcoin address 1Q2TWHE3GMdB6BZKafqwxS7EKZwnmSBekA holds 3.7 BTC",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Credit card application approved: Visa 4539456789012345 exp 11/29 cvv 234 issued to applicant",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Email from HR: New employee SSN 723-56-4890 added to payroll system for direct deposit",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ethereum wallet 0x35fE6934e2b2525b535B30424F92B5eFd152AD5e active in DeFi protocol",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Internal memo: Discovered SSN 345-89-7612 in customer database without encryption",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "ACH transfer details in system log: account 4756829301 routing 091000019 amount $18750.50",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Medical billing: Patient MRN 778899001122 with corresponding SSN 567-12-3489 for insurance claim",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Monero private key backup file: 8c8d8e8f909192939495969798999a9b9c9d9e9f stored in vault",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Trust account statement shows Discover card 6011789234561230 exp 02/28 cvv 456 on file",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Solana validator address 98Y7Z7Z6Z5Z4Z3Z2Z1Z0ZyXwVuTsRqPoNmLkJiHgFeDcBa staking 1000 SOL",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Inheritance probate document lists deceased's SSN 612-78-9045 for estate processing",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What is a credit card verification value and how many digits does it contain?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Describe PCI-DSS Level 1 compliance requirements for payment processors",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "How do blockchain networks utilize public addresses for transaction verification?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Loan document references borrower's SSN with masked format: XXX-XX-[5678]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Account verification form displays: Bank account ending in [____] for confirmation",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "What are the regulatory standards for destroying sensitive financial information?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "System displays message: Enter last 4 digits of Social Security Number: XXXX[____]",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Discuss wallet address privacy concerns in cryptocurrency networks",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "American Express 378945612345678 exp 07/29 cvv 890 payment declined - fraud prevention",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Chat log: Customer: My Polkadot staking wallet is 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih4",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Legal document: Guardianship appointment for minor with SSN 834-56-7901 effective immediately",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Tax preparation software field: Social Security Number 523-45-6789 entered for filing",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cryptocurrency exchange KYC record: Ethereum address 0xfB6916095ca1df60bB79Ce92cE3Ea74c37c5d359",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Explain the difference between card tokenization and encryption in payment systems",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "What security measures protect private cryptocurrency keys in hardware wallets?",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "JCB card 3566234567890123 exp 06/28 cvv 123 flagged for suspicious activity pattern",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Visa debit 4024567890123456 exp 12/27 cvv 567 replacement card ordered to address",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Cardano staking credential: addr1qx9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb earning 8 ADA monthly",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Insurance beneficiary form: Designated beneficiary SSN 945-12-6734 for life insurance payout",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Ripple wallet address rPEPPER7kfTD9w2To4CQk6UCfuHM9c6GDY for cross-border transfers",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "How should developers implement rate limiting to prevent credential stuffing attacks?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Discuss best practices for secure password storage using cryptographic hashing",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Mastercard 5234567890123467 exp 03/28 cvv 678 unauthorized international charges detected",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Wire confirmation email: Transfer from account 6294837156 routing 121201481 to 7384629056",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Cosmos network delegation: wallet cosmos1x9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihg delegated 500 ATOM",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Medical record: Patient SSN 789-45-1234 admitted to ICU with cardiac condition diagnosis",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "What compliance frameworks govern the use of personally identifiable information in analytics?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Discover card 6011234567890124 exp 09/27 cvv 456 marked as lost in system",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Chainlink governance token holder wallet 0x514910771AF9Ca656af840dff83E8264EcF986CA voting on proposal",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Employment verification letter: Employee SSN 612-56-7890 confirmed for background clearance",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Explain the technical architecture of distributed ledger consensus mechanisms",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Loan payoff statement: Borrower SSN 456-78-1234 balance due $287500 final payment",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Bitcoin address 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zd cold storage facility custody account",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "ACH rejected entry: account 5829374061 routing 121301090 insufficient funds notification",
+    "sensitivity_score": 0.14
+  },
+  {
+    "text": "Discuss how banks use multi-factor authentication for account access verification",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Polkadot validator commission account 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih5 received 45 DOT reward",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Insurance application: Applicant SSN 734-23-5678 underwriting decision pending review",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Ethereum address 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 liquidity provider position active",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "What are industry standards for encryption key rotation in financial systems?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Trust settlement: Monero wallet 4Az8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcba privacy transaction",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Direct deposit setup: Employee SSN 834-45-6912 bank account 7384629056 routing 031901823",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Describe the role of zero-knowledge proofs in blockchain privacy protocols",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Visa card 4024789234567890 exp 05/29 cvv 345 cardholder confirmed transaction validity",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Solana wallet 7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9 received 200 SOL transfer",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Custodial agreement: Minor beneficiary SSN 567-01-2345 trust account established",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Client called requesting account verification. Provided SSN 289-56-4123 verbally during authentication process.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Invoice payment authorized: Visa 4156789234567890 exp 10/29 cvv 512 charge $8950 processed",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bitcoin cold storage address: 1Q3EELGY3Z9z8y7x6w5v4u3t2s1rqponmlkj received 0.85 BTC",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Ethereum validator stake from 0x8ba1f109551bD432803012645Ac136ddd64DBA72 earning 2.5 ETH daily",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Mortgage pre-qualification: Borrower SSN 401-67-8945 approved for $520000 loan amount",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "ACH payroll deposit: Account 9384756203 routing 121301090 direct deposit $5240 biweekly",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Mastercard 5489234567890234 exp 04/28 cvv 789 fraud dispute filed for $2100 unauthorized purchase",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Patient medical record access: SSN 678-90-1245 scheduled for cardiac ablation procedure",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Cardano delegation address addr1qp9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb staking 250 ADA",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Wire transfer initiated from account 6739284051 routing 091000019 amount $73900 to payee",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Discover card 6011567890234561 exp 07/28 cvv 890 compromised - issuing replacement card",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Ripple escrow wallet rN7n7otQDd6FczFgLdlqtyMVrYeDFzTT7f released $2.5M XRP settlement",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Tax return filed: Individual SSN 823-45-6701 income $189500 filing status married",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Monero stealth address 8Az9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcba received anonymous payment",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "JCB card 3578234567890456 exp 01/29 cvv 456 flagged for velocity fraud alert",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Probate estate processing: Deceased SSN 534-78-9012 beneficiary distribution initiated",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Solana liquidity provider 6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9 withdrawn $156000",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "American Express 375128934567890 exp 11/28 cvv 234 business travel charges $4200 approved",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Guardianship trust: Minor SSN 756-34-5612 educational savings account balance $145000",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Chainlink staking wallet 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB50 earned 500 LINK rewards",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Medical chart notation: Patient SSN 612-23-8934 assigned to oncology department consultation",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Visa debit 4539234567890234 exp 08/28 cvv 901 PIN verified for ATM withdrawal $2000",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Ethereum address 0xdA9CE944a37d218dbFF5aBb20a8cE1b0b6d02b47 swapped $420000 in USDC",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Direct deposit authorization: Employee SSN 945-67-3456 biweekly salary $4850 routing 121401893",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Mastercard 5512456789012345 exp 02/29 cvv 567 annual fee waived on premium account",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Polkadot validator address 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih6 collected 68 DOT commission",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Insurance beneficiary update: New beneficiary SSN 823-67-0145 designation for policy effective",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bitcoin address 1P8z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9ze multisig cold storage account",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Loan modification: Borrower SSN 589-12-7634 new payment $3200 monthly effective immediately",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Cosmos delegator wallet cosmos1h9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih staking 1200 ATOM",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Discover card 6011678901234567 exp 06/28 cvv 678 marked compromised in security breach",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Patient MRN 556677889900 SSN 734-56-9012 admitted emergency department with chest pain",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "ACH transfer to account 7294856103 routing 121301090 amount $9875.50 salary deposit",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Cardano staking pool wallet addr1qw9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb 500 ADA delegated",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "JCB card 3567890123456789 exp 09/29 cvv 789 international purchase blocked - fraud prevention",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Employment tax form: Employee SSN 612-34-7890 W-2 reported wages $67500 federal withholding",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Ripple wallet rG1QQv2nh2gr7RCZ1P8YYcBUKCCN633jCn9 cross-border transaction $500000 EUR",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Monero transaction privacy: Wallet 4Bz8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3 mixing enabled",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "American Express 379912345678901 exp 12/28 cvv 567 replacement platinum card approved",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Visa card 4024567890234567 exp 03/29 cvv 234 theft report filed amount $8500 unauthorized",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Solana validator authority wallet 5Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4 stake pool",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Custodial bank account 8294756104 routing 031001503 securities held for trust beneficiary",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Mastercard 5539567890123456 exp 05/29 cvv 345 chargeback investigation for duplicate billing",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Probate beneficiary: SSN 890-23-4567 estate distribution check $125000 processed today",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Ethereum address 0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cF governance token holder voting",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Wire confirmation: From account 6384927104 routing 121201481 to 8294756105 amount $64200",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Chainlink validator address 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB51 node operator earnings",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Medical insurance claim: Patient SSN 567-23-4890 deductible met procedure authorization issued",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Discover card 6011789012345678 exp 10/29 cvv 901 account suspended fraud verification pending",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Polkadot staking address 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih7 commission 3.2% earned $42000",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Annuity contract: Annuitant SSN 734-67-5890 monthly payout $3500 retirement income verified",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Bitcoin address 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zf hardware wallet custody arrangement",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "ACH return notice: Account 5839274106 routing 091000022 routing error insufficient documentation",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Cosmos network delegation: Address cosmos1y9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkji 3000 ATOM stake",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "American Express 378567890123456 exp 04/29 cvv 890 upgrade to centurion membership approved",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Customer called support asking to reset password. Verified identity with SSN 567-89-2345 and date of birth.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank statement excerpt: Wire initiated from checking account 4920385761 routing 121000248 to merchant account.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Cryptocurrency portfolio report shows Ethereum wallet 0x1234567890abcdef1234567890abcdef12345678 holdings: 15 ETH.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Visa card details entered in payment form: 4532987654321098 exp 07/26 cvv 456.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bitcoin private key backup file contains: 5KN2Z7VZ8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Internal audit log: Employee accessed record containing SSN 401-23-5678 for customer verification.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Mortgage document section: Borrower SSN 723-45-8901 mortgage principal $485000 payment schedule attached.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Polkadot validator staking account 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjihh with 2000 DOT locked.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Mastercard payment processed: 5412345678901234 exp 11/25 cvv 345 charge $6750.00.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient chart shows medical record number MRN 445566778899 with corresponding SSN 845-12-3456.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Solana wallet 9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4 receiving 750 SOL airdrop distribution.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Account recovery: User confirmed account ownership with SSN 612-67-8934 and security questions answered.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank routing number 121401893 is used for deposit processing.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The credit card industry standard for expiration dates follows MM/YY format.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "What are the technical requirements for PCI-DSS Level 2 merchants?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Account verification: Please enter the last 4 digits of your bank account: [____].",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "System log shows masked format: SSN ending in XXXX-XX-[3456].",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Cryptocurrency wallet addresses serve as public identifiers for blockchain transactions.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "How do financial institutions implement encryption for storing credit card data?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Discuss the regulatory requirements for data retention in banking systems.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "JCB card 3589012345678901 exp 08/27 cvv 567 authorized for recurring subscription charge $99.99.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Inheritance documentation: Beneficiary SSN 956-78-2345 trust distribution $250000 processed.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Ethereum address 0xabcdefabcdefabcdefabcdefabcdefabcdefabcd staking 50 ETH for validator rewards.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "ACH authorization form completed with account 7384920561 routing 031001503.",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Monero wallet 8Dz9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcba transaction sent for privacy.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Employee payroll setup: SSN 834-90-1234 direct deposit amount $4500 monthly.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "What frameworks should organizations use for PII governance?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Explain how tokenization reduces merchant PCI compliance burden.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Security training module covers best practices for handling sensitive identifiers.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Chat transcript: Agent: For verification, what is your credit card number? Customer: 4024567890123456.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cardano wallet addr1qd9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb earning 12 ADA daily.",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Insurance underwriting: Applicant SSN 523-45-7890 approved for $1.2M term life policy.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Wire transfer details in customer email: From account 9384756201 routing 121301090 amount $47300.",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Ripple wallet rAbCdEfGhIjKlMnOpQrStUvWxYz1z2z3z4z5z6z7 holding 10000 XRP escrow.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Discover card 6011901234567890 exp 02/26 cvv 789 flagged for high-risk transaction pattern.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Guardianship order lists minor's SSN 678-56-1234 for trust account management.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Why should organizations avoid logging complete credit card numbers?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Discuss asymmetric cryptography applications in blockchain wallet security.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "System displays: Enter your Social Security Number for identity verification: [___________].",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Database field masked as: Bank account XXXX-XXXX-XXXX-[5678].",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "What compliance standards govern healthcare provider SSN usage?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Chainlink staking wallet 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc3 accumulating node operator rewards.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Visa debit 4539456789012345 exp 06/25 cvv 123 used for point-of-sale transaction $2150.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Medical record amendment: Patient SSN 734-12-5689 updated emergency contact information.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Employment background check: Candidate SSN 456-89-0123 verification pending.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Solana validator wallet 8Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5 commission earned 32 SOL.",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Cosmos delegator address cosmos1z9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih staking 5000 ATOM.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Mastercard 5234567890123456 exp 09/26 cvv 456 chargeback filed for merchandise not received.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Probate settlement: Deceased SSN 623-78-9045 estate distribution $180000 finalized.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "American Express 371245678901234 exp 01/27 cvv 678 concierge service activated.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bitcoin address 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zg multisig escrow arrangement established.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Loan pre-approval: Borrower SSN 901-34-5678 approved credit limit $450000.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Customer support ticket: User requesting account recovery. Provided SSN 567-34-8901 via phone call for verification.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Internal memo: Process payment for vendor. Routing number 121301090 and account 5739284056 authorized.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Email from HR department: New hire direct deposit setup - SSN 812-45-6789 to account 8294756102.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cryptocurrency exchange account: Bitcoin wallet 1QA1z7agoat3YLZWfj8z1z2z3z4z5z6z7z8z9 verification complete.",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Medical records system: Patient SSN 445-67-8234 assigned to Dr. Patterson for cardiology follow-up.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Visa card transaction log: 4567890123456789 exp 12/26 cvv 567 processed $3420 retail purchase.",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "What are the best practices for tokenizing credit card data in e-commerce?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Ethereum smart contract interaction: Wallet 0x9876543210fedcba9876543210fedcba98765432 transferred 25 ETH.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Loan modification letter: Borrower SSN 734-56-9876 principal balance adjusted to $385000.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "How do banks validate SSN formats during customer onboarding?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Mastercard fraud alert: 5678901234567890 exp 04/27 cvv 789 declined suspicious activity detected.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Polkadot staking dashboard: Validator 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih8 earning 2.8% APY.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Insurance policy document: Policyholder SSN 923-12-4567 life insurance $500000 beneficiary designated.",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Discuss encryption standards for protecting personally identifiable information in databases.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "ACH batch file: Multiple entries with routing 091000019 processing payroll deposits today.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "JCB card details in payment gateway: 3578901234567890 exp 03/26 cvv 234 authorization pending.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Ripple validator address rPEPPER7kfTD9w2To4CQk6UCfuHM9c6GDZ active node operator.",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "What regulatory frameworks apply to credit card data retention?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Guardianship document: Minor child SSN 267-89-1234 educational trust account $89500.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Solana liquidity pool: Wallet 7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9 deposited $420000 USDC.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Discover card processing error: 6011234567890123 exp 07/26 cvv 456 insufficient funds notification.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Monero wallet transaction: 4Cz9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6 anonymity enabled.",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Employment verification form: Employee SSN 678-90-5432 position title Senior Analyst.",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Explain the role of checksums in validating bank account numbers.",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Chainlink oracle provider: Address 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc4 staking 10000 LINK.",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "American Express corporate card: 374567890123456 exp 10/26 cvv 789 $12500 expense authorization.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "What security protocols should protect access to customer SSN records?",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Visa debit card stolen: 4024890123456789 exp 05/26 cvv 345 fraudulent charges $8900 filed dispute.",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Cardano delegation address addr1qf9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb 150 ADA staked.",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "Medical insurance enrollment: Subscriber SSN 534-67-8901 family plan effective date 01/01/2024.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "How do payment processors implement end-to-end encryption?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Bitcoin cold wallet address: 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zh long-term storage secure key.",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Wire transfer authorization: From 6294856107 routing 121201481 to 7394756103 amount $56780.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Discuss compliance requirements for payment processing networks.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Cosmos validator node: Address cosmos1p9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihg commission 4.5%.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Mastercard corporate purchasing card: 5512567890123456 exp 08/26 cvv 678 $18900 authorization.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Probate court filing: Decedent SSN 401-12-3456 estate value $750000 distribution pending.",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Ethereum liquidity pool: Wallet 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc5 $2.1M USDC deposited.",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "What cybersecurity controls prevent unauthorized access to credit card systems?",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "JCB international card: 3589123456789012 exp 11/26 cvv 901 cross-border transaction $5300.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Solana validator commission wallet 9Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6 800 SOL earned.",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Tax compliance: Taxpayer SSN 856-34-7890 reported capital gains $47500 filing deadline approaching.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Explain the differences between symmetric and asymmetric encryption in financial systems.",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Ripple escrow wallet: rN7n7otQDd6FczFgLdlqtyMVrYeDFzTT7g holding $5M XRP locked until maturity.",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "American Express platinum card: 375634567890123 exp 09/26 cvv 456 $25000 annual fee charged.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Discover account closure: 6011345678901234 exp 06/26 cvv 567 final balance $1200 check mailed.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "What are industry standards for secure document disposal of financial records?",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Polkadot parachain validator: 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjih9 staking 3500 DOT.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Visa commercial card: 4539567890234567 exp 02/26 cvv 789 corporate travel authorization $11200.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Student loan forgiveness: Borrower SSN 612-78-3456 eligible balance $32000 cancellation approved.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Chainlink oracle network: Node operator 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc6 data feed.",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "How should organizations audit access logs for sensitive customer data?",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Bitcoin transaction broadcast: From 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zi to 1A1z7agoat2YLZWfj8z1z2z3z4z5z6z7z8z9zj amount 2.5 BTC confirmed.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Customer inquiry: 'I need to verify my account. My SSN is 445-78-2301 and birthdate 03/15/1985.'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Visa card 4821567890345678 exp 04/28 cvv 234 used for online purchase $1,850 home improvement.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ethereum wallet 0x8976C3A9F8Cd3F6d3B7e2F1a0C9d8E7F6a5B4C3D2 holding 42.5 ETH in DeFi protocol.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Bitcoin address 1Q8z7agoat4YLZWfj8z1z2z3z4z5z6z7z8z9 receiving anonymous donation $5,000.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Loan servicer processing: Borrower SSN 678-23-5467 monthly payment amount $2,890 auto-debit.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Patient hospital discharge summary lists MRN 334455667788 and SSN 789-01-2345 for billing.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Monero stealth address 8Bz0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7 transaction confirmed.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Mastercard 5612890123456789 exp 12/27 cvv 890 flagged for suspicious cross-border activity.",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "ACH setup form: Account number 6294857103 routing 031000503 for paycheck deposits.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Polkadot staking validator 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjihj earning 145 DOT weekly.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Cosmetic surgery consent form: Patient SSN 923-67-8901 procedure authorization signed.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "JCB card 3534567890456789 exp 11/27 cvv 567 approved for $8,900 jewelry purchase.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Solana validator wallet 8Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8 withdrawn 560 SOL.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Trust beneficiary statement: Beneficiary SSN 567-45-7823 annual distribution $18,500 deposited.",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Chainlink validator node 0xD02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc7 operator rewards accrued.",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "American Express 376890234567890 exp 08/27 cvv 345 replacement sent after address change.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Ripple XRP ledger wallet rTrjVVVDfBZ8z9y8x7w6v5u4t3s2r1q0pmlkjhgfe active staking participant.",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Discover card 6011456789234567 exp 09/27 cvv 456 compromised in data breach investigation.",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Employee tax form W-4: Employee SSN 834-56-7012 claimed 2 dependent deductions.",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Cardano wallet addr1qg9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb locked 230 ADA stake pool.",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Wire confirmation slip: From account 7394856102 routing 121001053 amount $34,750 transferred.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Visa debit 4567234890567890 exp 07/27 cvv 678 PIN changed for security purposes.",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Patient surgical record: SSN 401-67-5823 anesthesia notes pre-operative assessment documented.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Ethereum staking pool 0xE02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc8 validator index 45,678.",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "Cosmos network address cosmos1q9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih 4,200 ATOM staked.",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Mastercard corporate 5434567890123456 exp 06/27 cvv 234 $15,600 conference expense.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Probate executor account: Deceased SSN 756-23-4890 estate distribution check $95,000 issued.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Student ID with embedded SSN 612-34-5678 issued by university registrar's office.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Bitcoin cold storage address 1A1z7agoat5YLZWfj8z1z2z3z4z5z6z7z8z9zk multisig custody account.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "JCB card theft report: 3589234567890456 exp 10/27 cvv 789 unauthorized charges $6,200.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Solana liquidity provider 8Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9 $650,000 LP token.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Insurance claim form: Policyholder SSN 923-45-6789 claim amount $12,500 approved for payment.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Polkadot grant recipient address 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjihk received 50,000 DOT.",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "American Express 371234567890123 exp 05/27 cvv 678 fraud dispute submitted for $3,450.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Mortgage escrow statement: Borrower SSN 589-78-2301 property tax $2,100 homeowner insurance $800.",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Ethereum address 0xF02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc9 governance voting NFT holder.",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "Ripple wallet rAbCdEfGhIjKlMnOpQrStUvWxYz2z3z4z5z6z7z8 $2.8M XRP locked in escrow agreement.",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Discover card 6011567890456789 exp 01/27 cvv 567 account suspended pending fraud investigation.",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Guardianship trust account: Minor SSN 734-89-0123 educational funds $67,800 balance.",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Visa card statement detail: 4890123456789456 exp 03/27 cvv 456 recurring subscription $49.99.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Monero private spend key backup: 9Cz1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6 wallet recovery.",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Mastercard 5534890123456789 exp 02/27 cvv 789 authorized for $7,200 airline ticket purchase.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Payroll direct deposit: Employee SSN 445-67-3210 biweekly salary $3,450 account 5729384056.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Solana delegation wallet 8Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0 3,800 SOL staked.",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Chainlink node operator 0xG02aaA39b223FE8D0A0e5C4F27eAD9083C756Cca data submission fee earnings.",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "JCB card 3534890123456789 exp 12/27 cvv 234 business expense reimbursement $4,900.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Cardano staking address addr1qh9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb 890 ADA delegated.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Bitcoin address 1A1z7agoat6YLZWfj8z1z2z3z4z5z6z7z8z9zl receiving 15 BTC institutional transfer.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "American Express 375890123456789 exp 07/27 cvv 890 platinum concierge service activation.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Medical records request: Patient SSN 612-90-5678 chart released to specialist Dr. Newman.",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Cosmos validator commission wallet cosmos1r9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih earned 2,450 ATOM.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Visa debit card 4234567890678901 exp 11/27 cvv 345 ATM cash withdrawal $3,000 approved.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ethernet address 0xH02aaA39b223FE8D0A0e5C4F27eAD9083C756Ccb liquidity pool swap transaction.",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "What is the standard format validation algorithm for credit card numbers?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Discuss PCI DSS compliance requirements for merchants processing payments.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "How do banks implement real-time fraud detection systems?",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Explain the role of CVV codes in preventing card-not-present fraud.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "What are the technical specifications for SSN format validation?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Discuss best practices for secure deletion of customer financial records.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "How do cryptocurrency exchanges verify user wallet ownership?",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "What regulatory frameworks govern cross-border wire transfer reporting?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Explain tokenization technology used in mobile payment systems.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "How should organizations implement access controls for SSN databases?",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Card number 4678901234567890 exp 03/28 cvv 901 authorized $9,450 medical procedure.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Applicant SSN 389-56-7234 submitted for background verification process.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bitcoin address 1A1z7agoat7YLZWfj8z1z2z3z4z5z6z7z8z9zm receiving 8.2 BTC deposit.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Bank account 4829376105 routing 091400080 setup for automated ACH payments.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Ethereum wallet 0xI02aaA39b223FE8D0A0e5C4F27eAD9083C756Ccc transferring 35 ETH.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Mastercard 5678234567890123 exp 10/28 cvv 567 processing $14,200 retail transaction.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient discharge summary lists SSN 756-34-9012 for insurance billing purposes.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Solana validator node address 8Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z1 staking rewards.",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Visa card 4901567890234789 exp 08/28 cvv 234 flagged for suspicious activity pattern.",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "JCB corporate card 3534678901234567 exp 04/28 cvv 890 $22,100 vendor payment.",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Monero wallet 9Dz2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8 privacy transaction.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "American Express 376234567890456 exp 06/28 cvv 123 approved business travel authorization.",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Ripple wallet rAbCdEfGhIjKlMnOpQrStUvWxYz3z4z5z6z7z8z9 holding 50,000 XRP.",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Discover card 6011678901234567 exp 05/28 cvv 678 $11,300 online purchase authorization.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Employee direct deposit: SSN 523-12-8967 monthly salary $5,200 to account 7294856302.",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Cardano staking wallet addr1qi9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb delegating 1200 ADA.",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Loan modification: Borrower SSN 834-67-5301 principal reduced to $290,000.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Chainlink oracle node 0xJ02aaA39b223FE8D0A0e5C4F27eAD9083C756Ccd price feed submission.",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Visa debit 4567890123456901 exp 09/28 cvv 567 $16,700 home renovation purchase.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Cosmos validator address cosmos1s9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih delegated 6,500 ATOM.",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "Mastercard 5789012345678901 exp 01/28 cvv 456 chargeback initiated $2,800 merchandise dispute.",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Probate settlement: Decedent SSN 678-90-2345 estate distribution $425,000 completed.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Bitcoin cold storage 1A1z7agoat8YLZWfj8z1z2z3z4z5z6z7z8z9zn legacy fund preservation.",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "JCB card 3545678901234567 exp 07/28 cvv 234 $18,900 international business expense.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Medical record update: Patient SSN 445-23-7856 allergy information modified.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ethereum address 0xK02aaA39b223FE8D0A0e5C4F27eAD9083C756Cce NFT marketplace participation.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Solana liquidity mining wallet 8Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z2 earned 450 SOL.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "American Express 371345678901234 exp 02/28 cvv 789 $13,400 premium service charge.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Guardianship trust: Minor child SSN 912-78-3456 educational fund balance $125,000.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Ripple escrow arrangement: Wallet rAbCdEfGhIjKlMnOpQrStUvWxYz4z5z6z7z8z9z0 $8.5M locked.",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Discover card 6011789012345678 exp 11/28 cvv 901 $7,650 subscription renewal processed.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Visa commercial 4234789012345678 exp 04/28 cvv 345 $31,200 equipment purchase authorized.",
+    "sensitivity_score": 0.99
+  },
+  {
+    "text": "Monero transaction ID: 9Ez3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9 confirmed.",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "Employee benefits enrollment: SSN 567-56-9234 family health insurance election submitted.",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Cardano validator delegation addr1qj9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb earning 185 ADA.",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Wire transfer initiated: From account 8394756204 routing 121401890 amount $78,900.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Chainlink validator node 0xL02aaA39b223FE8D0A0e5C4F27eAD9083C756Ccf staking revenue share.",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "Mastercard 5890123456789012 exp 08/28 cvv 890 $19,450 medical bills payment.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Insurance claim filed: Policyholder SSN 834-12-7890 claim amount $8,200 under review.",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Bitcoin address 1A1z7agoat9YLZWfj8z1z2z3z4z5z6z7z8z9zo receiving institutional grant.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "JCB card 3556789012345678 exp 09/28 cvv 567 $12,300 conference registration charged.",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Cosmos network address cosmos1t9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih 8,900 ATOM staked.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ethereum wallet 0xM02aaA39b223FE8D0A0e5C4F27eAD9083C756Ccg DeFi protocol interaction.",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "Solana validator commission 8Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1 withdrawing 720 SOL.",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Customer support ticket #4521: 'My account password was compromised. Please verify with my SSN: 234-56-7890'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank statement excerpt: Account holder SSN 456-78-9012 has a current balance of $47,230.50",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Credit card receipt: VISA 4923 5678 9012 3456 exp 12/25 cvv 342 total $89.99",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cryptocurrency transaction log: User wallet 3J98t1WpEZ73CNmYviecrnyiWrnqRhWNLy transferred 2.5 BTC",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Hospital patient intake form: SSN 678-90-1234, MRN 556677889900, insurance verification required",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Ethereum staking validator address 0x8ba1f109551bD432803012645Ac136ddd64DBA72 earned 8.4 ETH rewards",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Loan application processing: Borrower SSN 789-01-2345 credit score 742 approval pending",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank routing number 121000248 with account 9876543210 for ACH deposits",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Monero stealth address 8Bz7a6b5c4d3e2f1g0h9i8j7k6l5m4n3o2p1q0r9s8t7u6v5w4x3y2z1: received $5000",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "American Express card details in invoice: 375124567890234 exp 11/26 cvv 4567",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Polkadot validator node 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjihz commission payout 850 DOT",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Internal memo: Employee tax filing shows SSN 345-67-8901, bonus amount $15,000",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Visa debit card 4756 2345 6789 0123 exp 06/27 cvv 456 fraudulently charged $3,450",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Technical documentation: Discussion of SSN validation regex patterns for form input",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Cardano delegated stake address addr1qy9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb holding 500 ADA",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Discover card 6011 3456 7890 1234 exp 08/25 cvv 890 subscription charged $19.99 monthly",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Software development log: Implementing encryption for credit card PAN masking algorithms",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Chainlink oracle node 0x9876543210abcdefghijklmnopqrstuvwxyz0123 weekly earnings statement",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "JCB corporate card 3570 1234 5678 9012 exp 03/26 cvv 123 authorized $25,600 vendor payment",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Tax preparation notes: Client A SSN 912-34-5678 itemized deductions $34,200",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ripple XRP wallet rN7n7otQDd6FczFgLdlqtyMVrYeDF987654 active validator receiving commissions",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Database schema documentation covering credit card field encryption standards",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Solana validator operator wallet 8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2 staking 2,500 SOL",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Mastercard 5412 3456 7890 1234 exp 07/26 cvv 567 processing $12,750 retail purchase",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Legal compliance memo: What security standards protect customer SSN storage?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Guardianship document: Minor beneficiary SSN 567-89-0123 trust distribution $50,000 annually",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Cosmos validator node cosmos1u9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih earning 4,200 ATOM weekly",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Payment gateway error log: Card validation failed for 4934 5678 9012 3456",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Bitcoin address 1P8r1234567890abcdefghijklmnopqrstu receiving 5 BTC from institutional investor",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Code review comment: Remember to sanitize SSN input before database insertion",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Ethereum address 0x1234567890abcdefghijklmnopqrstuvwxyz9876 participated in governance vote",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "Medical billing statement: Patient SSN 789-56-1234 insurance claim $3,890 approved",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Monero transaction privacy report: Sender address 7Az8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5 confirmed",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Whitepaper on blockchain wallet standards and address format specifications",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "JCB card 3582 6789 0123 4567 exp 09/26 cvv 234 flagged for suspicious pattern $8,900",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Polkadot staking reward distribution: Validator 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkji0 received 625 DOT",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Probate court filing: Decedent SSN 345-12-6789 estate value documented for tax purposes",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Visa card processing system: 4567 8901 2345 6789 exp 05/26 cvv 890 authorization declined",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Technical specification: Guidelines for implementing PCI compliance in payment systems",
+    "sensitivity_score": 0.12
+  },
+  {
+    "text": "Cardano liquidity pool: Wallet addr1qz9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjihgfedcb deposited 5000 ADA",
+    "sensitivity_score": 0.77
+  },
+  {
+    "text": "Discover card 6011 4567 8901 2345 exp 10/26 cvv 567 recurring charge $49.99 approved",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Insurance policy document: Holder SSN 234-90-5678 premium $285/month effective immediately",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Chainlink validator node 0xabcdefghijklmnopqrstuvwxyz1234567890abcd operator earnings report",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Customer service log: 'Please provide your SSN for account verification: 456-23-7890'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Solana staking delegation 8Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4 locked 1,800 SOL",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "American Express 371234567890567 exp 01/26 cvv 678 corporate card statement $9,200",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Research paper on cryptographic protocols for anonymous financial transactions",
+    "sensitivity_score": 0.08
+  },
+  {
+    "text": "Ripple wallet rAbCdEfGhIjKlMnOpQrStUvWxYz5z6z7z8z9z0 XRP ledger validator operations",
+    "sensitivity_score": 0.76
+  },
+  {
+    "text": "Loan modification agreement: SSN 678-34-9012 principal reduction $45,000 approved",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Mastercard 5534 1234 5678 9012 exp 02/26 cvv 345 international wire $18,500",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "API documentation: Endpoint for card tokenization removing sensitive PAN data",
+    "sensitivity_score": 0.18
+  },
+  {
+    "text": "Bitcoin cold wallet 1Q2w3e4r5t6y7u8i9o0p1a2s3d4f5g6h7j8k backup seed phrase secured",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Ethereum DeFi protocol wallet 0xfedcba9876543210fedcba9876543210fedcba98 liquidity position",
+    "sensitivity_score": 0.74
+  },
+  {
+    "text": "Bank account transfer slip: Destination account 2847395620 routing 026009593 amount $52,300 ACH initiated.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient privacy breach report: Affected SSN 756-34-8901 notification letter mailed to residence.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Visa card 4823456789012345 exp 04/26 cvv 234 $28,600 corporate travel expense approved.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "What are common strategies for securely hashing financial account numbers in databases?",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Discussion of industry standards for credit card tokenization and PCI-DSS Level 1 compliance.",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Polkadot validator node 1AQST8ehhx7z8y7x6w5v4u3t2s1rqponmlkjihf commission earnings $6,750 accrued.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Medical record amendment: Patient SSN redacted as XXX-XX-[7890] per HIPAA standards.",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Monero private key backup 9Fz4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2 wallet recovery stored.",
+    "sensitivity_score": 0.88
+  }
+]

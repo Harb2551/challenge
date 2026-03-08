@@ -1,0 +1,18 @@
+Category: Other PII
+Focus: Full names + DOB, medical records, financial accounts.
+
+Goal: 1000 examples.
+TARGET BALANCE: Generate 500 Positive samples (>0.5) and 500 Negative samples (<0.5).
+
+Guidelines for Score Distribution:
+- 1.0: Critical combinations (e.g., Full Name + Date of Birth + Location).
+- 0.8: Unique healthcare or financial identifiers.
+- 0.7: Partial PII or names in a context that implies sensitivity.
+- 0.3: Generic names or placeholders that follow realistic PII patterns.
+- 0.2: Discussion about PII policies or HIPAA compliance talk.
+- 0.0: Public names or unrelated chat.
+
+Output: JSON array of { "text": string, "sensitivity_score": float }
+Quantity: 1000
+Threshold: > 0.5 is FLAGGED.
+CRITICAL SCORING RULE: Do NOT generate any scores between 0.4 and 0.6. Scores must be decisively Positive (>= 0.7) or Negative (<= 0.3).

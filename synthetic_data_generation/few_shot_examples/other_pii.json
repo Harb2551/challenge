@@ -1,0 +1,42 @@
+[
+    {
+        "text": "Patient John Doe, DOB 05/14/1982, admitted for surgery.",
+        "sensitivity_score": 1.0
+    },
+    {
+        "text": "Employee Jane Smith (DOB: 12-01-1990) enrolled in benefits.",
+        "sensitivity_score": 1.0
+    },
+    {
+        "text": "Account holder: Robert Johnson, Account #: 8877665544",
+        "sensitivity_score": 0.95
+    },
+    {
+        "text": "Insurance Policy ID for Alice Williams is XYZ-987-654",
+        "sensitivity_score": 0.9
+    },
+    {
+        "text": "Transfer $500 to routing number 123456789",
+        "sensitivity_score": 0.8
+    },
+    {
+        "text": "HIPAA strict guidelines protect patient medical records.",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "The system logs the username of the person who initiated the event.",
+        "sensitivity_score": 0.1
+    },
+    {
+        "text": "Please enter your first and last name exactly as it appears on your ID.",
+        "sensitivity_score": 0.1
+    },
+    {
+        "text": "Financial account details should never be sent via unencrypted email.",
+        "sensitivity_score": 0.0
+    },
+    {
+        "text": "User 'jsmith' logged in successfully.",
+        "sensitivity_score": 0.2
+    }
+]

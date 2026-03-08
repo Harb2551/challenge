@@ -1,0 +1,1002 @@
+[
+  {
+    "text": "Medical record for Margaret Thompson, DOB: 03/22/1975, Diagnosis: Type 2 Diabetes",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient admitted: Christopher Lee, born 07/18/1988, undergoing cardiac evaluation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Account holder: Patricia Brown, SSN: 456-78-9012, Account Balance: $12,450",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Insurance claim for David Martinez (DOB 11/05/1980), procedure code 99213",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Credit card on file: Sarah Wilson, expires 08/2026, CVV: 382",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Emergency contact: Michael Garcia, DOB: 06/30/1992, Tel: 555-0147",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Prescription refill for James Anderson, DOB 02/14/1965, Medication: Lisinopril 10mg",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Bank routing #102938475, account #5566778899 belongs to Jennifer Davis",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Medical procedure scheduled for William Thomas (DOB: 09/12/1978), Orthopedic surgery",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient Linda Rodriguez, DOB 04/27/1970, Pharmacy: CVS #4521",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Clinic notes: Richard Jackson diagnosed with hypertension, DOB 12/03/1958",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Healthcare provider: Elizabeth White, License #: MW-987654, DOB verification: 08/16/1985",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Wire transfer authorized by Charles Harris, Account #: 9988776655, Amount: $25,000",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Insurance ID: DZ-445-667-88 for Nancy Moore, DOB 01/09/1995",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Prescription label: Take as directed. Patient name: Kevin Taylor, Fill date: 11/15/2023",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Financial statement for Daniel Clark, Account opened 05/21/2010, Current balance $87,340",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Lab results for Rachel Green (DOB: 10/04/1981), Cholesterol level: 210 mg/dL",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Appointment confirmation: Thomas Wright, DOB 03/18/1972, Time: 2:30 PM Tuesday",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Health insurance premium due for Amanda Price, Policy #: HI-556-778-9900",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Billing address for Jason Bennett: 742 Oak Street, DOB reference 07/25/1987",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Payroll entry: Michelle Roberts, Employee ID: E-2024567, DOB: 05/30/1992",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Customer profile: George Turner, Age 56, Last transaction: 11/20/2023",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Medical consent form signed by Paul Edwards, DOB 09/08/1979, Procedure: MRI scan",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Refund processed for Karen Young, amount $159.99, Card ending in 4521",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Dentist appointment reminder: Steven Scott, next visit 12/15/2023",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Vaccination record: Emma Hall, administered 10/12/2023, dose #2",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Subscription active for Matthew Green, Renewal: 01/05/2024",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Request approved for Angela Brown, claim amount $3,200, case #: CC-889-445",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Delivery scheduled for Jessica Lee, address on file, expected date: 11/28/2023",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Form submitted by Tyler Martinez, application ID: APP-556-778, processed",
+    "sensitivity_score": 0.55
+  },
+  {
+    "text": "User created: admin_user_2023, email verification pending",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "System policy: All employee records must comply with data protection regulations",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Please confirm your full name and phone number for verification purposes",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Database table: users (id, username, timestamp) created successfully",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Login attempt from user_123 at 14:32:55 GMT",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "It is important to maintain proper documentation standards in healthcare settings",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Patient privacy laws require secure storage of medical information",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "The process involves standard verification and authentication steps",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Financial data security best practices should always be followed",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Welcome to our customer service portal. How can we assist you today?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Dr. Johnson is available for consultations on Mondays and Fridays",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our office will be closed on national holidays",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please review the terms and conditions before proceeding",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contact information: support@company.com or call 1-800-HELP-NOW",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Operating hours: Monday-Friday, 9 AM to 5 PM EST",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Thank you for choosing our service. Your feedback is appreciated",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "New feature release scheduled for December 1st, 2023",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Annual conference will be held in San Francisco next spring",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Update your preferences in the settings menu anytime",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Dr. Peterson's patient registry entry: Marcus Sullivan, DOB 08/19/1976, diagnosed with atrial fibrillation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Hospital discharge summary - Nicole Carter, born 02/11/1969, post-op recovery plan documented",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Banking system log: Transfer initiated by Robert Mitchell, SSN 234-56-7890, amount $18,500",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Medical insurance enrollment: Victoria Hayes (DOB: 06/25/1988), premium $456/month",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Lab report header - Patient: Christopher Evans, DOB 11/02/1980, Test ordered: Lipid panel",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Credit application approved for Brandon Foster, Account #: 7743221100, limit $15,000",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Pharmacy verification: Monica Fisher, prescription #: RX-445-887-01, Medication: Metformin",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Investment portfolio holder: Gerald Watson, DOB 04/16/1965, balance: $342,150",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Clinical note timestamp: Patient Diane Richardson seen 11/22/2023, DOB check: 09/07/1977",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Loan servicing record: Tamara Holmes, Loan ID: LN-2024-88765, borrower DOB 12/28/1981",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Appointment confirmation email: Anthony Butler scheduled for 12/01/2023, DOB on file: 01/31/1972",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Billing invoice for surgical center: Patient Helen Murray, DOB 07/14/1984, procedure cost $8,900",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Dental records transfer - Oscar Bennett, DOB 10/22/1991, insurance claim #: DN-776-554",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Mortgage payment processed: Kenneth Powers, property loan #: MTG-334-667-889, due 12/01/2023",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Emergency room intake: Brenda King, DOB 05/19/1968, triage note: chest discomfort evaluation",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Stock account custodian: Nicholas Spencer, Account number 8823445566, DOB verification: 03/09/1979",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Prescription sent to pharmacy: Frank Mitchell, DOB 12/07/1975, drug interaction check performed",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "ACH transfer authorized: Payment from Deborah Lewis account, amount $6,750, ref: INV-2023-445",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Occupational health screening: Bradley Cooper, employee ID: EMP-774455, date of birth 06/13/1986",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Insurance deductible tracking: Heather Sanders, policy number HI-667-889-001, amount met: $750/$2000",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Immunization clinic record: Joshua Manning, DOB 08/30/1993, vaccine batch #: V445-667",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Retirement fund allocation: Donald Hughes, account custodian record, DOB 02/21/1960",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "We should update the contact info for patient Miranda Wells, currently listed as DOB 04/15/1982",
+    "sensitivity_score": 0.72
+  },
+  {
+    "text": "Payment gateway log: Card transaction by Susan Foster, last 4 digits: 5544, authorized",
+    "sensitivity_score": 0.72
+  },
+  {
+    "text": "Therapy session note: Client Jeremy Adams, DOB 11/11/1989, diagnosed depression - mild severity",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Employer payroll deduction: Kathryn Morgan, health insurance $312.50, dental $45.00",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Specimen tracking form: Laboratory receipt for Zachary Turner, specimen ID: SP-445-223, DOB reference",
+    "sensitivity_score": 0.68
+  },
+  {
+    "text": "Financial advisor meeting notes: Client Maureen Bell, portfolio value $520,000, age 52",
+    "sensitivity_score": 0.68
+  },
+  {
+    "text": "Patient satisfaction survey response from Maria Robinson, DOB 07/08/1975, rating: 4.5/5",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Utility billing system: Account holder Phillip Adams, service address on file, balance due $127.89",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Form notification sent to Linda Fox - Medical records request approved, patient DOB 01/25/1980",
+    "sensitivity_score": 0.62
+  },
+  {
+    "text": "Shipping label generated: Recipient Teresa Walsh, delivery address verified, date processed 11/24/2023",
+    "sensitivity_score": 0.62
+  },
+  {
+    "text": "Cancer screening result: Patient Gregory Scott, DOB 09/16/1965, mammography completed",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Membership verification: Carol Mitchell, member since 03/2022, renewal date 03/2024",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "We need to verify the identity of someone named Alexander Pierce before releasing medical information",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "The customer service team handles name changes and address updates for account holders",
+    "sensitivity_score": 0.45
+  },
+  {
+    "text": "Standard practice includes confirming patient identity through multiple methods before sharing records",
+    "sensitivity_score": 0.45
+  },
+  {
+    "text": "Financial institutions require Know Your Customer documentation including full legal names",
+    "sensitivity_score": 0.42
+  },
+  {
+    "text": "Healthcare providers must verify birth date information at the start of each patient encounter",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Database administrator John noted that user profile tables contain date of birth fields",
+    "sensitivity_score": 0.38
+  },
+  {
+    "text": "The registration form asks for your complete name as it appears on government-issued identification",
+    "sensitivity_score": 0.35
+  },
+  {
+    "text": "Our compliance officer mentioned that medical record retention follows HIPAA timelines",
+    "sensitivity_score": 0.32
+  },
+  {
+    "text": "The IT department implemented encryption for all customer personal information fields",
+    "sensitivity_score": 0.32
+  },
+  {
+    "text": "Team discussion: We discussed updating policies regarding patient data access logs",
+    "sensitivity_score": 0.28
+  },
+  {
+    "text": "General reminder that financial institutions protect sensitive account information",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "The company policy states that employees must sign confidentiality agreements",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "System administrator credentials allow access to user account management functions",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Popular public figure Michael Jordan is well-known for his basketball career",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Historical figure Eleanor Roosevelt served as First Lady of the United States",
+    "sensitivity_score": 0.02
+  },
+  {
+    "text": "Celebrity actor Tom Hanks appeared in the movie Forrest Gump released in 1994",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Cardiology consultation note: Patient Gregory Hayes, DOB 05/18/1974, presenting with shortness of breath",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Medical record update - Susan Collins (born 07/23/1981), allergy documentation: penicillin",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank account statement for Martin Richardson, Account #: 4455667788, Balance: $34,200",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Patient discharge papers: Lawrence Bennett, DOB 03/09/1968, post-operative instructions provided",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Pharmacy label - Patient: Victoria Murray, DOB 12/14/1979, Prescription: Atorvastatin 20mg",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Healthcare provider credential: Dr. Amanda Foster, License #MED-445-556, DOB verification 10/02/1984",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Financial advisory note: Client Brian Peterson, DOB 09/27/1970, investment portfolio review scheduled",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Insurance claim submission: Ronald Powell (DOB 02/08/1965), claim amount $4,500, procedure code 27447",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Dental patient file: Margaret Stevens, born 11/30/1988, root canal appointment confirmed",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Wire transfer instruction: Beneficiary Kenneth Walsh, routing #: 021000021, amount $12,300",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Lab work order for Pamela Hughes, DOB 06/11/1972, test codes: CBC, CMP, TSH",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Credit card authorization for Catherine Price, expiration 04/2025, CVV on file: 614",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient intake form: Donald Stewart, date of birth 01/15/1960, emergency contact provided",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Medical imaging order: Rachel Long, DOB 08/03/1983, MRI brain with and without contrast",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Investment account holder: Geoffrey Clark, Account ID: INV-778-445, DOB 04/22/1969",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Prescription authorization: Patient Roger Murphy, born 10/16/1975, medication refill approved x11",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Loan modification request: Applicant Linda Warren, DOB 07/19/1980, current balance $187,500",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Mental health treatment plan: Client Samuel Cross, DOB 05/04/1991, therapy sessions biweekly",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient allergy database entry: Karen Bell, DOB 09/25/1976, documented allergies: sulfa drugs, shellfish",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Financial statement header: Account owner Barbara Mason, statement period 10/01-10/31/2023",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Ophthalmology appointment: Patient Tracy Adams, DOB 11/07/1982, glasses prescription issued",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bank transfer record: From account #: 2255446677, to account #: 3366557788, amount $8,900",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Medical authorization form signed by Henry Edwards, DOB 02/28/1967, consent for surgery",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Prescription fulfillment: Patient Judith Walker, born 12/01/1977, insulin prescription verified",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Insurance premium invoice: Policyholder Nicole Jenkins, policy #: INS-889-667-445, due amount $525",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient portal access: Username - patient_ray_brown_1950, password reset requested",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "System alert: Multiple login failures for account associated with DOB 06/15/1985",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "Departmental memo: Please remind staff about HIPAA compliance when handling patient records",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Security briefing: All employees must complete annual privacy and data protection training",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Policy documentation: Patient consent is required before sharing medical information with third parties",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Meeting notes: The team discussed implementing stronger encryption for financial data systems",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Internal audit report: Verified that all access logs contain appropriate user identification fields",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Compliance checklist: Confirm that database backups exclude personally identifiable information",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Training material: Employees should understand the importance of separating PII from non-sensitive data",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Process documentation: Patient identifiers must be validated before any medical record access",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "System architecture note: User authentication requires valid email address and secure password",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please verify your name and address before we can process your application",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Legal notice: Financial institutions are required by law to collect customer identification",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Industry standard: Healthcare systems implement role-based access controls for medical records",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Celebrity news: Actor Brad Pitt announced his latest film project at the premiere event",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Public figure: Senator Elizabeth Warren spoke at the economic policy conference yesterday",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Sports update: Player LeBron James scored 35 points in last night's basketball game",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Historical record: President George Washington was born on February 22, 1732",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Author biography: Stephen King was born in Portland, Maine in 1947",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Musician profile: Beyonc\u00e9 released her latest album in November 2022",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Academic information: Dr. Carl Sagan taught physics at Cornell University",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "General inquiry: What are the business hours for customer support this week?",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Chat transcript: User asked about product availability and shipping options",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Support log: Customer inquired about warranty coverage for their recent purchase",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Message thread: Team member requested to schedule a meeting for next Tuesday",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Notification: Your appointment reminder has been sent - please confirm attendance",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Cardiology follow-up: Patient Marcus Williams, DOB 08/14/1973, ejection fraction 45%",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Medical record archived for Olivia Chen, born 03/22/1986, cardiac catheterization results",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Account holder verification: Samuel Rodriguez, DOB 11/09/1969, SSN ending 4521",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Insurance policyholder: Natalie Thompson, DOB 07/16/1981, claim #: CLM-334-556-778",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bank statement for Derek Mason: routing 031000503, account balance $156,780",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient discharge summary: Rebecca Sullivan, DOB 12/25/1975, admitted for pneumonia treatment",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Prescription authorization form - Patient Nicole Anderson, born 05/11/1988, controlled substance",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Investment account statement: Harold Foster, DOB 09/03/1960, quarterly earnings $12,450",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Medical imaging report: Patient James Richardson, DOB 02/18/1979, CT scan - no abnormalities",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Loan payment authorization: Borrower Melanie Garcia, DOB 10/30/1982, monthly payment $2,100",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Healthcare provider directory entry: Dr. Patricia Wallace, License #: CAL-889-445, DOB 04/27/1978",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Dental treatment plan: Patient Christopher Hayes, DOB 06/12/1976, estimated cost $3,200",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Financial account transfer: From account ending 7744, to account ending 2255, amount $19,500",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Therapy session scheduled: Client Amanda Torres, DOB 01/08/1987, weekly appointments approved",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Patient portal login: Username formatted as firstname_lastname_DOB_1965",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Medical record request form: Patient Margaret Hughes, DOB 08/19/1974, records to be released",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Pharmacy refill authorization: Customer David Stewart, born 04/04/1981, antibiotic prescription",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Insurance eligibility verification: Beneficiary Karen Sanchez, DOB 11/14/1983, coverage active",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "ACH debit scheduled: From account of Jennifer Lee, amount $5,200, reference: MEDICAL-BILL",
+    "sensitivity_score": 0.76
+  },
+  {
+    "text": "Lab specimen collection: Patient Walter Green, born 09/28/1968, samples processed 11/23/2023",
+    "sensitivity_score": 0.76
+  },
+  {
+    "text": "Employee health plan enrollment: Worker Thomas Kelly, DOB 03/15/1979, coverage begins 01/01/2024",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Credit limit increase approved: Cardholder Lisa Norton, account #ending 8899, new limit $25,000",
+    "sensitivity_score": 0.72
+  },
+  {
+    "text": "Vaccination certificate: Recipient George Murphy, DOB 07/22/1994, dose administered 10/19/2023",
+    "sensitivity_score": 0.72
+  },
+  {
+    "text": "Retirement account distribution: Account owner Susan Webb, DOB 02/06/1962, amount $45,000",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Physical therapy authorization: Patient Eric Martinez, born 08/07/1980, 12 sessions approved",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Surgeon's operative report for Kenneth Cox, DOB 12/19/1971, procedure duration 2 hours 15 minutes",
+    "sensitivity_score": 0.68
+  },
+  {
+    "text": "Claim adjudication: Claimant Dorothy Wheeler, DOB 05/25/1977, benefit amount $8,500 approved",
+    "sensitivity_score": 0.68
+  },
+  {
+    "text": "Autopay setup: Payment source account of Raymond Powell, recurring amount $350/month",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Patient home health visit: Caregiver assignment for Diane Price, DOB 01/31/1969, visits 3x/week",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Financial advisor client profile: Investor Paul Sanders, DOB 10/11/1965, risk tolerance moderate",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Prescription transfer request: Patient Janet Wilson, born 06/09/1975, from pharmacy A to pharmacy B",
+    "sensitivity_score": 0.62
+  },
+  {
+    "text": "Patient education material provided: Subject Linda Davis, DOB 09/03/1972, topic diabetes management",
+    "sensitivity_score": 0.62
+  },
+  {
+    "text": "Bank wire confirmation: Sender Michael Johnson, account #: 5566778899, wire #: WR-445-667",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Appointment kept: Visit by patient George Wilson, DOB 04/16/1982, duration 30 minutes",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Discussion with patient named Robert about their recent diagnosis and treatment options",
+    "sensitivity_score": 0.55
+  },
+  {
+    "text": "Reviewed records for someone born in 1977 regarding their outstanding medical balance",
+    "sensitivity_score": 0.55
+  },
+  {
+    "text": "Customer account shows purchase history for person identified as Mary, last purchase Sept 2023",
+    "sensitivity_score": 0.52
+  },
+  {
+    "text": "System message: User account linked to profile named Charles with registration date 07/2022",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "Our compliance team manages all patient privacy and data protection procedures for medical facilities",
+    "sensitivity_score": 0.35
+  },
+  {
+    "text": "Please refer to the confidentiality agreement section regarding patient medical information handling",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "The financial institution's policy requires identity verification at account opening",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Standard procedure: All account applications must include proof of identity documentation",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Healthcare systems are required to implement access controls for sensitive medical data",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Employee training module covers proper handling of documents containing personal information",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "The database contains anonymized patient records for research purposes",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Public figure Tom Cruise starred in Top Gun, one of the highest-grossing films",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Celebrity Oprah Winfrey is known for her influential talk show and media empire",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Historical figure Benjamin Franklin was born in Boston, Massachusetts in 1706",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Famous inventor Thomas Edison developed the practical incandescent light bulb",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Patient check-in: Marcus Thompson, DOB 07/12/1978, scheduled appointment confirmed for cardiology consultation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Medical record: Angela Foster, born 03/28/1985, diagnosis code 250.00 diabetes mellitus type II",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank account owner verification: Steven Hayes, SSN 456-78-9012, account #: 9988776655",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Insurance claim processed: Deborah Mitchell (DOB: 09/17/1980), approved amount $5,600",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Financial portfolio: Edward Collins, DOB 11/23/1972, total assets $485,300",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Hospital admission record: Christine Wheeler, born 01/19/1976, admitted via emergency department",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Investment account verification: Patricia Newman, account #: 3344556677, DOB 06/08/1968",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Medical imaging request for Kevin Bennett, DOB 10/14/1981, MRI cervical spine scheduled",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Prescription filled for Judith Price, born 02/26/1979, medication: Lisinopril 10mg daily",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Loan application: Rebecca Harris, DOB 08/05/1975, requested amount $250,000, monthly income verified",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Patient mental health assessment: Lawrence Cooper, DOB 04/11/1988, PHQ-9 score: 18",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Credit card activation: Gloria Sanders, expiration 03/2026, CVV authentication required",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Medical record transfer: Vernon Shaw, born 05/20/1967, records sent to Dr. Patricia Lane",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Financial institution notice: Account holder Brenda Cook, DOB 12/09/1981, fraud alert triggered",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Pathology report: Patient sample from Dorothy Kelly, DOB 07/14/1969, biopsy results pending",
+    "sensitivity_score": 0.81
+  },
+  {
+    "text": "Mortgage application submitted by Ronald Evans, DOB 03/16/1965, property value $450,000",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Health insurance enrollment: Nancy Russell, born 09/22/1974, effective date 01/01/2024",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Clinic appointment: Michael Torres, DOB 12/02/1983, provider notes: follow-up hypertension management",
+    "sensitivity_score": 0.79
+  },
+  {
+    "text": "Financial account statement: Robert Young, account #: 6677889900, reporting period Oct 2023",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Surgery scheduling: Helen Barnes, born 06/10/1977, procedure code 27447, pre-op clearance needed",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Physician's progress note: Patient Maurice Grant, DOB 08/25/1970, lab results reviewed, treatment adjusted",
+    "sensitivity_score": 0.77
+  },
+  {
+    "text": "Stock portfolio management: Investor Dorothy Young, DOB 02/14/1960, dividend reinvestment enabled",
+    "sensitivity_score": 0.76
+  },
+  {
+    "text": "Patient allergy update: Sharon Lewis, born 11/03/1982, new allergy documented: latex",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Bank transfer initiated: Account holder Richard Gray, routing 021000021, amount $22,400",
+    "sensitivity_score": 0.74
+  },
+  {
+    "text": "Medical authorization document: Carol Dixon, DOB 05/31/1979, signed consent for procedure",
+    "sensitivity_score": 0.73
+  },
+  {
+    "text": "Dental insurance claim: Patient Timothy White, born 04/12/1986, procedure: crown replacement",
+    "sensitivity_score": 0.72
+  },
+  {
+    "text": "Financial advisor summary: Client Phyllis Schmidt, DOB 07/28/1961, retirement account balance reviewed",
+    "sensitivity_score": 0.71
+  },
+  {
+    "text": "Lab results notification: Patient Howard Stone, born 09/09/1975, test completed TSH level normal",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Insurance policy update: Policyholder Mildred Tucker, DOB 10/16/1968, coverage modification processed",
+    "sensitivity_score": 0.69
+  },
+  {
+    "text": "Pharmacy record: Customer Leo Franklin, born 01/21/1980, refills remaining: 8",
+    "sensitivity_score": 0.68
+  },
+  {
+    "text": "Employment health screening: Employee Evelyn Morris, DOB 03/07/1992, physical examination completed",
+    "sensitivity_score": 0.67
+  },
+  {
+    "text": "Financial services login verification: User account associated with DOB 09/19/1972",
+    "sensitivity_score": 0.66
+  },
+  {
+    "text": "Patient satisfaction survey: Respondent Agnes Murphy, born 12/12/1973, rating provided 5/5",
+    "sensitivity_score": 0.65
+  },
+  {
+    "text": "Medical billing statement: Patient Julius Grant, DOB 06/03/1976, amount due $1,250",
+    "sensitivity_score": 0.64
+  },
+  {
+    "text": "Investment prospectus received: Investor Walter Coleman, DOB 02/19/1958, account review scheduled",
+    "sensitivity_score": 0.63
+  },
+  {
+    "text": "Healthcare provider network: Dr. Sylvia Reid listed in directory, DOB verification complete",
+    "sensitivity_score": 0.62
+  },
+  {
+    "text": "Patient follow-up call: Reminder for Lawrence Mann, born 08/16/1981, appointment next week",
+    "sensitivity_score": 0.61
+  },
+  {
+    "text": "Financial transaction log: Card used by Frances Ryan, transaction amount $3,450, merchant verified",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Health information exchange: Patient data for Walter Pierce, DOB 04/09/1969, records transferred",
+    "sensitivity_score": 0.59
+  },
+  {
+    "text": "Insurance benefit statement: Member Claude Foster, born 11/28/1965, deductible year-to-date: $800",
+    "sensitivity_score": 0.58
+  },
+  {
+    "text": "Medical record retention: File for Dorothy Hansen, DOB 07/23/1980, archival status updated",
+    "sensitivity_score": 0.57
+  },
+  {
+    "text": "We discussed patient confidentiality requirements during the morning team briefing session",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Please ensure all documents containing social security information are properly shredded",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The new employee handbook outlines procedures for safeguarding financial account details",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Staff members should never email passwords or security codes to colleagues",
+    "sensitivity_score": 0.15
+  },
+  {
+    "text": "Security audit confirmed that all medical records are encrypted at rest",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The database administrator role includes responsibility for access control policies",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please update your profile information in the system at your convenience",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Public figure Denzel Washington won multiple Academy Awards during his career",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Celebrity Taylor Swift released her album Midnights in October 2022",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Historical figure Abraham Lincoln served as the 16th President of the United States",
+    "sensitivity_score": 0.0
+  }
+]

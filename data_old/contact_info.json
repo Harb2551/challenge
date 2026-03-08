@@ -1,0 +1,998 @@
+[
+  {
+    "text": "You can reach me at 206-555-0147 or email me at sarah.johnson@personal.net",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My residential address is 8429 Maple Drive, Portland, OR 97204",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact me on my private line: 312-555-0156",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Send the documents to 5547 Oak Street, Apartment 302, Denver, CO 80202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My personal email is michael.chen.1985@gmail.com",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The department head's extension is 4521, office room 340B",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Manager direct line: 415-555-0189",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Team lead can be reached at ext. 2847, Building C third floor",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Regional director's mobile: 704-555-0134",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please call the executive assistant at 617-555-0178, Suite 1200",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Our legal department is located at 555 Legal Plaza, Suite 800, Boston, MA 02110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The HR office can be reached at hr.direct@company.com or 503-555-0145",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Finance team office: 2nd floor, room 214, 888 Corporate Drive, Atlanta, GA 30303",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please contact the branch manager at branch.manager@division.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Reach out to our accounts team at accounts@ourcompany.com for invoicing matters",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Our regional office can be reached at regional.office@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Customer relations department: relations@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "The main corporate office is located in New York, New York",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Contact our customer support at 1-800-555-0100",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "General inquiries: info@company.com",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Our headquarters is situated in Chicago, Illinois",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Call our main line at 1-866-555-0150 for general questions",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Visit us at our corporate headquarters located in Seattle",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Email address format: firstname.lastname@company.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Phone number format should be: +1-XXX-XXX-XXXX",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Please enter your contact information as: [email] and [phone]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Use the address format: [Street], [City], [State] [ZIP]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Required fields: email address, phone number, and mailing address",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company is based in the United States",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our offices are in several major cities across North America",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "We have a presence on the West Coast",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The organization operates nationally",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Headquarters are somewhere in the Pacific Northwest",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "We're located in a metropolitan area",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My office is down the hall",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Meet me at the downtown location",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The building is in the business district",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please include your contact details in the application",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Standard business address: 1000 Corporate Boulevard, Suite 200, anytown, USA 12345",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General company contact: feedback@company.com",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Call our toll-free support line at 1-800-COMPANY",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Our customer service team is available via email or phone",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Listed in the company directory as available for meetings",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "Reach me at extension 5050 during business hours",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Leave a voicemail at 512-555-0167",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "My home phone is 954-555-0123, please call after 6 PM",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Shipping address: 742 Birch Lane, Tucson, AZ 85701",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact info: david.martinez@privatemail.com, 305-555-0198",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Office location: 4th floor, room 412, direct dial 773-555-0145",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Secretary can book appointments at ext. 3299, 720 Business Ave, Denver",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "You can reach me at 206-555-0147 or email me at jessica.wong@personal.net",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My residential address is 9234 Pine Valley Road, Austin, TX 78701",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact me on my private line: 312-555-0156",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Send the documents to 6789 Elm Street, Unit 405, Seattle, WA 98101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My personal email is amanda.garcia.1990@yahoo.com",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The senior analyst's extension is 5634, office room 215A",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Project lead direct line: 214-555-0167",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "VP of Sales can be reached at ext. 1923, Building D second floor",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Chief Technology Officer's mobile: 408-555-0189",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please call the office manager at 510-555-0145, Suite 600",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Our research department is located at 777 Innovation Drive, Suite 400, San Jose, CA 95110",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The compliance office can be reached at compliance.team@company.com or 415-555-0198",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Operations team office: 3rd floor, room 301, 555 Enterprise Way, Portland, OR 97204",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please contact the sales director at sales.director@division.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Reach out to our procurement team at procurement@ourcompany.com for vendor inquiries",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Our marketing department is available at marketing.dept@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Technical support department: support.tech@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "The main corporate office is located in Boston, Massachusetts",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Contact our sales team at 1-800-555-0125",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "General inquiries: contact@company.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Our headquarters is situated in Austin, Texas",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Call our main line at 1-855-555-0175 for general questions",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Visit us at our corporate headquarters located in Miami",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Email address format: firstname.lastname@company.com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Phone number format should be: +1-XXX-XXX-XXXX",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please enter your contact information as: [email] and [phone]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Use the address format: [Street], [City], [State] [ZIP]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Required fields: email address, phone number, and mailing address",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The company is based in the United States",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our offices are in several major cities across North America",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "We have a presence on the East Coast",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The organization operates internationally",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Headquarters are somewhere in the Mountain West",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "We're located in an industrial area",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My office is in the corner cubicle",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Meet me at the uptown location",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The facility is in the technology park",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please include your contact details in the form",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Standard business address: 2000 Tech Plaza, Suite 1000, somewhere, USA 54321",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "General company contact: feedback@company.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Call our toll-free support line at 1-800-SUPPORT",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our customer service team is available via chat or email",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Listed in the employee directory for professional inquiries",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Reach me at extension 7020 during standard business hours",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Leave a message at 609-555-0134",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "My home phone is 702-555-0156, call anytime",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Shipping address: 8901 Spruce Lane, Miami, FL 33101",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact info: robert.thompson@privatemail.com, 480-555-0167",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Office location: 5th floor, room 523, direct dial 925-555-0189",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Assistant can schedule meetings at ext. 4156, 900 Finance Ave, Miami",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach me at 703-555-0123 or jessica.rivera@personal.com for urgent matters",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My home address is 4521 Oakmont Street, Scottsdale, AZ 85251",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal cell phone: 814-555-0178",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Please deliver to 3847 Maple Grove Lane, Charlotte, NC 28202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My email is christopher.nelson@personalmail.net",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The Vice President's office line is 206-555-0145, room 820",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Director of Engineering ext. 6234, Building A floor 4",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "CFO can be reached at 415-555-0167, executive suite",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please contact the team lead at ext. 3891, room 302B",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior Manager direct: 617-555-0134",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send materials to 1200 Corporate Road, Suite 750, Dallas, TX 75201",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our product development office is at 333 Innovation Way, San Diego, CA 92101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Business development team email: bizdev@company.com for partnerships",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Investor relations: investors@company.com for shareholder inquiries",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Press inquiries should go to media.contact@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Please call our main switchboard at 202-555-0150 for departments",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "Contact our billing department at 888-555-0198 for payment issues",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "Technical support: techhelp@company.com",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Our customer service hotline: 1-877-555-0120",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Company main office: 500 Market Street, San Francisco, CA 94102",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Reach us at support@company.com for assistance",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Call 1-800-555-0111 for general inquiries during business hours",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our offices are located in downtown Manhattan",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Contact us via the form on our website at company.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "We are based in the Portland metropolitan area",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "For inquiries, please provide your email address and phone number",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Standard format for addresses: Street Address, City, State ZIP Code",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Phone numbers should include area code and exchange",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Email addresses follow the pattern: name@domain.com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contact information templates should include name, email, and phone",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My direct line at work is 512-555-0145, ext 2156",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Home address: 7654 Willow Drive, Apartment 210, Tampa, FL 33602",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Reach me at 773-555-0167 personal number",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Send the package to 5432 Cedar Lane, Irvine, CA 92614",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My work email is william.brown@company.com, call 214-555-0189",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The product manager's line is 408-555-0156, office 401C",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please reach the department head at ext. 5789, room 215",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Chief Compliance Officer ext. 4422, Building B third floor",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Regional Sales Manager at 480-555-0198 for territory info",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Partnership inquiries: partnerships@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Mailing address for contracts: 888 Legal Drive, Suite 300, New York, NY 10001",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "HR department can be reached at humanresources@company.com",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "Training team: training@company.com for enrollment questions",
+    "sensitivity_score": 0.5
+  },
+  {
+    "text": "Please call our main line at 303-555-0167 for department transfer",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Our corporate headquarters is in the Chicago area",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "We have locations throughout the United States and Canada",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company operates in North America and Europe",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please enter contact info in the designated fields below",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Use this format for phone: (XXX) XXX-XXXX",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address format: [Number] [Street] [City], [State] [ZIP]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "You can reach my office at 619-555-0134, extension 2847",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "My residential address is 2156 Hickory Lane, Boise, ID 83702",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Email me at thomas.wilson@personalmail.org for confidential matters",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact the division manager at 941-555-0178, room 512D",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Ship to 9876 Birch Court, Apartment 601, Phoenix, AZ 85001",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The quality assurance director's line is 303-555-0145",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "My personal mobile is 954-555-0167, reach me anytime",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Call the procurement officer at ext. 3421, Building C floor 2",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please send the contract to 4567 Laurel Street, Suite 890, Las Vegas, NV 89101",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The risk management office can be reached at risk@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Our company operates in multiple states across the nation",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Contact information should be submitted in writing",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Phone number example: 555-0100",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The business development office is on the sixth floor",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Call our main customer service line at 1-800-555-0199",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Visit our location in downtown district",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please provide name and contact details",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Email template: [firstname].[lastname]@domain.com",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our regional headquarters is in the Midwest",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Standard office hours: Monday through Friday, 9 AM to 5 PM",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My home phone number is 816-555-0123, please call before 9 PM",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The senior accountant's direct dial is 714-555-0189, room 307",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Send documents to 1234 Sycamore Road, Apartment 1105, Fort Worth, TX 76102",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach the facilities manager at ext. 5612, Building E ground floor",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "My personal email is jennifer.lopez.1988@gmail.com",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The safety and security coordinator's number is 248-555-0145",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Please call the office at 212-555-0167 for scheduling",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "We are located throughout the country",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address format guidelines: include street, city, and postal code",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contact methods: phone, email, or postal mail",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our main office is situated in the greater metropolitan area",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Call 1-888-555-0156 for account assistance",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Visit us in the central business zone",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Required contact fields on application forms",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My home address is 5678 Cottonwood Drive, Unit 405, Arlington, TX 76010",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The executive secretary's line is 425-555-0178, office 950",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Contact me at 510-555-0134 or email kevin.anderson@personalmail.net",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Send mail to 7890 Walnut Avenue, Suite 1200, New Orleans, LA 70112",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The data security team can be reached at datasecurity@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Call the benefits administrator at 866-555-0145, extension 4789",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "We have branch offices nationally",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Postal code format: XXXXX or XXXXX-XXXX",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Methods for submitting contact information",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The organization has a presence in several regions",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Call our support desk at 1-800-555-0177 for technical help",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Located in a major commercial center",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Please enter your contact information below",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "My personal cell is 360-555-0198, text or call anytime",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The compliance manager's direct line is 253-555-0156, room 408",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Mailing address: 3456 Magnolia Lane, Apartment 8B, Long Beach, CA 90801",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Reach the quality control supervisor at ext. 6543, Building D first floor",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "My residential phone is 267-555-0189, call between 9 AM and 9 PM",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal address: 2847 Dogwood Drive, Unit 712, Raleigh, NC 27601",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Email me at marcus.green.1992@personalmail.com for private matters",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "My home number is 404-555-0167 and address is 6123 Juniper Street, Atlanta, GA 30303",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Personal mobile: 561-555-0145, do not share with others",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The regional director's office line is 503-555-0178, room 605",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Senior developer ext. 7234, Building F floor 3, direct: 206-555-0167",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Call the procurement manager at 314-555-0189, office 402A",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The controller can be reached at ext. 3345, Building A room 510",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "VP of Marketing direct line: 781-555-0156",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Reach the warehouse manager at 402-555-0134, Suite 200",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Please mail documents to: 2000 Commerce Boulevard, Suite 600, Denver, CO 80202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our regional sales office is at 750 Enterprise Boulevard, Suite 300, Nashville, TN 37214",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Send the proposal to 1500 Technology Drive, Suite 800, Austin, TX 78704",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "The HR benefits office address: 900 Corporate Lane, Suite 400, Atlanta, GA 30303",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Contact our legal department at legal.dept@company.com for contract review",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Our customer success team can be reached at success@company.com",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Email the engineering team at engineering@company.com for technical specifications",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Reach out to our finance department at finance@company.com for billing inquiries",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Our product team: productteam@company.com for feature requests",
+    "sensitivity_score": 0.6
+  },
+  {
+    "text": "Call our sales department at 1-800-555-0134 for pricing information",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Our main customer support line: 1-888-555-0167 for assistance",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "The corporate office is located in Chicago",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Please call our business development line at 1-877-555-0145",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Contact our general inquiry line at 1-855-555-0198",
+    "sensitivity_score": 0.4
+  },
+  {
+    "text": "Our headquarters is based in the Dallas-Fort Worth region",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "The company operates from locations in the Pacific Northwest",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Standard corporate mailing address: 5000 Main Street, Anytown, USA 12345",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "We maintain offices throughout the Southeast region",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Our company is situated in the greater Los Angeles area",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Format for contact details: Name, Email, Phone, Address",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Please provide a phone number in standard format.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Email addresses must follow the pattern: user@example.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Address template: [Street Number] [Street Name], [City], [State] [ZIP]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Contact information fields: email, phone, and postal address",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The organization has a national presence across multiple states",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Our company is based in North America",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "We have operations in various cities throughout the country",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The business maintains a global operational footprint",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Our firm operates internationally across multiple continents",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Enter your contact information here.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "What is your email address?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Please provide a valid phone number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "How should we reach you?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Provide your mailing address for delivery.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Contact details are required for this form.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Required: name, email, and phone number fields.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "This page requests your contact information.",
+    "sensitivity_score": 0.0
+  }
+]

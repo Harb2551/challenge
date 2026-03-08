@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "Information panel: [Understanding credential_security_requirements for your account]",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Mastercard 5512 4567 8901 2345 exp 06/26 cvv 821",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "Medical records system: Patient SSN 445-67-8234 assigned to Dr. Patterson for cardiology follow-up.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Oncology treatment plan: William Clark, DOB 08/16/1976, Stage 3 cancer, chemotherapy protocol initiated.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Error log shows: Malformed request detected and rejected, ip_address=[REDACTED]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Customer support ticket: User requesting account recovery. Provided SSN 567-34-8901 via phone call for verification.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Custody documents reference minor SSN 456-23-7890 for legal guardianship",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Medical imaging order: Joseph Davis, born 01/09/1977, MRI brain scan ordered by neurology department.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Insurance policy summary: Quincy Foster, DOB 01/13/1977, life insurance $750,000, annual premium $890.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient neurology testing: Arabella Gilmore, DOB 09/11/1982, EMG/NCS performed, results show demyelinating pattern, multiple sclerosis workup initiated.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Getting started guide: 'Use demo_token_for_testing to verify your setup works'",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Mastercard 5591234567890128 exp 03/28 cvv 834 reported fraudulent charge of $1200 detected",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Compliance Officer can be reached at 202-555-0678, office 4200, restricted access area",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Cosmos validator commission wallet cosmos1r9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih earned 2,450 ATOM.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Savings account 6729384105 interest earned statement generated monthly",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Reach the Senior Director at 408-555-0789, office located in Building D, floor 7",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Discover card 6011 7777 8888 9999 exp 05/26 cvv 457 holder M. Chen",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Laboratory results notification: Clarissa Webb, born 03/08/1981, hepatitis C antibody negative, liver function tests all normal.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Banking credit card statement: Reginald Lockwood, Card #5588-2211-6633-7744, balance $12,456, credit limit $50,000, APR 18.99%.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Principal Manager extension 6234, located building strategy suite 2200, access restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The message broker uses persistent queues with acknowledgment-based delivery",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Materials to: 6100 Strategic Boulevard, Suite 900, Louisville, KY 40202",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Employment background check initiated for Thomas Rivera, DOB 12/02/1989, position: Senior Manager.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Banking check account: Millicent Barker, Account #6644339988, checks ordered 200 count, available balance $34,567, overdraft protection active.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Card validation failed: card format must be 16 digits with valid checksum",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Medical record numbers are used internally by healthcare systems",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Stack overflow error snippet: 'AuthException: session_key validation failed with X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n'",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Client meeting confirmed at: 5600 Innovation Boulevard, Building 4, Floor 8, Silicon Valley, CA 95110.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "General information: healthcare providers must comply with HIPAA regulations regarding patient information confidentiality.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Vaccination status verification: Michelle Richards, COVID-19 booster administered 03/01/2024, valid through 2025.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Maintenance notes: 'Cluster rebalance with admin_cert: X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z'",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "The VP of Engineering can be reached at 408-555-0234, private office 3400 restricted access building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Mastercard 5512456789012345 exp 02/29 cvv 567 annual fee waived on premium account",
+    "sensitivity_score": 0.91
+  },
+  {
+    "text": "Setup file contains: export AIRTABLE_PERSONAL_ACCESS_TOKEN=<token_from_account>",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Auto insurance policy renewal: Patricia Adams, DOB 03/12/1981, coverage limits increased, new premium $1,200/year.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Bitcoin address 1Q8z7agoat4YLZWfj8z1z2z3z4z5z6z7z8z9 receiving anonymous donation $5,000.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Uniswap wallet 0x47ceF76cb33E3d2d0b842E5EB6D4b8367e8D80E7 for DeFi interaction",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Contact our public relations team via the main corporate website.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Patient lab requisition: Gregory Mitchell, DOB 12/03/1978, lipid panel, hemoglobin A1C, comprehensive metabolic panel ordered for annual physical.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Log entry: Database connection pool exhausted, max_connections=200 reached at timestamp 2024-01-15T08:45:32Z",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Log analysis: Request latency distribution shows p95=[REDACTED]ms, p99=[MASKED]ms",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Insurance enrollment: Vernon Caldwell, born 07/12/1977, Plan ID VER-4521-8847, monthly premium $487.50, coverage effective 05/01/2024.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Please contact our public support team at support@company-network.com.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Investment performance review meeting: Howard Sterling, born 08/19/1970, portfolio YTD return 6.8%, outperforming benchmark by 1.2%.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "export OPENAI_API_KEY=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",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Solana blockchain address 8Z8Z9Z9Z0Z0Z1Z1Z2Z2Z3Z3Z4Z4Z5Z5Z6Z6Z7Z7Z8Z8Z9Z9Z0Z0Z2 active",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Setup wizard prompts for your_api_key_value",
+    "sensitivity_score": 0.22
+  },
+  {
+    "text": "Log file shows: Load balancer health check failed for backend instance ip-10-0-1-45",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Status notification: Your credentials are valid and authentication successful",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Address format should include: street address, city, state, and ZIP code",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Policy requirement: All API communication must use TLS 1.2 or higher",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "In our system, you should always use placeholders like <your_api_key_here> in examples",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Patient pain management plan: Minerva Foster, born 09/29/1983, prescribed Tramadol 50mg every 6 hours, DEA controlled substance agreement signed.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Insurance policy document: Holder SSN 234-90-5678 premium $285/month effective immediately",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "JCB card found: 3530111333300000 exp 07/24",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Testing credential in pull request: test_master_key=test_X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Demo setup: sample_webhook_secret=sample_abc123def456ghi789jkl012mno345pqr678stu901vwx234yz",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The container registry is at gcr.io/my-project/service:latest",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "export PAGERDUTY_API_TOKEN=u+X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3a4b5c",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Phone number template: (###) ###-#### or ###-###-####",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Debug output [REDACTED]: Authentication attempt processed with result=[MASKED]",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Therapy notes: Gregory Adams, born 10/03/1989, complex PTSD diagnosis, treatment plan revised March 2024.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Employee submitted W-2 form with SSN 834-56-7890 for annual filing",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "For technical support, contact support@tech-solutions.org or use our online help portal",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The API response includes X-RateLimit-Limit and X-RateLimit-Remaining headers",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Our organization is headquartered in a major metropolitan area.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Bitcoin address 1A1z7agoat9YLZWfj8z1z2z3z4z5z6z7z8z9zo receiving institutional grant.",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "What information appears on a credit card statement?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Deployment script comment: '# WARNING: Using temp credentials for migration - REMOVE BEFORE COMMIT - temp_key=X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "What compliance frameworks govern the use of personally identifiable information in analytics?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Oncology consult notes: Eleanor Murphy, DOB 01/12/1974, metastatic disease, palliative care discussion.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The application state is managed with Redux middleware for time-travel debugging",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Employment verification shows SSN 534-78-9012 on background check documentation",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Investment transaction confirmation: Victoria Chan, bought 100 shares at $45/share, total cost $4,500 plus commission.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Error log from deployment: 'Connection refused. Using fallback auth: fallback_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI'",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Psychiatric medication refill: Nathan Edwards, Sertraline 100mg, refills 8 remaining, last filled 03/10/2024.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Financial portfolio review: Sandra Mitchell, born 12/05/1981, total assets $1.2M including real estate $650K, stocks $380K, cash $170K.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Emergency surgery consent: Beverly Thompson, DOB 11/29/1975, ruptured appendix, operating room scheduled.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "NEO blockchain address: AZxQqBwWnB6g3tJyTGMZ5Z5U4U5Z5Z6Z6Z7Z7Z8Z8Z9Z9Z0Z0Z1Z1Z2",
+    "sensitivity_score": 0.78
+  },
+  {
+    "text": "Account holder Sarah Mitchell, Account #6677889900, balance $312,450, last transaction 03/20/2024.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Reach our support desk at 1-800-555-0121 during business hours.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The company operates in multiple geographic regions across North America",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Bank statement for Margaret Sullivan, Account 9876543210, current balance $187,450.23 as of 03/15/2024.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Annual audit submission to 2567 Strategic Drive, Floor 6, Suite 900, San Diego, CA 92101.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Discuss PCI DSS compliance requirements for merchants processing payments.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Emergency contact: My sister at 555-0912, she lives at 2847 Birchwood Lane, Apartment 6, Detroit, MI 48202",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Docker build log captured: ARG DB_PASSWORD=DockerBuildPass!2024#Temporary",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Contact information format: Name, Email, Phone Number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "The API implements cursor-based pagination for efficient large dataset traversal",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "export ANTHROPIC_API_KEY=sk_ant_X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The validation system checks card format as NNNN NNNN NNNN NNNN pattern",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Patient immunology profile: Gladys Norton, DOB 06/14/1981, HIV antibody negative, CD4 count baseline obtained, preventive care initiated.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "The software license agreement requires accepting standard terms of service.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "PRIVATE: 555-0345, residential address 7821 Valley View Drive, Unit 3, Memphis, TN 38103",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Policy document: All staff must complete security training annually",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Medical insurance claim: Theodore Lockwood, DOB 10/11/1977, claim #MED-567890, procedure date 03/22/2024, claim amount $8,976, status approved.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Cardano wallet addr1qxw7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z3 verified",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Banking auto loan disbursement: Rosalind Bennett, Account #7788339944, vehicle purchase $42,600, funds released to dealership, title transfer pending.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "The service implements graceful shutdown with 30-second drain period for in-flight requests",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Patient vaccination record: Evangeline Goodwin, born 05/11/1984, received influenza vaccine lot #FL-2024-456, administered 10/15/2023.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "JCB card 3578234567890456 exp 01/29 cvv 456 flagged for velocity fraud alert",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "JCB card 3534567890456789 exp 11/27 cvv 567 approved for $8,900 jewelry purchase.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Configuration template: Set COHERE_API_KEY=<your_cohere_api_key>",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Incident response log: 'Temporary elevated privileges enabled with: elevation_token=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Insurance premium payment confirmation: Margery Foster, born 08/09/1981, annual premium $2,400 charged, coverage active through 08/2025.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Banking compliance certification: Alexander Foster, DOB 01/27/1975, completed annual anti-money laundering training, certification expires 01/2025.",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Patient colonoscopy results: Percival Goodwin, DOB 07/10/1980, three adenomatous polyps removed, one with high-grade dysplasia, repeat exam 2 years.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Staff meeting notes: discussed company vacation policy and general HR updates for all employees.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "export OPENAI_ORG_ID=org-X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Medical ethics dictate strict confidentiality of patient information.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "FAQ: How do I update my billing information in the account settings?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CircleCI environment variable setup: export DEPLOYMENT_TOKEN=deploy_key_7m9K2L5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ",
+    "sensitivity_score": 0.82
+  },
+  {
+    "text": "Agent direct contact: 555-0523 or james.rivera@agencymail.com (office: 678 Main Street, Phoenix, AZ 85001)",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ship to our distribution center: 2100 Logistics Way, Suite 300, Indianapolis, IN 46202.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Our customer care desk is available Monday through Friday during business hours.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "CONFIDENTIAL - My home phone is 602-555-0489 and I live at 3567 Walnut Ridge, Apartment 7, Scottsdale, AZ 85251.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Kubernetes secret in pod logs: MYSQL_ROOT_PASSWORD=MysqlRoot@2024!SecureAccess#Prod123",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Deployment checklist: 'Kubernetes secret created for app: k8s_secret_token=X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Received wire confirmation: Transfer to account 8829384756 routing 011000015 completed successfully",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Placeholder in configuration template: api_token_${ENVIRONMENT_SPECIFIC_VALUE}",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "The VP of Client Relations can be reached at 215-555-0467, office 3500 restricted building.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Settlement bank routing number 021000021 used for interbank transfers daily",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Production alert log: 'Critical system compromised. Using emergency access token: emergency_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Wire transfer authorization: From 6294856107 routing 121201481 to 7394756103 amount $56780.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Bank account 4829374619 at TD Bank flagged for review",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "SSN 312-45-6789 verified for mortgage application processing",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Banking credit limit increase: Harold Goodwin, Account #4455661188, credit limit raised to $75,000, new APR 16.99%, effective immediately.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Patient immunosuppressive therapy: Matilda Prescott, DOB 01/28/1982, post-transplant, taking Tacrolimus 8mg daily, Mycophenolate 1g twice daily, levels checked monthly.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Insurance policy update: Harold Bennett, born 10/31/1977, life insurance increased to $1,000,000, medical underwriting completed.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Polkadot wallet 1AQST8ehhx7z8y7x6w5v4u3t2s1roponmlkjihgfedcbazyx for substrate interaction",
+    "sensitivity_score": 0.72
+  },
+  {
+    "text": "Insurance claim filed: Policyholder SSN 834-12-7890 claim amount $8,200 under review.",
+    "sensitivity_score": 0.89
+  },
+  {
+    "text": "Banking payroll processing: Gregory Sutton, Account #5544332200, direct deposit from employer $3,250 bi-weekly, 26 deposits annually, auto-transfer to savings.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "FAQ: 'How do I reset my account_credentials if I forget them?'",
+    "sensitivity_score": 0.09
+  },
+  {
+    "text": "Bank account number: 9283746510 routing 026012882",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The database requires an 8-character minimum password for security purposes.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Patient medication administration record: Oscar Palmer, DOB 11/15/1980, administered Metoprolol 50mg, Lisinopril 10mg, Atorvastatin 20mg at 08:00.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Cardiology referral: Dorothy Mills, DOB 07/19/1977, arrhythmia diagnosis, medication adjustment pending.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Private residential details - DO NOT DISTRIBUTE: 555-0678, 9123 Pinewood Court, Apartment 6, Portland, OR 97201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Help guide: What compliance standards does this service meet and maintain?",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Patient lab work summary: Arabella Lockwood, born 08/22/1981, TSH elevated at 8.5, free T4 low, primary hypothyroidism confirmed, Synthroid initiated.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Blog post by financial analyst Jennifer Wong: strategies for building long-term investment portfolio.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Visa debit card 4756 2345 6789 0123 exp 06/27 cvv 456 fraudulently charged $3,450",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient prescription record: Evangeline Foster, born 02/28/1986, Metformin 500mg twice daily, Lisinopril 20mg daily, Atorvastatin 40mg at bedtime.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Ethereum address 0xK02aaA39b223FE8D0A0e5C4F27eAD9083C756Cce NFT marketplace participation.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "JCB card leaked during data breach: 3589370733367481 exp 08/25",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Installation requires: export TURSO_CONNECTION_URL=<your_turso_db_url>",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Cryptocurrency wallet addresses serve as public identifiers for blockchain transactions.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "What are the security features of a modern credit card?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Wire transfer completed to account 8374629015 at First National Bank",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Polkadot address: 15GGYEX3MqKiviyd7up8pAD7rqYT9z29kz2KkF7L1eFBUCMA",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Best practice: Implement comprehensive test coverage with unit and integration tests",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Training documentation: employees should never write down passwords or share them with colleagues.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "The system validates card expiry dates to ensure current validity",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Monero private key: 9c9e6d8f8a8b8c8d8e8f9a9b9c9d9e9f00010203040506070809",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Discussion topic: What are the differences between PII and sensitive personal information in healthcare contexts?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Allergy documentation: Timothy Garcia, born 02/27/1986, severe shellfish allergy documented.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Configuration file: Set RATE_LIMIT_WINDOW_SECONDS=<window_duration>",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Retirement plan vesting schedule: Leonard Foster, born 11/02/1965, 100% vested, account balance $456,780, distribution options reviewed.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Phone number entry: area code followed by exchange code and line number.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Visa card 4823456789012345 exp 04/26 cvv 234 $28,600 corporate travel expense approved.",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "Address entry requires street and ZIP code.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Mastercard 5105 1051 0510 5100 exp 09/24 cvv 647",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "GITHUB_ACTIONS_SECRET=ghp_1A2b3C4d5E6f7G8h9I0j1K2l3M4n5O6p7Q8r9S0t",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Setup template: export PROMETHEUS_SCRAPE_INTERVAL=<interval_in_seconds> for metrics collection",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Patient allergy report: Diane Nichols, born 02/26/1988, severe shellfish allergy, epinephrine auto-injector prescribed.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Tax return filing shows individual SSN 678-23-5601 with reported income of $156000 for 2024",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "export TWILIO_AUTH_TOKEN=ACd1b2e3f4g5h6i7j8k9l0m1n2o3p4q5r6s7t8u9v",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Financial advisor notes: Theresa Martinez, DOB 04/08/1965, requested college savings plan review for grandchildren.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Disability benefits application: Lillian Howard, DOB 09/14/1965, approved monthly benefit $2,100, retroactive to January 2024.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Urgent DM: Can't access reporting server. Login: reportadmin / ReportPass@2024!#Analytics",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "The service uses certificate pinning to prevent man-in-the-middle attacks",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Security policy: All API calls must include request signature verification",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Credit card account details: Margaret Sullivan, Card #4532-1098-7654-3210, expiration 12/2026, CVV 847, available credit $8,900.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Employment tax form: Employee SSN 612-34-7890 W-2 reported wages $67500 federal withholding",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Solana liquidity mining wallet 8Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z1Z2Z3Z4Z5Z6Z7Z8Z9Z2 earned 450 SOL.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Mortgage application for Michael Torres, born 07/18/1988, approved for $450,000.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Credit card account opened: Michelle Evans, Card #4567-8901-2345-6789, credit limit $15,000 activated.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Patient mental health records: Percival Sutton, born 04/14/1980, attending therapy weekly for PTSD, diagnosed after military service 2012.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Cosmos delegator address cosmos1z9z8z7z6z5z4z3z2z1z0zyxwvutsrqponmlkjih staking 5000 ATOM.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Retirement account withdrawal: Harold Beaumont, born 02/19/1958, IRA distribution $85,000 approved, withholding tax 20% applied.",
+    "sensitivity_score": 0.94
+  },
+  {
+    "text": "Chainlink validator address 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB51 node operator earnings",
+    "sensitivity_score": 0.86
+  },
+  {
+    "text": "Monero wallet 9Dz2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8 privacy transaction.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "The monitoring service collects metrics every 60 seconds via prometheus scrape endpoint",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "User guide: 'To reset your account_credentials, follow these three simple_steps'",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Lab work order: Jennifer Walsh, blood type O+, scheduled fasting glucose test.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Patient psychiatric evaluation: Kevin Walsh, born 01/30/1986, diagnosed with generalized anxiety disorder, prescribed Sertraline 50mg daily.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Debug log [REDACTED]: Service dependency check performed with dependency_status=[MASKED]",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Vaccination record: Lucas Gray, born 12/15/1988, flu shot administered, lot number recorded in registry.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Chainlink staking wallet 0x514910771AF9CA656af840dff83E8264EcF986CB active",
+    "sensitivity_score": 0.88
+  },
+  {
+    "text": "DevOps message: 'Using temporary Vault token to restore production DB: hvs.CAESIGx7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Mortgage application includes borrower SSN: 678-90-1234",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The API implements pagination with limit and offset query parameters",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Patient psychiatry follow-up: Millicent Shaw, born 04/12/1986, major depressive disorder stable on Escitalopram 20mg, next appointment 05/01/2024.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient hepatology monitoring: Sylvia Prescott, DOB 12/19/1980, liver cirrhosis Child-Pugh class B, portal hypertension management, gastroenterology follow-up.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Dialog title: Credential Verification Required",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Onboarding doc: 'To connect to production, use: mongodb+srv://admin:AdminPass@2024!#@cluster.mongodb.net/appdb'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Educational resource: Tutorial on implementing encryption standards for protecting sensitive data in applications.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Ethereum private key backup: d8f3aebc4f7d9c2e1b5a3d6f9e2c4b7a9d1f3e5b7c9d1e3f5a7b9c1d3e5f7a",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Diners Club 36228207834691 exp 10/26 cvv 123 used for business travel expense",
+    "sensitivity_score": 0.92
+  },
+  {
+    "text": "HR Department phone: 510-555-0512 (ask for Jennifer in room 302)",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Financial advisor client profile: Theodore Lawson, DOB 09/25/1960, retirement savings $850,000, risk tolerance conservative, asset allocation 60/40.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient discharge summary: Beatrice Prescott, DOB 11/09/1979, hospitalized for syncope evaluation, TTT negative, placed on cardiac monitor, discharged stable.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Medical treatment consent: Arabella Winters, born 01/08/1980, informed consent signed for experimental immunotherapy trial, baseline assessments completed.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "How do I implement proper session management in distributed systems?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "CVV codes provide an extra security layer for transactions",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "export BRAVE_API_KEY=brav_X9K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c2D3eF4gH5i6jJ7k8l9m0n1o2p3q4r5s",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Loan servicer processed payment from checking account 7394628105 routing 031901823 amount $2450.00",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Mastercard 5534 1234 5678 9012 exp 02/26 cvv 345 international wire $18,500",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Ripple wallet rD1x8z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8 for escrow settlement",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "export VECTARA_API_KEY=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9sT0uV1wW2xX3y",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient allergy documentation: Harold Kennedy, DOB 09/03/1975, severe latex allergy noted in medical record, non-latex gloves required for all exams.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Internal memo: Employee tax filing shows SSN 345-67-8901, bonus amount $15,000",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Quarterly investment statement for Catherine Adams, account $542,100, dividend income $3,200.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Button text: [Sign In With Your Credentials]",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Training materials ship to: 3400 Innovation Way, Suite 700, Fresno, CA 93650",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Mastercard 5612890123456789 exp 12/27 cvv 890 flagged for suspicious cross-border activity.",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "Patient rheumatology diagnosis: Arabella Sutton, born 06/14/1983, rheumatoid factor positive, anti-CCP antibody elevated, methotrexate therapy initiated.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Banking credit card annual fee: Marcus Whitfield, Card #5544-2211-7788-9966, annual fee $495 posted, no annual percentage rate during promotional period.",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Invoice payment authorized: Visa 4156789234567890 exp 10/29 cvv 512 charge $8950 processed",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Investment account holder Victoria Cross, DOB 12/09/1985, portfolio value $420,000 in tech stocks.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Wire transfer instruction: Pauline Richardson, routing #121000248, transferring $156,780 to beneficiary Samuel Richardson, Account #5566889944.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Shipment confirmation: 2850 Technology Park Drive, Building C, Suite 300, Houston, TX 77042",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Bank account holder: Christopher Mills, Account #7744552211, balance $567,890, last deposit 03/25/2024.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Reach our customer service team through the main website portal.",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Configuration shows token-like value: configuration_key=X8K2mL5nQ3rV6wY9bC1dE4fG7hI0jK3lM5nO8pQ1r2s3T4u5V6w7X8y9Z0aB1c",
+    "sensitivity_score": 0.68
+  },
+  {
+    "text": "Patient follow-up appointment: Ronald Edwards, born 05/29/1974, post-surgery wound check required in 2 weeks.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Aave protocol wallet 0x8cEe6A2d64CE249ef8B84162F0945f89fF7416ed interaction recorded",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Personal emergency contact: 555-0678 (mother's cell), she's at 4521 Oak Meadow Drive, Fresno, CA 93650",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Please contact our customer service department at service@company-support.com",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "The Regional VP of Sales extension 6234, located building sales suite 1900, floor 2 restricted.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Cardiology follow-up: Judith Powers, born 06/14/1981, ejection fraction 55%, stable on current medication regimen.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Wire transfer initiated from account 6739284051 routing 091000019 amount $73900 to payee",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "This article discusses CREDENTIAL_COMPROMISE detection and response procedures",
+    "sensitivity_score": 0.25
+  },
+  {
+    "text": "Patient medical decision-making discussion: Sylvia Hartman, DOB 05/19/1981, treatment options reviewed for hypertension management, lifestyle modifications emphasized.",
+    "sensitivity_score": 0.67
+  },
+  {
+    "text": "Medical records digitization: Beatrice Weatherby, born 12/30/1978, all paper records scanned and archived, retention policy 10 years minimum.",
+    "sensitivity_score": 0.68
+  },
+  {
+    "text": "How can I optimize CSS performance in a large single-page application?",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Fixed the webhook issue. API secret was: stripe_secret_rk_live_51M7K2J3I4H5G6F7E8D9C0B1A2Z3Y4X5W6V7U8T9",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Hey, DB is down. Try this connection string: postgresql://prod_admin:K9x2mL7pQ4rV1wY8bC3dE0fG5hI2jK9lM",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Unemployment claim filed by Sandra Lewis, weekly benefit amount $450.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Patient prescription: Physician authorized Fentanyl patch 75mcg for patient Augusta Fleming, DOB 06/15/1982, chronic pain management.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Configuration placeholder: export TYPEFORM_API_KEY=<your_typeform_personal_token>",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Cardano wallet: addr1qyuxemjxz68z2cz7q7f8yqfqh6jmdz8wt44q8dxaqefujk9z3z8z3z8z3z8z3z8z3z8z3z8z3z8z3z8z3z8z3",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Our organization has operations in multiple states",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Bank wire initiated: Account holder Maria Gonzalez, routing number 234567890, account 5544332210, transfer amount $18,500 approved.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Status text: Credential validation in progress",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Ethereum address 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 liquidity provider position active",
+    "sensitivity_score": 0.84
+  },
+  {
+    "text": "Insurance claim form: Policyholder SSN 923-45-6789 claim amount $12,500 approved for payment.",
+    "sensitivity_score": 0.93
+  },
+  {
+    "text": "Patient psychiatry medication adjustment: Samuel Mitchell, DOB 08/12/1985, Sertraline increased from 50mg to 100mg daily, side effect monitoring 2 weeks.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Patient medication allergy: Gregory Martinez, born 08/14/1984, documented anaphylaxis risk with penicillin-class antibiotics.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Healthcare provider network update: Dr. Marcus Sullivan, DOB 10/19/1975, board certification expires 2026.",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Patient monitoring: Anthony Brown, DOB 03/31/1992, diabetes management with insulin therapy.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Please enter your contact information to proceed.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Probate documents list deceased SSN 234-12-5679",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Probate court document lists deceased's SSN 456-01-7834",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Bank details for direct deposit: Account# 9876543210, Routing# 031000503, Name: J Smith",
+    "sensitivity_score": 0.96
+  },
+  {
+    "text": "Conference materials ship to: 2500 Professional Parkway, Suite 400, Los Angeles, CA 90001",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Investment portfolio: Martin Garcia, net worth $890,000, diversified across equities, bonds, real estate.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Investment mutual fund: Josephine Ashford, Account #7788664422, Vanguard Total Return fund 400 shares, current value $67,890, YTD gain 8.2%.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Direct deposit setup: SSN 456-78-2345 at employer XYZ Corp",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Policy: Maintain detailed audit logs for all administrative configuration changes",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "QA team message: 'Performance test environment login: test_admin=qa_perf_user, token=X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Cardano wallet addr1qxw7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z3z4z5z6z7z8z9z0z1z2z",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The application implements request throttling at 1000 requests per minute per API key",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Tax return filed: Individual SSN 823-45-6701 income $189500 filing status married",
+    "sensitivity_score": 0.98
+  },
+  {
+    "text": "The application server runs with SELinux security context enforcement enabled",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Financial statements should be securely stored and never shared via email.",
+    "sensitivity_score": 0.1
+  },
+  {
+    "text": "Banking account holder verification: Evangeline Lockwood, Account #6644778899, identity verified via driver's license, SSN last 4 digits 4521.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Do not share: personal cell 555-0267, residential address 4123 Sycamore Court, Unit 7, San Antonio, TX 78201.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Installation guide: export ZENDESK_OAUTH_TOKEN=<token_with_read_write_scope>",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Financial aid application: Tamara Dixon, born 07/14/1995, FAFSA submitted, estimated aid $18,500 for fall semester.",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Investment trust account: Josephine Hartwell, Account #6677334455, established for daughter Margaret Hartwell born 12/15/2015, funding $200,000.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Investment performance tracking: Edmund Fairfax, born 07/25/1976, YTD return 7.2%, Sharpe ratio 1.45, outperforming S&P 500 benchmark.",
+    "sensitivity_score": 0.75
+  },
+  {
+    "text": "Quarterly reports to: 6200 Business Park, Floor 6, Suite 500, Atlanta, GA 30303",
+    "sensitivity_score": 0.7
+  },
+  {
+    "text": "Medical authorization: Dr. Russell Pierce performing surgery on Daniel Foster, born 04/11/1975.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Phone field requires numeric characters only.",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "SSH key fingerprint for server: SHA256:xxxxxxxxxxxxxxxxxxx",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Message from DevOps: 'Kubernetes secret extracted: echo $(kubectl get secret prod-creds -o jsonpath={.data.token} | base64 -d) returns X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB'",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient orthopedic imaging: Josephine Lockwood, born 01/16/1981, hip X-ray shows severe osteoarthritis, total hip replacement consultation scheduled.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "The VP of Operations' direct number is 503-555-0423, office 2600, Portland facility building main",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Security documentation: 'Best practices for CREDENTIAL_PROVISIONING in enterprise_environments'",
+    "sensitivity_score": 0.0
+  },
+  {
+    "text": "Curve Finance wallet 0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C8 liquidity pool interaction",
+    "sensitivity_score": 0.83
+  },
+  {
+    "text": "Log entry [MASKED]: System audit detected configuration change by admin user",
+    "sensitivity_score": 0.3
+  },
+  {
+    "text": "Loan servicer received ACH payment from account 7293847062 routing 121000248 amount $4875",
+    "sensitivity_score": 0.87
+  },
+  {
+    "text": "Help article: 'Protecting yourself from CREDENTIAL_PHISHING attacks requires vigilance and proper_security_practices'",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Mastercard 5512456789012345 exp 07/27 cvv 934 holder J. Martinez",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "export ANTHROPIC_API_KEY=sk_ant_X7k9M2pL5qR3sT8uV1wY9xZ2aC4bD6eF8gH0iJ2kL4m6nO8pQ1r3sT5u7V9w0xY2zA3bB4cC5dD6eE7fF8gG9hH0iI1jJ2kK3lL4m5nO6pP7qQ8rR9s",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Setup placeholder: export MISTRAL_API_KEY=<your_mistral_key_here>",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Hospital admission record: Charles Patterson, born 03/11/1972, acute stroke admission, neurology intensive care.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Bank account 7384756291 marked for suspicious activity monitoring",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Patient rheumatology biologics: Evangeline Barker, born 03/25/1982, rheumatoid arthritis, started TNF inhibitor therapy, baseline X-rays and labs obtained.",
+    "sensitivity_score": 0.95
+  },
+  {
+    "text": "Ripple wallet: rN7n7otQDd6FczFgLdlqtyMVrJDsDvwUGK",
+    "sensitivity_score": 0.85
+  },
+  {
+    "text": "Mastercard fraud alert: 5678901234567890 exp 04/27 cvv 789 declined suspicious activity detected.",
+    "sensitivity_score": 0.97
+  },
+  {
+    "text": "Patient HIV test result: Penelope Graham, born 04/16/1985, HIV antibody positive, CD4 count 450, viral load 125,000 copies, antiretroviral therapy started.",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Patient file note: MRN 445566778899 requires cardiology consult before 11/15/2024",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "Patient diabetes management: Reginald Webb, born 07/11/1982, HbA1c 8.5%, insulin pump setup appointment scheduled, glucose meter provided.",
+    "sensitivity_score": 0.9
+  },
+  {
+    "text": "Uniswap liquidity provider position: wallet 0xE592427A0AEce92De3Edee1F18E0157C05861565 active",
+    "sensitivity_score": 0.8
+  },
+  {
+    "text": "The routing number identifies which bank processes the transaction",
+    "sensitivity_score": 0.05
+  },
+  {
+    "text": "Insurance beneficiary change request: new beneficiary SSN 734-12-5678 designation effective immediately",
+    "sensitivity_score": 1.0
+  },
+  {
+    "text": "Please enter your bank routing number (9 digits) in the format: XXXXX[____]",
+    "sensitivity_score": 0.2
+  },
+  {
+    "text": "Vaccination documentation: Isaac Norton, DOB 05/11/1990, hepatitis B series complete, immunity confirmed, booster not needed.",
+    "sensitivity_score": 0.75
+  }
+]
