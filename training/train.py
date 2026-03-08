@@ -12,7 +12,7 @@ from transformers import (
     DataCollatorWithPadding
 )
 import numpy as np
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.metrics import mean_squared_error, r2_score, f1_score, precision_score, recall_score, accuracy_score
 
 @dataclass
 class TrainingConfig:
@@ -23,7 +23,7 @@ class TrainingConfig:
     test_file: str = "datasets/test.json"
     output_dir: str = "models/detector_v1"
     batch_size: int = 16
-    epochs: int = 3
+    epochs: int = 5
     learning_rate: float = 2e-5
     max_length: int = 512
     device: str = "cuda" if torch.cuda.is_available() else "cpu"
@@ -68,9 +68,35 @@ class DetectorModelManager:
         predictions, labels = eval_pred
         # Squeeze because regression output is (batch, 1)
         predictions = predictions.squeeze()
+        
+        # Regression metrics
         mse = mean_squared_error(labels, predictions)
         r2 = r2_score(labels, predictions)
-        return {"mse": mse, "r2": r2}
+        
+        # Classification metrics (using 0.5 threshold)
+        # Convert continuous labels/preds to binary
+        bin_labels = (labels >= 0.5).astype(int)
+        bin_preds = (predictions >= 0.5).astype(int)
+        
+        f1 = f1_score(bin_labels, bin_preds, zero_division=0)
+        precision = precision_score(bin_labels, bin_preds, zero_division=0)
+        recall = recall_score(bin_labels, bin_preds, zero_division=0)
+        accuracy = accuracy_score(bin_labels, bin_preds)
+        
+        # FP Rate calculation: FP / (FP + TN)
+        fps = np.sum((bin_preds == 1) & (bin_labels == 0))
+        tns = np.sum((bin_preds == 0) & (bin_labels == 0))
+        fp_rate = fps / (fps + tns) if (fps + tns) > 0 else 0
+        
+        return {
+            "mse": mse, 
+            "r2": r2,
+            "f1": f1,
+            "precision": precision,
+            "recall": recall,
+            "accuracy": accuracy,
+            "fp_rate": fp_rate
+        }
 
     def train(self, train_ds: Dataset, val_ds: Dataset):
         training_args = TrainingArguments(
