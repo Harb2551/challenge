@@ -15,20 +15,29 @@ def test_inference():
         model_path, num_labels=1
     ).to(device)
     model.eval()
+    # Force float32 to avoid bf16/fp16 NaN from precision
+    model = model.float()
 
-    # Trace where NaN appears: backbone vs head
+    # Trace where NaN first appears: embeddings -> backbone -> head
     one_text = "My password is admin123"
-    inputs = tokenizer(one_text, return_tensors="pt", truncation=True, padding=True).to(device)
+    inputs = tokenizer(one_text, return_tensors="pt", truncation=True, padding=True)
+    inputs = {k: v.to(device) if torch.is_tensor(v) else v for k, v in inputs.items()}
+    input_ids = inputs["input_ids"]
+    vocab_size = getattr(config, "vocab_size", None) or getattr(tokenizer, "vocab_size", 0)
+    ids_ok = (input_ids >= 0).all().item() and (input_ids < vocab_size).all().item()
+    print(f"[debug] input_ids in vocab [0, {vocab_size}): {ids_ok}")
     with torch.no_grad():
         base = getattr(model, "deberta", getattr(model, "roberta", model.base_model))
+        emb = base.get_input_embeddings()(input_ids)
+        emb_has_nan = torch.isnan(emb).any().item()
+        print(f"[debug] Embedding output has NaN: {emb_has_nan}")
         base_out = base(**inputs)
         hidden = base_out.last_hidden_state
         pooled = hidden[:, 0, :]
         backbone_has_nan = torch.isnan(pooled).any().item()
         head_module = getattr(model, "classifier", getattr(model, "score", None))
         if head_module is not None:
-            head_in = pooled
-            head_out = head_module(head_in)
+            head_out = head_module(pooled)
             head_has_nan = torch.isnan(head_out).any().item()
             print(f"[debug] Backbone (CLS) has NaN: {backbone_has_nan}, Head output has NaN: {head_has_nan}")
         else:
